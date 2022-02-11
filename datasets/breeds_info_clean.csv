@@ -1,0 +1,106 @@
+breed,classification,obey,reps_lower,reps_upper,height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs
+border collie,Brightest Dogs,0.95,1,4,19,21,40,40
+golden retriever,Brightest Dogs,0.95,1,4,21,24,55,75
+doberman pinscher,Brightest Dogs,0.95,1,4,26,28,60,100
+labrador retriever,Brightest Dogs,0.95,1,4,21,24,55,80
+papillon,Brightest Dogs,0.95,1,4,8,11,5,10
+rottweiler,Brightest Dogs,0.95,1,4,22,27,90,110
+australian cattle dog,Brightest Dogs,0.95,1,4,17,20,35,45
+english springer spaniel,Excellent Working Dogs,0.85,5,15,20,20,45,55
+schipperke,Excellent Working Dogs,0.85,5,15,10,13,12,18
+belgian sheepdog,Excellent Working Dogs,0.85,5,15,22,26,60,75
+keeshond,Excellent Working Dogs,0.85,5,15,17,19,35,50
+german shorthaired pointer,Excellent Working Dogs,0.85,5,15,20,27,50,80
+standard schnauzer,Excellent Working Dogs,0.85,5,15,17,19,33,33
+brittany,Excellent Working Dogs,0.85,5,15,17,21,30,40
+weimaraner,Excellent Working Dogs,0.85,5,15,25,27,70,85
+belgian malinois,Excellent Working Dogs,0.85,5,15,22,26,60,65
+bernese mountain dog,Excellent Working Dogs,0.85,5,15,23,27,85,110
+pomeranian,Excellent Working Dogs,0.85,5,15,12,12,3,7
+irish water spaniel,Excellent Working Dogs,0.85,5,15,10,23,45,65
+vizsla,Excellent Working Dogs,0.85,5,15,48,66,22,25
+cardigan welsh corgi,Excellent Working Dogs,0.85,5,15,10,12,25,35
+chesapeake bay retriever,Above Average Working Dogs,0.7,16,25,21,26,55,75
+puli,Above Average Working Dogs,0.7,16,25,16,17,29,33
+yorkshire terrier,Above Average Working Dogs,0.7,16,25,8,8,3,7
+giant schnauzer,Above Average Working Dogs,0.7,16,25,25,28,70,75
+portuguese water dog,Above Average Working Dogs,0.7,16,25,20,23,42,60
+border terrier,Above Average Working Dogs,0.7,16,25,12,15,12,15
+briard,Above Average Working Dogs,0.7,16,25,23,27,74,76
+welsh springer spaniel,Above Average Working Dogs,0.7,16,25,16,19,35,45
+samoyed,Above Average Working Dogs,0.7,16,25,19,24,50,65
+field spaniel,Above Average Working Dogs,0.7,16,25,18,18,35,50
+newfoundland,Above Average Working Dogs,0.7,16,25,26,28,100,150
+australian terrier,Above Average Working Dogs,0.7,16,25,10,10,10,14
+american staffordshire terrier,Above Average Working Dogs,0.7,16,25,17,19,40,50
+gordon setter,Above Average Working Dogs,0.7,16,25,23,27,45,80
+bearded collie,Above Average Working Dogs,0.7,16,25,20,22,40,60
+cairn terrier,Above Average Working Dogs,0.7,16,25,9,10,14,14
+kerry blue terrier,Above Average Working Dogs,0.7,16,25,17,21,30,45
+irish setter,Above Average Working Dogs,0.7,16,25,25,27,60,70
+norwegian elkhound,Above Average Working Dogs,0.7,16,25,19,20,40,60
+affenpinscher,Above Average Working Dogs,0.7,16,25,9,12,8,12
+english setter,Above Average Working Dogs,0.7,16,25,23,27,45,80
+pharaoh hound,Above Average Working Dogs,0.7,16,25,21,25,45,55
+clumber spaniel,Above Average Working Dogs,0.7,16,25,19,20,35,65
+dalmatian,Above Average Working Dogs,0.7,16,25,19,23,45,70
+bedlington terrier,Average Working/Obedience Intelligence,0.5,26,40,15,16,18,23
+curly coated retriever,Average Working/Obedience Intelligence,0.5,26,40,25,27,65,80
+irish wolfhound,Average Working/Obedience Intelligence,0.5,26,40,28,35,90,150
+kuvasz,Average Working/Obedience Intelligence,0.5,26,40,28,30,70,120
+australian shepherd,Average Working/Obedience Intelligence,0.5,26,40,18,23,40,60
+saluki,Average Working/Obedience Intelligence,0.5,26,40,23,28,35,70
+finnish spitz,Average Working/Obedience Intelligence,0.5,26,40,15,20,31,35
+pointer,Average Working/Obedience Intelligence,0.5,26,40,21,24,44,66
+cavalier king charles spaniel,Average Working/Obedience Intelligence,0.5,26,40,10,15,15,20
+german wirehaired pointer,Average Working/Obedience Intelligence,0.5,26,40,22,26,60,70
+american water spaniel,Average Working/Obedience Intelligence,0.5,26,40,15,18,25,45
+siberian husky,Average Working/Obedience Intelligence,0.5,26,40,20,23,40,60
+bichon frise,Average Working/Obedience Intelligence,0.5,26,40,9.5,11.5,10,18
+tibetan spaniel,Average Working/Obedience Intelligence,0.5,26,40,10,10,9,15
+english foxhound,Average Working/Obedience Intelligence,0.5,26,40,22,25,65,70
+american foxhound,Average Working/Obedience Intelligence,0.5,26,40,22,25,65,70
+greyhound,Average Working/Obedience Intelligence,0.5,26,40,27,30,60,70
+wirehaired pointing griffon,Average Working/Obedience Intelligence,0.5,26,40,20,24,45,60
+west highland white terrier,Average Working/Obedience Intelligence,0.5,26,40,11,11,13,15
+scottish deerhound,Average Working/Obedience Intelligence,0.5,26,40,28,32,75,110
+boxer,Average Working/Obedience Intelligence,0.5,26,40,21,25,65,70
+great dane,Average Working/Obedience Intelligence,0.5,26,40,32,32,120,160
+dachshund,Average Working/Obedience Intelligence,0.5,26,40,7,10,16,32
+shiba inu,Average Working/Obedience Intelligence,0.5,26,40,13,16,15,30
+staffordshire bull terrier,Average Working/Obedience Intelligence,0.5,26,40,14,16,24,28
+alaskan malamute,Average Working/Obedience Intelligence,0.5,26,40,na,na,na,na
+whippet,Average Working/Obedience Intelligence,0.5,26,40,18,22,27,30
+chinese shar pei,Average Working/Obedience Intelligence,0.5,26,40,18,20,45,55
+rhodesian ridgeback,Average Working/Obedience Intelligence,0.5,26,40,24,27,70,85
+ibizan hound,Average Working/Obedience Intelligence,0.5,26,40,22,29,42,55
+welsh terrier,Average Working/Obedience Intelligence,0.5,26,40,15,15,20,21
+irish terrier,Average Working/Obedience Intelligence,0.5,26,40,18,19,25,27
+boston terrier,Average Working/Obedience Intelligence,0.5,26,40,14,15,15,25
+akita,Average Working/Obedience Intelligence,0.5,26,40,26,28,80,120
+skye terrier,Fair Working/Obedience Intelligence,0.3,41,80,10,10,25,25
+sealyham terrier,Fair Working/Obedience Intelligence,0.3,41,80,12,12,18,20
+pug,Fair Working/Obedience Intelligence,0.3,41,80,10,11,14,22
+french bulldog,Fair Working/Obedience Intelligence,0.3,41,80,11,12,17,28
+maltese,Fair Working/Obedience Intelligence,0.3,41,80,8,10,4,6
+italian greyhound,Fair Working/Obedience Intelligence,0.3,41,80,12,15,6,10
+chinese crested,Fair Working/Obedience Intelligence,0.3,41,80,11,13,5,12
+dandie dinmont terrier,Fair Working/Obedience Intelligence,0.3,41,80,18,24,8,11
+tibetan terrier,Fair Working/Obedience Intelligence,0.3,41,80,14,17,20,30
+japanese chin,Fair Working/Obedience Intelligence,0.3,41,80,8,11,4,11
+lakeland terrier,Fair Working/Obedience Intelligence,0.3,41,80,13,14,15,17
+great pyrenees,Fair Working/Obedience Intelligence,0.3,41,80,27,32,95,120
+scottish terrier,Fair Working/Obedience Intelligence,0.3,41,80,10,12,18,22
+saint bernard,Fair Working/Obedience Intelligence,0.3,41,80,25,28,110,190
+bull terrier,Fair Working/Obedience Intelligence,0.3,41,80,21,22,50,70
+chihuahua,Fair Working/Obedience Intelligence,0.3,41,80,6,9,2,5
+bullmastiff,Fair Working/Obedience Intelligence,0.3,41,80,25,27,100,130
+shih tzu,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,8,11,9,16
+basset hound,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,14,14,40,50
+mastiff,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,27,30,175,190
+beagle,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,13,16,18,30
+bloodhound,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,24,26,80,120
+borzoi,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,26,28,70,100
+chow chow,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,19,22,45,55
+basenji,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,17,17,20,22
+afghan hound,Lowest Degree of Working/Obedience Intelligence ,0.1,81,100,25,27,50,60

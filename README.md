@@ -5,6 +5,9 @@ General Assembly DSI-R 1213
 ## Problem Statement:
 Identify at risk stray dogs using animal shelter data to increase adoption exposure via web portal.
 
+## Assignment / Instructions:
+[click here](https://git.generalassemb.ly/DSIR-1213/project-4-group/blob/master/README.md)
+
 ## Data Sources:
 [Dog Bites](https://github.com/gwoodstock/project4/blob/main/datasets/cleaned_data/bites.csv)
 - Dog bite incidents in New York City. [Original Source](https://data.world/city-of-ny/rsgh-akpg)

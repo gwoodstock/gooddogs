@@ -12,7 +12,7 @@ Australian Cattle Dog,Brightest Dogs,95%,1,4
 Pembroke Welsh Corgi,Excellent Working Dogs,85%,5,15
 Miniature Schnauzer,Excellent Working Dogs,85%,5,15
 English Springer Spaniel,Excellent Working Dogs,85%,5,15
-Belgian Shepherd Dog (Tervuren),Excellent Working Dogs,85%,5,15
+Belgian Tervuren,Excellent Working Dogs,85%,5,15
 Schipperke,Excellent Working Dogs,85%,5,15
 Belgian Sheepdog,Excellent Working Dogs,85%,5,15
 Collie,Excellent Working Dogs,85%,5,15
@@ -40,7 +40,8 @@ Bouvier des Flandres,Above Average Working Dogs,70%,16,25
 Border Terrier,Above Average Working Dogs,70%,16,25
 Briard,Above Average Working Dogs,70%,16,25
 Welsh Springer Spaniel,Above Average Working Dogs,70%,16,25
-Manchester Terrier,Above Average Working Dogs,70%,16,25
+Standard Manchester Terrier,Above Average Working Dogs,70%,16,25
+Toy Manchester Terrier,Above Average Working Dogs,70%,16,25
 Samoyed,Above Average Working Dogs,70%,16,25
 Field Spaniel,Above Average Working Dogs,70%,16,25
 Newfoundland,Above Average Working Dogs,70%,16,25
@@ -62,7 +63,8 @@ Norwich Terrier,Above Average Working Dogs,70%,16,25
 Dalmatian,Above Average Working Dogs,70%,16,25
 Soft-coated Wheaten Terrier,Average Working/Obedience Intelligence,50%,26,40
 Bedlington Terrier,Average Working/Obedience Intelligence,50%,26,40
-Fox Terrier (Smooth),Average Working/Obedience Intelligence,50%,26,40
+Fox Terrier,Average Working/Obedience Intelligence,50%,26,40
+Smooth Fox Terrier,Average Working/Obedience Intelligence,50%,26,40
 Curly Coated Retriever,Average Working/Obedience Intelligence,50%,26,40
 Irish Wolfhound,Average Working/Obedience Intelligence,50%,26,40
 Kuvasz,Average Working/Obedience Intelligence,50%,26,40
@@ -112,7 +114,7 @@ Maltese,Fair Working/Obedience Intelligence,30%,41,80
 Italian Greyhound,Fair Working/Obedience Intelligence,30%,41,80
 Chinese Crested,Fair Working/Obedience Intelligence,30%,41,80
 Dandie Dinmont Terrier,Fair Working/Obedience Intelligence,30%,41,80
-Petit Basset Griffon Vend̩en,Fair Working/Obedience Intelligence,30%,41,80
+Petit Basset Griffon Vendeen,Fair Working/Obedience Intelligence,30%,41,80
 Tibetan Terrier,Fair Working/Obedience Intelligence,30%,41,80
 Japanese Chin,Fair Working/Obedience Intelligence,30%,41,80
 Lakeland Terrier,Fair Working/Obedience Intelligence,30%,41,80

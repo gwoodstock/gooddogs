@@ -43,6 +43,9 @@ field spaniel,above average working dogs,0.7,16.0,25.0,18.0,18.0,35.0,50.0,1,fie
 newfoundland,above average working dogs,0.7,16.0,25.0,26.0,28.0,100.0,150.0,1,newfoundland,newfoundland
 australian terrier,above average working dogs,0.7,16.0,25.0,10.0,10.0,10.0,14.0,1,australian terrier,australian terrier
 american staffordshire terrier,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,american staffordshire terrier,american staffordshire terrier
+american pit bull terrier,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,american pit bull terrier,american pit bull terrier
+pit bull terrier,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,pit bull terrier,pit bull terrier
+pit bull,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,pit bull,pit bull
 gordon setter,above average working dogs,0.7,16.0,25.0,23.0,27.0,45.0,80.0,1,gordon setter,gordon setter
 bearded collie,above average working dogs,0.7,16.0,25.0,20.0,22.0,40.0,60.0,1,bearded collie,bearded collie
 cairn terrier,above average working dogs,0.7,16.0,25.0,9.0,10.0,14.0,14.0,1,cairn terrier,cairn terrier
@@ -140,14 +143,18 @@ airedale shepherd,,0.825,8.5,14.5,22.0,25.0,60.0,67.5,0,airedale terrier,german 
 akita basset,,0.3,53.5,70.0,20.0,21.0,60.0,85.0,0,akita,basset hound
 akita bernard,,0.4,33.5,60.0,25.5,28.0,95.0,155.0,0,akita,saint bernard
 akita chow,,0.3,53.5,70.0,22.5,25.0,62.5,87.5,0,akita,chow chow
+akita pit,,0.6,21.0,32.5,21.5,23.5,60.0,85.0,0,akita,pit bull terrier
 akita shepherd,,0.725,13.5,22.0,24.0,27.0,77.5,105.0,0,akita,german shepherd
 akitamatian,,0.6,21.0,32.5,22.5,25.5,62.5,95.0,0,akita,dalmatian
 alaskan goldenmute,,0.725,13.5,22.0,22.0,24.5,65.0,80.0,0,alaskan malamute,golden retriever
 alaskan malador,,0.725,13.5,22.0,22.0,24.5,65.0,82.5,0,alaskan malamute,labrador retriever
+alaskan pit bull,,0.6,21.0,32.5,20.0,22.0,57.5,67.5,0,alaskan malamute,pit bull terrier
 alusky,,0.5,26.0,40.0,21.5,24.0,57.5,72.5,0,alaskan malamute,siberian husky
+american boston bull terrier,,0.6,21.0,32.5,15.5,17.0,27.5,37.5,0,american pit bull terrier,boston terrier
 american boxer foxhound,,0.5,26.0,40.0,21.5,25.0,65.0,70.0,0,american foxhound,boxer
 american foxeagle,,0.3,53.5,70.0,17.5,20.5,41.5,50.0,0,american foxhound,beagle
 american foxy dane,,0.5,26.0,40.0,27.0,28.5,92.5,115.0,0,american foxhound,great dane
+american french bull terrier,,0.5,28.5,52.5,14.0,15.5,28.5,39.0,0,american pit bull terrier,french bulldog
 american lab foxhound,,0.725,13.5,22.0,21.5,24.5,60.0,75.0,0,american foxhound,labrador retriever
 american staffy bullmastiff,,0.5,28.5,52.5,21.0,23.0,70.0,90.0,0,american staffordshire terrier,bullmastiff
 ausky,,0.725,13.5,22.0,18.5,21.5,37.5,52.5,0,australian cattle dog,siberian husky
@@ -168,6 +175,7 @@ australian yorkshire terrier,,0.7,16.0,25.0,9.0,9.0,6.5,10.5,0,australian terrie
 bagle hound,,0.1,81.0,100.0,13.5,15.0,29.0,40.0,0,basset hound,beagle
 bascottie,,0.2,61.0,90.0,12.0,13.0,29.0,36.0,0,basset hound,scottish terrier
 baseagle,,0.1,81.0,100.0,15.0,16.5,19.0,26.0,0,basenji,beagle
+basenji pit,,0.39999999999999997,48.5,62.5,17.0,18.0,30.0,36.0,0,basenji,american pit bull terrier
 bassador,,0.525,41.0,52.0,17.5,19.0,47.5,65.0,0,basset hound,labrador retriever
 basschshund,,0.3,53.5,70.0,10.5,12.0,28.0,41.0,0,basset hound,dachshund
 basselier,,0.3,53.5,70.0,12.0,14.5,27.5,35.0,0,cavalier king charles spaniel,basset hound
@@ -184,6 +192,7 @@ beagleman,,0.525,41.0,52.0,19.5,22.0,39.0,65.0,0,beagle,doberman pinscher
 beaglemation,,0.39999999999999997,48.5,62.5,16.0,19.5,31.5,50.0,0,beagle,dalmatian
 beagle chin,,0.2,61.0,90.0,10.5,13.5,11.0,20.5,0,beagle,japanese chin
 beagle heeler,,0.525,41.0,52.0,15.0,18.0,26.5,37.5,0,beagle,australian cattle dog
+beagle pit,,0.39999999999999997,48.5,62.5,15.0,17.5,29.0,40.0,0,beagle,pit bull
 beagle point,,0.3,53.5,70.0,17.0,20.0,31.0,48.0,0,beagle,pointer
 beagle shepherd,,0.525,41.0,52.0,17.5,21.0,46.5,60.0,0,beagle,german shepherd
 beago,,0.525,41.0,52.0,17.0,20.0,36.5,52.5,0,beagle,golden retriever
@@ -216,6 +225,7 @@ border collie bernard,,0.625,21.0,42.0,22.0,24.5,75.0,115.0,0,border collie,sain
 border collie bull staffy,,0.725,13.5,22.0,16.5,18.5,32.0,34.0,0,border collie,staffordshire bull terrier
 border collie cocker,,0.8999999999999999,3.0,9.5,17.0,18.5,31.0,34.0,0,border collie,cocker spaniel
 border collie lakeland,,0.625,21.0,42.0,16.0,17.5,27.5,28.5,0,border collie,lakeland terrier
+border collie pit,,0.825,8.5,14.5,18.0,20.0,40.0,45.0,0,border collie,pit bull terrier
 border collie pyrenees,,0.625,21.0,42.0,23.0,26.5,67.5,80.0,0,border collie,great pyrenees
 border malamute collie,,0.725,13.5,22.0,21.0,23.0,57.5,62.5,0,border collie,alaskan malamute
 border malamute terrier,,0.6,21.0,32.5,17.5,20.0,43.5,50.0,0,border terrier,alaskan malamute
@@ -273,6 +283,7 @@ bull greyhound terrier,,0.4,33.5,60.0,24.0,26.0,55.0,70.0,0,greyhound,bull terri
 bull heeler terrier,,0.625,21.0,42.0,19.0,21.0,42.5,57.5,0,bull terrier,australian cattle dog
 bull mastweiler,,0.625,21.0,42.0,23.5,27.0,95.0,120.0,0,bullmastiff,rottweiler
 bullbasset mastiff,,0.2,61.0,90.0,19.5,20.5,70.0,90.0,0,bullmastiff,basset hound
+bullboxer pit,,0.6,21.0,32.5,19.0,22.0,52.5,60.0,0,boxer,american pit bull terrier
 bullboxer staff,,0.6,21.0,32.5,19.0,22.0,52.5,60.0,0,boxer,american staffordshire terrier
 bullboxer staffy bull,,0.5,26.0,40.0,17.5,20.5,44.5,49.0,0,boxer,staffordshire bull terrier
 bullhuahua,,0.2,61.0,90.0,9.0,12.5,26.0,32.5,0,bulldog,chihuahua
@@ -325,10 +336,12 @@ chineranian,,0.575,23.0,47.5,10.0,11.5,3.5,9.0,0,japanese chin,pomeranian
 chinese crestese,,0.3,41.0,80.0,9.5,11.5,4.5,9.0,0,chinese crested,maltese
 chinese frise,,0.4,33.5,60.0,10.25,12.25,7.5,15.0,0,bichon frise,chinese crested
 chion,,0.625,21.0,42.0,7.0,10.0,3.5,7.5,0,chihuahua,papillon
+chipit,,0.5,28.5,52.5,11.5,14.0,21.0,27.5,0,chihuahua,american pit bull terrier
 chisenji,,0.2,61.0,90.0,11.5,13.0,11.0,13.5,0,chihuahua,basenji
 chiweenie,,0.4,33.5,60.0,6.5,9.5,9.0,18.5,0,chihuahua,dachshund
 chorkie,,0.5,28.5,52.5,7.0,8.5,2.5,6.0,0,chihuahua,yorkshire terrier
 chow hound basset,,0.1,81.0,100.0,16.5,18.0,42.5,52.5,0,chow chow,basset hound
+chowpit,,0.39999999999999997,48.5,62.5,18.0,20.5,42.5,52.5,0,chow chow,american pit bull terrier
 chug,,0.3,41.0,80.0,8.0,10.0,8.0,13.5,0,chihuahua,pug
 chusky,,0.3,53.5,70.0,19.5,22.5,42.5,57.5,0,chow chow,siberian husky
 chuvasz,,0.3,53.5,70.0,23.5,26.0,57.5,87.5,0,chow chow,kuvasz
@@ -371,6 +384,7 @@ doberdor,,0.95,1.0,4.0,23.5,26.0,57.5,90.0,0,doberman pinscher,labrador retrieve
 doberghan,,0.525,41.0,52.0,25.5,27.5,55.0,80.0,0,doberman pinscher,afghan hound
 doberman bulldog,,0.525,41.0,52.0,19.0,22.0,55.0,80.0,0,doberman pinscher,bulldog
 doberman collie,,0.8999999999999999,3.0,9.5,24.0,27.0,55.0,87.5,0,doberman pinscher,collie
+doberman pit,,0.825,8.5,14.5,21.5,23.5,50.0,75.0,0,doberman pinscher,american pit bull terrier
 doberman shepherd,,0.95,1.0,4.0,24.0,27.0,67.5,95.0,0,doberman pinscher,german shepherd
 dobie-basset,,0.525,41.0,52.0,20.0,21.0,50.0,75.0,0,doberman pinscher,basset hound
 dobie foxhound,,0.725,13.5,22.0,24.0,26.5,62.5,85.0,0,doberman pinscher,american foxhound
@@ -387,6 +401,7 @@ doxie-chin,,0.4,33.5,60.0,7.5,10.5,10.0,21.5,0,dachshund,japanese chin
 doxie-chon,,0.5,26.0,40.0,8.25,10.75,13.0,25.0,0,bichon frise,dachshund
 doxie heeler,,0.725,13.5,22.0,12.0,15.0,25.5,38.5,0,australian cattle dog,dachshund
 doxie scot,,0.4,33.5,60.0,8.5,11.0,17.0,27.0,0,dachshund,scottish terrier
+doxie-pit,,0.6,21.0,32.5,12.0,14.5,28.0,41.0,0,dachshund,american pit bull terrier
 doxle,,0.3,53.5,70.0,10.0,13.0,17.0,31.0,0,beagle,dachshund
 dusky,,0.5,26.0,40.0,13.5,16.5,28.0,46.0,0,dachshund,siberian husky
 elk-a-bee,,0.39999999999999997,48.5,62.5,16.0,18.0,29.0,45.0,0,norwegian elkhound,beagle
@@ -395,6 +410,7 @@ elk-kee,,0.7749999999999999,10.5,20.0,18.0,19.5,37.5,55.0,0,keeshond,norwegian e
 english borsetter collie,,0.825,8.5,14.5,21.0,24.0,42.5,60.0,0,border collie,english setter
 english boxetter,,0.6,21.0,32.5,22.0,26.0,55.0,75.0,0,english setter,boxer
 english bull springer,,0.475,43.0,57.5,16.0,18.0,47.5,57.5,0,bulldog,english springer spaniel
+english bull terrier pit,,0.5,28.5,52.5,19.0,20.5,45.0,60.0,0,bull terrier,pit bull terrier
 english bullamute,,0.3,53.5,70.0,17.5,20.5,62.5,72.5,0,bulldog,alaskan malamute
 english cocker chow,,0.475,43.0,57.5,17.0,19.5,35.0,45.0,0,english cocker spaniel,chow chow
 english mastweiler,,0.525,41.0,52.0,24.5,28.5,132.5,150.0,0,mastiff,rottweiler
@@ -471,6 +487,7 @@ goldmation,,0.825,8.5,14.5,20.0,23.5,50.0,72.5,0,golden retriever,dalmatian
 gollie,,0.8999999999999999,3.0,9.5,21.5,25.0,52.5,75.0,0,golden retriever,collie
 gordon chesabay,,0.7,16.0,25.0,22.0,26.5,50.0,77.5,0,gordon setter,chesapeake bay retriever
 great bernese,,0.575,23.0,47.5,25.0,29.5,90.0,115.0,0,bernese mountain dog,great pyrenees
+great danebull,,0.6,21.0,32.5,24.5,25.5,80.0,105.0,0,american pit bull terrier,great dane
 great danesky,,0.5,26.0,40.0,26.0,27.5,80.0,110.0,0,great dane,siberian husky
 great dasenji,,0.3,53.5,70.0,24.5,24.5,70.0,91.0,0,great dane,basenji
 great golden dane,,0.725,13.5,22.0,26.5,28.0,87.5,117.5,0,golden retriever,great dane
@@ -480,6 +497,7 @@ great weimar,,0.675,15.5,27.5,28.5,29.5,95.0,122.5,0,great dane,weimaraner
 great wirehaired gryfenees,,0.4,33.5,60.0,23.5,28.0,70.0,90.0,0,wirehaired pointing griffon,great pyrenees
 great wolfhound,,0.4,33.5,60.0,27.5,33.5,92.5,135.0,0,great pyrenees,irish wolfhound
 greyador,,0.725,13.5,22.0,24.0,27.0,57.5,75.0,0,greyhound,labrador retriever
+greybull pit,,0.6,21.0,32.5,22.0,24.5,50.0,60.0,0,american pit bull terrier,greyhound
 greyhound shepherd,,0.725,13.5,22.0,24.5,28.0,67.5,80.0,0,greyhound,german shepherd
 hug,,0.4,33.5,60.0,15.0,17.0,27.0,41.0,0,siberian husky,pug
 hush basset,,0.475,43.0,57.5,14.5,15.0,31.0,39.0,0,basset hound,cocker spaniel
@@ -569,7 +587,10 @@ papi-inu,,0.725,13.5,22.0,10.5,13.5,10.0,20.0,0,papillon,shiba inu
 papitese,,0.625,21.0,42.0,8.0,10.5,4.5,8.0,0,maltese,papillon
 papshund,,0.725,13.5,22.0,7.5,10.5,10.5,21.0,0,dachshund,papillon
 pharaoh lab,,0.825,8.5,14.5,21.0,24.5,50.0,67.5,0,pharaoh hound,labrador retriever
+pit bullmastiff,,0.5,28.5,52.5,21.0,23.0,70.0,90.0,0,american pit bull terrier,bullmastiff
+pitweiler,,0.825,8.5,14.5,19.5,23.0,65.0,80.0,0,american pit bull terrier,rottweiler
 pointer bay,,0.7749999999999999,10.5,20.0,20.5,26.5,52.5,77.5,0,german shorthaired pointer,chesapeake bay retriever
+pointer pit,,0.6,21.0,32.5,19.0,21.5,42.0,58.0,0,american pit bull terrier,pointer
 pointollie,,0.675,15.5,27.5,21.5,25.0,47.0,70.5,0,pointer,collie
 pom-kee,,0.85,5.0,15.0,14.5,15.5,19.0,28.5,0,pomeranian,keeshond
 pom-a-pug,,0.575,23.0,47.5,11.0,11.5,8.5,14.5,0,pomeranian,pug
@@ -578,6 +599,7 @@ pomchi,,0.575,23.0,47.5,9.0,10.5,2.5,6.0,0,pomeranian,chihuahua
 pomeagle,,0.475,43.0,57.5,12.5,14.0,10.5,18.5,0,beagle,pomeranian
 pomston,,0.675,15.5,27.5,13.0,13.5,9.0,16.0,0,boston terrier,pomeranian
 powderpap,,0.625,21.0,42.0,9.5,12.0,5.0,11.0,0,papillon,chinese crested
+pug pit,,0.5,28.5,52.5,13.5,15.0,27.0,36.0,0,pug,pit bull terrier
 pug shiba,,0.4,33.5,60.0,11.5,13.5,14.5,26.0,0,pug,shiba inu
 pug-zu,,0.2,61.0,90.0,9.0,11.0,11.5,19.0,0,pug,shih tzu
 pugador,,0.625,21.0,42.0,15.5,17.5,34.5,51.0,0,pug,labrador retriever
@@ -592,12 +614,14 @@ pugmatian,,0.5,28.5,52.5,14.5,17.0,29.5,46.0,0,pug,dalmatian
 pugshire,,0.5,28.5,52.5,9.0,9.5,8.5,14.5,0,pug,yorkshire terrier
 pushon,,0.4,33.5,60.0,9.75,11.25,12.0,20.0,0,pug,bichon frise
 pyrenees husky,,0.4,33.5,60.0,23.5,27.5,67.5,90.0,0,great pyrenees,siberian husky
+pyrenees pit,,0.5,28.5,52.5,22.0,25.5,67.5,85.0,0,great pyrenees,american pit bull terrier
 pyrador,,0.625,21.0,42.0,24.0,28.0,75.0,100.0,0,great pyrenees,labrador retriever
 reagle,,0.525,41.0,52.0,17.5,21.5,54.0,70.0,0,rottweiler,beagle
 rhodesian beagle,,0.3,53.5,70.0,18.5,21.5,44.0,57.5,0,rhodesian ridgeback,beagle
 rhodesian bernard,,0.4,33.5,60.0,24.5,27.5,90.0,137.5,0,rhodesian ridgeback,saint bernard
 rhodesian boxer,,0.5,26.0,40.0,22.5,26.0,67.5,77.5,0,rhodesian ridgeback,boxer
 rhodesian labrador,,0.725,13.5,22.0,22.5,25.5,62.5,82.5,0,rhodesian ridgeback,labrador retriever
+rhodesian pit,,0.6,21.0,32.5,20.5,23.0,55.0,67.5,0,rhodesian ridgeback,pit bull terrier
 rhodesian rottie,,0.725,13.5,22.0,23.0,27.0,80.0,97.5,0,rhodesian ridgeback,rottweiler
 rhodesian shepherd,,0.725,13.5,22.0,23.0,26.5,72.5,87.5,0,rhodesian ridgeback,german shepherd
 rhodesian whippet,,0.5,26.0,40.0,21.0,24.5,48.5,57.5,0,rhodesian ridgeback,whippet
@@ -644,6 +668,7 @@ scottish staffish bull terrier,,0.4,33.5,60.0,12.0,14.0,21.0,25.0,0,scottish ter
 sealydale terrier,,0.5,28.5,52.5,17.0,18.0,31.5,32.5,0,sealyham terrier,airedale terrier
 shairn-inu,,0.6,21.0,32.5,11.0,13.0,14.5,22.0,0,cairn terrier,shiba inu
 sharp eagle,,0.3,53.5,70.0,15.5,18.0,31.5,42.5,0,beagle,chinese shar pei
+shepherd pit,,0.825,8.5,14.5,19.5,22.5,57.5,70.0,0,german shepherd,american pit bull terrier
 shepherd tzu,,0.525,41.0,52.0,15.0,18.5,42.0,53.0,0,german shepherd,shih tzu
 shepnees,,0.625,21.0,42.0,24.5,29.0,85.0,105.0,0,german shepherd,great pyrenees
 sheprador,,0.725,13.5,22.0,19.5,23.5,47.5,70.0,0,australian shepherd,labrador retriever
@@ -689,6 +714,7 @@ spantriever,,0.8999999999999999,3.0,9.5,18.0,20.5,40.0,57.5,0,english cocker spa
 spreagle,,0.475,43.0,57.5,16.5,18.0,31.5,42.5,0,english springer spaniel,beagle
 springer basset,,0.475,43.0,57.5,17.0,17.0,42.5,52.5,0,english springer spaniel,basset hound
 springer husky,,0.675,15.5,27.5,20.0,21.5,42.5,57.5,0,english springer spaniel,siberian husky
+springer pit,,0.7749999999999999,10.5,20.0,18.5,19.5,42.5,52.5,0,english springer spaniel,american pit bull terrier
 springer rottie,,0.8999999999999999,3.0,9.5,21.0,23.5,67.5,82.5,0,english springer spaniel,rottweiler
 springer spaniel sheepdog,,0.575,23.0,47.5,20.0,22.0,52.5,60.0,0,english springer spaniel,old english sheepdog
 sprocker spaniel,,0.85,5.0,15.0,17.5,18.0,33.5,41.5,0,english springer spaniel,cocker spaniel
@@ -697,9 +723,11 @@ staffy bull bullmastiff,,0.4,33.5,60.0,19.5,21.5,62.0,79.0,0,staffordshire bull 
 staffweiler,,0.825,8.5,14.5,19.5,23.0,65.0,80.0,0,american staffordshire terrier,rottweiler
 st. weiler,,0.625,21.0,42.0,23.5,27.5,100.0,150.0,0,rottweiler,saint bernard
 staffie bullweiler,,0.725,13.5,22.0,18.0,21.5,57.0,69.0,0,staffordshire bull terrier,rottweiler
+staffy bull pit,,0.6,21.0,32.5,15.5,17.5,32.0,39.0,0,staffordshire bull terrier,pit bull terrier
 staffy bull pug,,0.4,33.5,60.0,12.0,13.5,19.0,25.0,0,staffordshire bull terrier,pug
 staffy bull wolfhound,,0.5,26.0,40.0,21.0,25.5,57.0,89.0,0,staffordshire bull terrier,irish wolfhound
 staffy heeler,,0.825,8.5,14.5,17.0,19.5,37.5,47.5,0,american staffordshire terrier,australian cattle dog
+staffy pit,,0.7,16.0,25.0,17.0,19.0,40.0,50.0,0,american staffordshire terrier,pit bull terrier
 standard auss-tzu,,0.3,53.5,70.0,13.0,17.0,24.5,38.0,0,australian shepherd,shih tzu
 standard border schnollie,,0.8999999999999999,3.0,9.5,18.0,20.0,36.5,36.5,0,border collie,standard schnauzer
 standard irish wolf schnauzer,,0.675,15.5,27.5,22.5,27.0,61.5,91.5,0,standard schnauzer,irish wolfhound
@@ -750,4 +778,5 @@ austi-pap,,0.725,13.5,22.0,13.0,17.0,22.5,35.0,0,australian shepherd,papillon
 beagi,,0.475,43.0,57.5,11.5,14.0,21.5,32.5,0,beagle,cardigan welsh corgi
 cotralian,,0.675,15.5,27.5,16.5,19.5,31.0,44.0,0,cocker spaniel,australian shepherd
 english cotralian,,0.675,15.5,27.5,16.5,20.0,32.5,47.5,0,english cocker spaniel,australian shepherd
+old anglican bulldogge,,0.39999999999999997,48.5,62.5,14.5,17.5,45.0,55.0,0,american pit bull terrier,bulldog
 old anglican bulldogge,,0.39999999999999997,48.5,62.5,14.5,17.5,45.0,55.0,0,american staffordshire terrier,bulldog

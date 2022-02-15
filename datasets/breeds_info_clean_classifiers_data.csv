@@ -1,0 +1,169 @@
+classification,obey,reps_lower,reps_upper,height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs
+average working/obedience intelligence,,,,27.0,29.0,100.0,150.0
+average working/obedience intelligence,,,,23.0,28.0,130.0,150.0
+average working/obedience intelligence,,,,24.0,30.0,100.0,150.0
+average working/obedience intelligence,,,,24.0,27.0,100.0,120.0
+average working/obedience intelligence,,,,25.0,29.0,80.0,140.0
+average working/obedience intelligence,,,,26.5,35.5,80.0,135.0
+average working/obedience intelligence,,,,15.0,25.0,45.0,45.0
+average working/obedience intelligence,,,,23.0,28.0,65.0,80.0
+fair working/obedience intelligence,,,,24.0,26.0,140.0,170.0
+above average working dogs,,,,19.0,24.0,35.0,55.0
+above average working dogs,,,,19.0,21.0,40.0,60.0
+above average working dogs,,,,17.0,21.0,35.0,50.0
+above average working dogs,,,,20.0,24.0,45.0,55.0
+average working/obedience intelligence,,,,16.0,20.0,30.0,35.0
+average working/obedience intelligence,,,,21.0,27.0,50.0,70.0
+above average working dogs,,,,15.0,16.0,40.0,45.0
+average working/obedience intelligence,,,,9.0,19.0,25.0,30.0
+fair working/obedience intelligence,,,,7.0,8.0,6.0,12.0
+fair working/obedience intelligence,,,,10.0,10.0,9.0,15.0
+average working/obedience intelligence,,,,13.0,16.0,15.0,20.0
+average working/obedience intelligence,,,,16.0,19.0,25.0,35.0
+average working/obedience intelligence,,,,14.0,14.0,34.0,36.0
+average working/obedience intelligence,,,,10.0,15.0,20.0,20.0
+average working/obedience intelligence,,,,13.0,16.0,14.0,20.0
+fair working/obedience intelligence,,,,9.0,10.0,8.0,11.0
+fair working/obedience intelligence,,,,10.0,10.0,10.0,10.0
+average working/obedience intelligence,,,,10.0,10.0,4.0,7.0
+brightest dogs,0.95,1.0,4.0,19.0,21.0,40.0,40.0
+brightest dogs,0.95,1.0,4.0,,,,
+brightest dogs,0.95,1.0,4.0,22.0,26.0,75.0,90.0
+brightest dogs,0.95,1.0,4.0,21.0,24.0,55.0,75.0
+brightest dogs,0.95,1.0,4.0,26.0,28.0,60.0,100.0
+brightest dogs,0.95,1.0,4.0,,,,
+brightest dogs,0.95,1.0,4.0,21.0,24.0,55.0,80.0
+brightest dogs,0.95,1.0,4.0,8.0,11.0,5.0,10.0
+brightest dogs,0.95,1.0,4.0,22.0,27.0,90.0,110.0
+brightest dogs,0.95,1.0,4.0,17.0,20.0,35.0,45.0
+excellent working dogs,0.85,5.0,15.0,,,,
+excellent working dogs,0.85,5.0,15.0,,,,
+excellent working dogs,0.85,5.0,15.0,20.0,20.0,45.0,55.0
+excellent working dogs,0.85,5.0,15.0,22.0,26.0,60.0,75.0
+excellent working dogs,0.85,5.0,15.0,10.0,13.0,12.0,18.0
+excellent working dogs,0.85,5.0,15.0,22.0,26.0,60.0,75.0
+excellent working dogs,0.85,5.0,15.0,22.0,26.0,50.0,75.0
+excellent working dogs,0.85,5.0,15.0,17.0,19.0,35.0,50.0
+excellent working dogs,0.85,5.0,15.0,20.0,27.0,50.0,80.0
+excellent working dogs,0.85,5.0,15.0,22.0,23.0,60.0,70.0
+excellent working dogs,0.85,5.0,15.0,15.0,17.0,25.0,35.0
+excellent working dogs,0.85,5.0,15.0,17.0,19.0,33.0,33.0
+excellent working dogs,0.85,5.0,15.0,17.0,21.0,30.0,40.0
+excellent working dogs,0.85,5.0,15.0,15.0,16.0,22.0,28.0
+excellent working dogs,0.85,5.0,15.0,25.0,27.0,70.0,85.0
+excellent working dogs,0.85,5.0,15.0,22.0,26.0,60.0,65.0
+excellent working dogs,0.85,5.0,15.0,23.0,27.0,85.0,110.0
+excellent working dogs,0.85,5.0,15.0,12.0,12.0,3.0,7.0
+excellent working dogs,0.85,5.0,15.0,10.0,23.0,45.0,65.0
+excellent working dogs,0.85,5.0,15.0,48.0,66.0,22.0,25.0
+excellent working dogs,0.85,5.0,15.0,10.0,12.0,25.0,35.0
+above average working dogs,0.7,16.0,25.0,21.0,26.0,55.0,75.0
+above average working dogs,0.7,16.0,25.0,16.0,17.0,29.0,33.0
+above average working dogs,0.7,16.0,25.0,8.0,8.0,3.0,7.0
+above average working dogs,0.7,16.0,25.0,25.0,28.0,70.0,75.0
+above average working dogs,0.7,16.0,25.0,20.0,23.0,42.0,60.0
+above average working dogs,0.7,16.0,25.0,22.0,24.0,45.0,45.0
+above average working dogs,0.7,16.0,25.0,23.0,27.0,75.0,95.0
+above average working dogs,0.7,16.0,25.0,12.0,15.0,12.0,15.0
+above average working dogs,0.7,16.0,25.0,23.0,27.0,74.0,76.0
+above average working dogs,0.7,16.0,25.0,16.0,19.0,35.0,45.0
+above average working dogs,0.7,16.0,25.0,15.0,16.0,17.0,18.0
+above average working dogs,0.7,16.0,25.0,10.0,12.0,6.0,8.0
+above average working dogs,0.7,16.0,25.0,19.0,24.0,50.0,65.0
+above average working dogs,0.7,16.0,25.0,18.0,18.0,35.0,50.0
+above average working dogs,0.7,16.0,25.0,26.0,28.0,100.0,150.0
+above average working dogs,0.7,16.0,25.0,10.0,10.0,10.0,14.0
+above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0
+above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0
+above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0
+above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0
+above average working dogs,0.7,16.0,25.0,23.0,27.0,45.0,80.0
+above average working dogs,0.7,16.0,25.0,20.0,22.0,40.0,60.0
+above average working dogs,0.7,16.0,25.0,9.0,10.0,14.0,14.0
+above average working dogs,0.7,16.0,25.0,17.0,21.0,30.0,45.0
+above average working dogs,0.7,16.0,25.0,25.0,27.0,60.0,70.0
+above average working dogs,0.7,16.0,25.0,19.0,20.0,40.0,60.0
+above average working dogs,0.7,16.0,25.0,9.0,12.0,8.0,12.0
+above average working dogs,0.7,16.0,25.0,,,,
+above average working dogs,0.7,16.0,25.0,,,,
+above average working dogs,0.7,16.0,25.0,23.0,27.0,45.0,80.0
+above average working dogs,0.7,16.0,25.0,21.0,25.0,45.0,55.0
+above average working dogs,0.7,16.0,25.0,19.0,20.0,35.0,65.0
+above average working dogs,0.7,16.0,25.0,,,,
+above average working dogs,0.7,16.0,25.0,19.0,23.0,45.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,18.0,20.0,35.0,45.0
+average working/obedience intelligence,0.5,26.0,40.0,15.0,16.0,18.0,23.0
+average working/obedience intelligence,0.5,26.0,40.0,13.0,16.0,15.0,20.0
+average working/obedience intelligence,0.5,26.0,40.0,13.0,16.0,15.0,20.0
+average working/obedience intelligence,0.5,26.0,40.0,25.0,27.0,65.0,80.0
+average working/obedience intelligence,0.5,26.0,40.0,28.0,35.0,90.0,150.0
+average working/obedience intelligence,0.5,26.0,40.0,28.0,30.0,70.0,120.0
+average working/obedience intelligence,0.5,26.0,40.0,18.0,23.0,40.0,60.0
+average working/obedience intelligence,0.5,26.0,40.0,23.0,28.0,35.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,15.0,20.0,31.0,35.0
+average working/obedience intelligence,0.5,26.0,40.0,21.0,24.0,44.0,66.0
+average working/obedience intelligence,0.5,26.0,40.0,10.0,15.0,15.0,20.0
+average working/obedience intelligence,0.5,26.0,40.0,22.0,26.0,60.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,23.0,27.0,50.0,75.0
+average working/obedience intelligence,0.5,26.0,40.0,15.0,18.0,25.0,45.0
+average working/obedience intelligence,0.5,26.0,40.0,20.0,23.0,40.0,60.0
+average working/obedience intelligence,0.5,26.0,40.0,9.5,11.5,10.0,18.0
+average working/obedience intelligence,0.5,26.0,40.0,,,,
+average working/obedience intelligence,0.5,26.0,40.0,10.0,10.0,9.0,15.0
+average working/obedience intelligence,0.5,26.0,40.0,22.0,25.0,65.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,24.0,26.0,65.0,110.0
+average working/obedience intelligence,0.5,26.0,40.0,,,,
+average working/obedience intelligence,0.5,26.0,40.0,22.0,25.0,65.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,27.0,30.0,60.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,20.0,24.0,45.0,60.0
+average working/obedience intelligence,0.5,26.0,40.0,11.0,11.0,13.0,15.0
+average working/obedience intelligence,0.5,26.0,40.0,,,,
+average working/obedience intelligence,0.5,26.0,40.0,28.0,32.0,75.0,110.0
+average working/obedience intelligence,0.5,26.0,40.0,21.0,25.0,65.0,70.0
+average working/obedience intelligence,0.5,26.0,40.0,32.0,32.0,120.0,160.0
+average working/obedience intelligence,0.5,26.0,40.0,7.0,10.0,16.0,32.0
+average working/obedience intelligence,0.5,26.0,40.0,13.0,16.0,15.0,30.0
+average working/obedience intelligence,0.5,26.0,40.0,14.0,16.0,24.0,28.0
+average working/obedience intelligence,0.5,26.0,40.0,23.0,25.0,75.0,85.0
+average working/obedience intelligence,0.5,26.0,40.0,18.0,22.0,27.0,30.0
+average working/obedience intelligence,0.5,26.0,40.0,18.0,20.0,45.0,55.0
+average working/obedience intelligence,0.5,26.0,40.0,,,,
+average working/obedience intelligence,0.5,26.0,40.0,24.0,27.0,70.0,85.0
+average working/obedience intelligence,0.5,26.0,40.0,22.0,29.0,42.0,55.0
+average working/obedience intelligence,0.5,26.0,40.0,15.0,15.0,20.0,21.0
+average working/obedience intelligence,0.5,26.0,40.0,18.0,19.0,25.0,27.0
+average working/obedience intelligence,0.5,26.0,40.0,14.0,15.0,15.0,25.0
+average working/obedience intelligence,0.5,26.0,40.0,26.0,28.0,80.0,120.0
+fair working/obedience intelligence,0.3,41.0,80.0,10.0,10.0,25.0,25.0
+fair working/obedience intelligence,0.3,41.0,80.0,,,,
+fair working/obedience intelligence,0.3,41.0,80.0,12.0,12.0,18.0,20.0
+fair working/obedience intelligence,0.3,41.0,80.0,10.0,11.0,14.0,22.0
+fair working/obedience intelligence,0.3,41.0,80.0,11.0,12.0,17.0,28.0
+fair working/obedience intelligence,0.3,41.0,80.0,,,,
+fair working/obedience intelligence,0.3,41.0,80.0,8.0,10.0,4.0,6.0
+fair working/obedience intelligence,0.3,41.0,80.0,12.0,15.0,6.0,10.0
+fair working/obedience intelligence,0.3,41.0,80.0,11.0,13.0,5.0,12.0
+fair working/obedience intelligence,0.3,41.0,80.0,18.0,24.0,8.0,11.0
+fair working/obedience intelligence,0.3,41.0,80.0,13.0,15.0,30.0,40.0
+fair working/obedience intelligence,0.3,41.0,80.0,14.0,17.0,20.0,30.0
+fair working/obedience intelligence,0.3,41.0,80.0,8.0,11.0,4.0,11.0
+fair working/obedience intelligence,0.3,41.0,80.0,13.0,14.0,15.0,17.0
+fair working/obedience intelligence,0.3,41.0,80.0,20.0,24.0,60.0,65.0
+fair working/obedience intelligence,0.3,41.0,80.0,27.0,32.0,95.0,120.0
+fair working/obedience intelligence,0.3,41.0,80.0,10.0,12.0,18.0,22.0
+fair working/obedience intelligence,0.3,41.0,80.0,25.0,28.0,110.0,190.0
+fair working/obedience intelligence,0.3,41.0,80.0,21.0,22.0,50.0,70.0
+fair working/obedience intelligence,0.3,41.0,80.0,6.0,9.0,2.0,5.0
+fair working/obedience intelligence,0.3,41.0,80.0,,,,
+fair working/obedience intelligence,0.3,41.0,80.0,25.0,27.0,100.0,130.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,8.0,11.0,9.0,16.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,14.0,14.0,40.0,50.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,27.0,30.0,175.0,190.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,13.0,16.0,18.0,30.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,,,,
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,24.0,26.0,80.0,120.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,26.0,28.0,70.0,100.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,19.0,22.0,45.0,55.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,12.0,16.0,50.0,60.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,17.0,17.0,20.0,22.0
+lowest degree of working/obedience intelligence ,0.1,81.0,100.0,25.0,27.0,50.0,60.0

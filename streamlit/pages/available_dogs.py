@@ -54,11 +54,10 @@ def app():
                         else:
                             st.image(
                                 image='https://cdn.pixabay.com/photo/2016/04/03/21/54/dog-1305702_960_720.png',
-                                width=300,
-                                caption='Photo Not Available'
-                            )
+                                caption='Photo Not Available',
+                                width=300
+                                )
 
-                        # - 'Animal Profile' description from petfinder
                         # - link to petfinder
                         url = dogs.iloc[i]['url']
                         st.write("[Learn More on Petfinder!](%s)" % url) 

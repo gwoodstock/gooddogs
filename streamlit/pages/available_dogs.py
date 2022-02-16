@@ -1,3 +1,4 @@
+from turtle import color
 import streamlit as st
 
 
@@ -5,6 +6,11 @@ def app():
 
     # page header
     st.header('Insert header for page here') 
+
+    st.sidebar.image(
+        'https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9nfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=800&q=60',
+        use_column_width=True
+        )
 
     # imports 
     import petpy
@@ -60,7 +66,7 @@ def app():
 
                         # - link to petfinder
                         url = dogs.iloc[i]['url']
-                        st.write("[Learn More on Petfinder!](%s)" % url) 
+                        st.write("[Learn More on Petfinder!](%s)" % url, color='white') 
                 except:
                     pass
 

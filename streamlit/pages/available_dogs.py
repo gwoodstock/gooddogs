@@ -49,7 +49,14 @@ def app():
                         st.subheader(dogs.iloc[i]['name'])
 
                         # - photo
-                        st.image(dogs.iloc[i]['photos'][0]['medium'])
+                        if dogs.iloc[i]['photos'] != []:
+                            st.image(dogs.iloc[i]['photos'][0]['medium'])
+                        else:
+                            st.image(
+                                image='https://cdn.pixabay.com/photo/2016/04/03/21/54/dog-1305702_960_720.png',
+                                width=300,
+                                caption='Photo Not Available'
+                            )
 
                         # - 'Animal Profile' description from petfinder
                         # - link to petfinder

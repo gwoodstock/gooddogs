@@ -9,7 +9,7 @@ def predict_dog(input_features, trained_classifer, transformer):
     :param input_features: 2D numpy array containing dog age (as class, not numeric), breed, and condition. Formatted in .lower()
     :param trained_classifer: sklearn estimator class
     :param transformer: sklearn one hote encoder transformer
-    :return: numpy array of string dtype (the model's prediction)
+    :return: numpy array of model prediction as float
 
     example input: np.array([['senior', 'dachshund', 'aged'], ['adult', 'dachshund', 'normal'], ['baby', 'dachshund', 'injured']])
     """

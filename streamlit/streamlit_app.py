@@ -8,9 +8,9 @@ from pages import tableau, available_dogs # import your pages here
 app = MultiPage()
 
 # Title of the main page
-col1, col2, col3 = st.columns([1,6,1])
-with col2:
-    st.title("Insert project title here")
+# col1, col2, col3 = st.columns([1,6,1])
+# with col2:
+st.title("Insert project title here")
 
 # Add all your applications (pages) here
 app.add_page("Shelter Dog Information", tableau.main)

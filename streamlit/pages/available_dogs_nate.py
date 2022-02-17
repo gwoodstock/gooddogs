@@ -1,4 +1,4 @@
-# this one is currently NOT linked to streamlit app
+# this one is linked to streamlit app
 
 import streamlit as st
 import numpy as np
@@ -48,45 +48,47 @@ def app():
                     location=f'{zipcode}',
                     status='adoptable'
                 )
+            # st.write(type(dogs))
 
+        # if no dogs found in zipcode entered:
+        except:
+            st.header('No dogs found in your area')
             
-            
-            # copy breaks code?
-
-            # dogs_copy = dogs.copy()
-            # dogs = dogs[['age', 'breed.primary']].lower()
-            
-            # make copy of dogs
-            # clean it, 3 columns
-            # send to predictions
-            # sort
-
-
-
         
+            
+        if len(dogs) > 0:
 
+            dogs_copy = dogs.copy()
+            dogs_copy = dogs_copy[['age', 'breeds.primary', 'photos', 'name', 'size', 'gender', 'url']]
+            dogs_copy['pred'] = np.nan
+
+            for i in range(len(dogs_copy)):
+
+                np_dog = np.array(
+                    [
+                        dogs_copy.iloc[i]['age'].lower(), 
+                        dogs_copy.iloc[i]['breeds.primary'].lower(),
+                        'normal'
+                    ]
+                )
+
+                prediction = np.round(predict_dog(np_dog, classifier, transformer) * 100, 2)
+                dogs_copy.loc[i, 'pred'] = prediction
+
+            dogs_copy.sort_values(by='pred', ascending=False, inplace=True)
+        
             # output: feed of available dogs determined to be 'high risk' by model
             st.header('Furry friends available in your area:')
-            for i in range(len(dogs)):
+            for i in range(len(dogs_copy)):
                 
                 try:
-
-                    np_dog = np.array(
-                        [
-                            dogs.iloc[i]['age'].lower(), 
-                            dogs.iloc[i]['breeds.primary'].lower(),
-                            'normal'
-                        ]
-                    )
-
-                    predictions = predict_dog(np_dog, classifier, transformer)
 
                     col1, col2, col3, col4 = st.columns([1,3,3,1])
                     
                     with col2:
                         # - photo
-                        if dogs.iloc[i]['photos'] != []:
-                            st.image(dogs.iloc[i]['photos'][0]['medium'])
+                        if dogs_copy.iloc[i]['photos'] != []:
+                            st.image(dogs_copy.iloc[i]['photos'][0]['medium'])
                         else:
                             st.image(
                                 image='https://cdn.pixabay.com/photo/2016/04/03/21/54/dog-1305702_960_720.png',
@@ -95,17 +97,15 @@ def app():
                             )
                     with col3:
                         # - dog's name and details
-                        st.subheader(dogs.iloc[i]['name'])
-                        st.write('Breed: ', dogs.iloc[i]['breeds.primary'])
-                        st.write('Size: ', dogs.iloc[i]['size'])
-                        st.write('Gender: ', dogs.iloc[i]['gender'])
-                        st.write('Age: ', dogs.iloc[i]['age'])
-
-                        # st.error('At Risk')
-                        st.write(predictions)
+                        st.subheader(dogs_copy.iloc[i]['name'])
+                        st.metric('At Risk %', dogs_copy.iloc[i]['pred'])
+                        st.write('Breed: ', dogs_copy.iloc[i]['breeds.primary'])
+                        st.write('Size: ', dogs_copy.iloc[i]['size'])
+                        st.write('Gender: ', dogs_copy.iloc[i]['gender'])
+                        st.write('Age: ', dogs_copy.iloc[i]['age'])
                         
                         # - link to petfinder
-                        url = dogs.iloc[i]['url']
+                        url = dogs_copy.iloc[i]['url']
                         st.write("[Learn More on Petfinder!](%s)" % url) 
                 except:
                     pass
@@ -115,6 +115,4 @@ def app():
                 st.write(":heavy_minus_sign:" * 30)
                 st.text("")
 
-        # if no dogs found in zipcode entered:
-        except:
-            st.header('No dogs found in your area')
+        

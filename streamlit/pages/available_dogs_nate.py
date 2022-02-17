@@ -74,6 +74,7 @@ def app():
             # prediction section
             # loops over all the dogs in the search results
             for i in range(len(dogs_copy)):
+                # clean breed names to make them usuable for the model
                 breed = dogs_copy.iloc[i]['breeds.primary'].lower()
                 cleaned_breed = breed_func(breed)
 
@@ -87,12 +88,15 @@ def app():
                 )
 
                 # makes the prediction for this dog and assigns the score to the pred column
-                prediction = np.round(predict_dog(np_dog, classifier, transformer) * 100, 2)
-                dogs_copy.loc[i, 'pred'] = prediction
+                prediction = predict_dog(np_dog, classifier, transformer)
+                dogs_copy.loc[i, 'pred'] = np.round(prediction * 100, 2)
+
+            # create labels for at risk
+            dogs_copy['pred_label'] = dogs_copy['pred'].map(lambda x: 'At Risk' if x >= 50 else 'Low Risk')
 
             # sort dataframe so the highest % are at the top
             dogs_copy.sort_values(by='pred', ascending=False, inplace=True)
-
+            dogs_copy.reset_index(drop=True, inplace=True)
         
             # output: feed of available dogs determined to be 'high risk' by model
             st.header('Furry friends available in your area:')
@@ -118,6 +122,7 @@ def app():
                         # dog's name and details
                         st.subheader(dogs_copy.iloc[i]['name'])
                         st.metric('At Risk %', dogs_copy.iloc[i]['pred'])
+                        st.metric('Text', dogs_copy.loc[i, 'pred_label'])
                         st.write('Breed: ', dogs_copy.iloc[i]['breeds.primary'])
                         st.write('Size: ', dogs_copy.iloc[i]['size'])
                         st.write('Gender: ', dogs_copy.iloc[i]['gender'])

@@ -1,4 +1,9 @@
+# this one is currently NOT linked to streamlit app
+
 import streamlit as st
+import numpy as np
+import pickle
+from predict import predict_dog
 
 
 def app():
@@ -20,15 +25,16 @@ def app():
         secret='7RNX05UlYJdUIbhy90BfgGwG0ZuwWkQTMNeIYAGk',
     )
 
+    # load classifier
+    with open('./model_rfc.pkl', 'rb') as f:
+        classifier = pickle.load(f)
+
+    # load transformer
+    with open('./encode_data.pkl', 'rb') as f:
+        transformer = pickle.load(f)
+
     # user input: enter location for search
     zipcode = st.text_input('Enter your zipcode')
-    # location_input = zipcode
-    # location_input
-
-    # user input: click button to search in location entered
-    # result = st.button('Search for Dogs')
-
-    
 
     # when button is pushed: search for dogs in zipcode entered (automatically searches for dogs most recently added)
     if st.button('Search for Dogs'):
@@ -36,21 +42,45 @@ def app():
             with st.spinner('Finding Available Dogs'):
                 dogs = pf.animals(
                     pages=1,
-                    results_per_page=100, 
+                    results_per_page=10, 
                     return_df=True, 
                     animal_type='dog', 
                     location=f'{zipcode}',
                     status='adoptable'
                 )
 
+            
+            
+            # copy breaks code?
 
-        # run dogs found in search through model
+            # dogs_copy = dogs.copy()
+            # dogs = dogs[['age', 'breed.primary']].lower()
+            
+            # make copy of dogs
+            # clean it, 3 columns
+            # send to predictions
+            # sort
 
-        # output: feed of available dogs determined to be 'high risk' by model
+
+
+        
+
+            # output: feed of available dogs determined to be 'high risk' by model
             st.header('Furry friends available in your area:')
             for i in range(len(dogs)):
                 
                 try:
+
+                    np_dog = np.array(
+                        [
+                            dogs.iloc[i]['age'].lower(), 
+                            dogs.iloc[i]['breeds.primary'].lower(),
+                            'normal'
+                        ]
+                    )
+
+                    predictions = predict_dog(np_dog, classifier, transformer)
+
                     col1, col2, col3, col4 = st.columns([1,3,3,1])
                     
                     with col2:
@@ -72,6 +102,7 @@ def app():
                         st.write('Age: ', dogs.iloc[i]['age'])
 
                         # st.error('At Risk')
+                        st.write(predictions)
                         
                         # - link to petfinder
                         url = dogs.iloc[i]['url']

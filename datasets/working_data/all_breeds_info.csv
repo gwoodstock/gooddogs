@@ -1,0 +1,1219 @@
+breed,classification,obey,reps_lower,reps_upper,height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs,pure,breed_1,breed_2
+border collie,brightest dogs,0.95,1.0,4.0,19.0,21.0,40.0,40.0,1,border collie,border collie
+poodle,brightest dogs,0.95,1.0,4.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,poodle,poodle
+german shepherd,brightest dogs,0.95,1.0,4.0,22.0,26.0,75.0,90.0,1,german shepherd,german shepherd
+golden retriever,brightest dogs,0.95,1.0,4.0,21.0,24.0,55.0,75.0,1,golden retriever,golden retriever
+doberman pinscher,brightest dogs,0.95,1.0,4.0,26.0,28.0,60.0,100.0,1,doberman pinscher,doberman pinscher
+shetland sheepdog,brightest dogs,0.95,1.0,4.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,shetland sheepdog,shetland sheepdog
+labrador retriever,brightest dogs,0.95,1.0,4.0,21.0,24.0,55.0,80.0,1,labrador retriever,labrador retriever
+papillon,brightest dogs,0.95,1.0,4.0,8.0,11.0,5.0,10.0,1,papillon,papillon
+rottweiler,brightest dogs,0.95,1.0,4.0,22.0,27.0,90.0,110.0,1,rottweiler,rottweiler
+australian cattle dog,brightest dogs,0.95,1.0,4.0,17.0,20.0,35.0,45.0,1,australian cattle dog,australian cattle dog
+pembroke welsh corgi,excellent working dogs,0.85,5.0,15.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,pembroke welsh corgi,pembroke welsh corgi
+miniature schnauzer,excellent working dogs,0.85,5.0,15.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,miniature schnauzer,miniature schnauzer
+english springer spaniel,excellent working dogs,0.85,5.0,15.0,20.0,20.0,45.0,55.0,1,english springer spaniel,english springer spaniel
+belgian tervuren,excellent working dogs,0.85,5.0,15.0,22.0,26.0,60.0,75.0,1,belgian tervuren,belgian tervuren
+schipperke,excellent working dogs,0.85,5.0,15.0,10.0,13.0,12.0,18.0,1,schipperke,schipperke
+belgian sheepdog,excellent working dogs,0.85,5.0,15.0,22.0,26.0,60.0,75.0,1,belgian sheepdog,belgian sheepdog
+collie,excellent working dogs,0.85,5.0,15.0,22.0,26.0,50.0,75.0,1,collie,collie
+keeshond,excellent working dogs,0.85,5.0,15.0,17.0,19.0,35.0,50.0,1,keeshond,keeshond
+german shorthaired pointer,excellent working dogs,0.85,5.0,15.0,20.0,27.0,50.0,80.0,1,german shorthaired pointer,german shorthaired pointer
+flat-coated retriever,excellent working dogs,0.85,5.0,15.0,22.0,23.0,60.0,70.0,1,flat-coated retriever,flat-coated retriever
+english cocker spaniel,excellent working dogs,0.85,5.0,15.0,15.0,17.0,25.0,35.0,1,english cocker spaniel,english cocker spaniel
+standard schnauzer,excellent working dogs,0.85,5.0,15.0,17.0,19.0,33.0,33.0,1,standard schnauzer,standard schnauzer
+brittany,excellent working dogs,0.85,5.0,15.0,17.0,21.0,30.0,40.0,1,brittany,brittany
+cocker spaniel,excellent working dogs,0.85,5.0,15.0,15.0,16.0,22.0,28.0,1,cocker spaniel,cocker spaniel
+weimaraner,excellent working dogs,0.85,5.0,15.0,25.0,27.0,70.0,85.0,1,weimaraner,weimaraner
+belgian malinois,excellent working dogs,0.85,5.0,15.0,22.0,26.0,60.0,65.0,1,belgian malinois,belgian malinois
+bernese mountain dog,excellent working dogs,0.85,5.0,15.0,23.0,27.0,85.0,110.0,1,bernese mountain dog,bernese mountain dog
+pomeranian,excellent working dogs,0.85,5.0,15.0,12.0,12.0,3.0,7.0,1,pomeranian,pomeranian
+irish water spaniel,excellent working dogs,0.85,5.0,15.0,10.0,23.0,45.0,65.0,1,irish water spaniel,irish water spaniel
+vizsla,excellent working dogs,0.85,5.0,15.0,48.0,66.0,22.0,25.0,1,vizsla,vizsla
+cardigan welsh corgi,excellent working dogs,0.85,5.0,15.0,10.0,12.0,25.0,35.0,1,cardigan welsh corgi,cardigan welsh corgi
+chesapeake bay retriever,above average working dogs,0.7,16.0,25.0,21.0,26.0,55.0,75.0,1,chesapeake bay retriever,chesapeake bay retriever
+puli,above average working dogs,0.7,16.0,25.0,16.0,17.0,29.0,33.0,1,puli,puli
+yorkshire terrier,above average working dogs,0.7,16.0,25.0,8.0,8.0,3.0,7.0,1,yorkshire terrier,yorkshire terrier
+giant schnauzer,above average working dogs,0.7,16.0,25.0,25.0,28.0,70.0,75.0,1,giant schnauzer,giant schnauzer
+portuguese water dog,above average working dogs,0.7,16.0,25.0,20.0,23.0,42.0,60.0,1,portuguese water dog,portuguese water dog
+airedale terrier,above average working dogs,0.7,16.0,25.0,22.0,24.0,45.0,45.0,1,airedale terrier,airedale terrier
+bouvier des flandres,above average working dogs,0.7,16.0,25.0,23.0,27.0,75.0,95.0,1,bouvier des flandres,bouvier des flandres
+border terrier,above average working dogs,0.7,16.0,25.0,12.0,15.0,12.0,15.0,1,border terrier,border terrier
+briard,above average working dogs,0.7,16.0,25.0,23.0,27.0,74.0,76.0,1,briard,briard
+welsh springer spaniel,above average working dogs,0.7,16.0,25.0,16.0,19.0,35.0,45.0,1,welsh springer spaniel,welsh springer spaniel
+standard manchester terrier,above average working dogs,0.7,16.0,25.0,15.0,16.0,17.0,18.0,1,standard manchester terrier,standard manchester terrier
+toy manchester terrier,above average working dogs,0.7,16.0,25.0,10.0,12.0,6.0,8.0,1,toy manchester terrier,toy manchester terrier
+samoyed,above average working dogs,0.7,16.0,25.0,19.0,24.0,50.0,65.0,1,samoyed,samoyed
+field spaniel,above average working dogs,0.7,16.0,25.0,18.0,18.0,35.0,50.0,1,field spaniel,field spaniel
+newfoundland,above average working dogs,0.7,16.0,25.0,26.0,28.0,100.0,150.0,1,newfoundland,newfoundland
+australian terrier,above average working dogs,0.7,16.0,25.0,10.0,10.0,10.0,14.0,1,australian terrier,australian terrier
+american staffordshire terrier,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,american staffordshire terrier,american staffordshire terrier
+american pit bull terrier,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,american pit bull terrier,american pit bull terrier
+pit bull terrier,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,pit bull terrier,pit bull terrier
+pit bull,above average working dogs,0.7,16.0,25.0,17.0,19.0,40.0,50.0,1,pit bull,pit bull
+gordon setter,above average working dogs,0.7,16.0,25.0,23.0,27.0,45.0,80.0,1,gordon setter,gordon setter
+bearded collie,above average working dogs,0.7,16.0,25.0,20.0,22.0,40.0,60.0,1,bearded collie,bearded collie
+cairn terrier,above average working dogs,0.7,16.0,25.0,9.0,10.0,14.0,14.0,1,cairn terrier,cairn terrier
+kerry blue terrier,above average working dogs,0.7,16.0,25.0,17.0,21.0,30.0,45.0,1,kerry blue terrier,kerry blue terrier
+irish setter,above average working dogs,0.7,16.0,25.0,25.0,27.0,60.0,70.0,1,irish setter,irish setter
+norwegian elkhound,above average working dogs,0.7,16.0,25.0,19.0,20.0,40.0,60.0,1,norwegian elkhound,norwegian elkhound
+affenpinscher,above average working dogs,0.7,16.0,25.0,9.0,12.0,8.0,12.0,1,affenpinscher,affenpinscher
+australian silky terrier,above average working dogs,0.7,16.0,25.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,australian silky terrier,australian silky terrier
+miniature pinscher,above average working dogs,0.7,16.0,25.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,miniature pinscher,miniature pinscher
+english setter,above average working dogs,0.7,16.0,25.0,23.0,27.0,45.0,80.0,1,english setter,english setter
+pharaoh hound,above average working dogs,0.7,16.0,25.0,21.0,25.0,45.0,55.0,1,pharaoh hound,pharaoh hound
+clumber spaniel,above average working dogs,0.7,16.0,25.0,19.0,20.0,35.0,65.0,1,clumber spaniel,clumber spaniel
+norwich terrier,above average working dogs,0.7,16.0,25.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,norwich terrier,norwich terrier
+dalmatian,above average working dogs,0.7,16.0,25.0,19.0,23.0,45.0,70.0,1,dalmatian,dalmatian
+soft-coated wheaten terrier,average working/obedience intelligence,0.5,26.0,40.0,18.0,20.0,35.0,45.0,1,soft-coated wheaten terrier,soft-coated wheaten terrier
+bedlington terrier,average working/obedience intelligence,0.5,26.0,40.0,15.0,16.0,18.0,23.0,1,bedlington terrier,bedlington terrier
+fox terrier,average working/obedience intelligence,0.5,26.0,40.0,13.0,16.0,15.0,20.0,1,fox terrier,fox terrier
+smooth fox terrier,average working/obedience intelligence,0.5,26.0,40.0,13.0,16.0,15.0,20.0,1,smooth fox terrier,smooth fox terrier
+curly coated retriever,average working/obedience intelligence,0.5,26.0,40.0,25.0,27.0,65.0,80.0,1,curly coated retriever,curly coated retriever
+irish wolfhound,average working/obedience intelligence,0.5,26.0,40.0,28.0,35.0,90.0,150.0,1,irish wolfhound,irish wolfhound
+kuvasz,average working/obedience intelligence,0.5,26.0,40.0,28.0,30.0,70.0,120.0,1,kuvasz,kuvasz
+australian shepherd,average working/obedience intelligence,0.5,26.0,40.0,18.0,23.0,40.0,60.0,1,australian shepherd,australian shepherd
+saluki,average working/obedience intelligence,0.5,26.0,40.0,23.0,28.0,35.0,70.0,1,saluki,saluki
+finnish spitz,average working/obedience intelligence,0.5,26.0,40.0,15.0,20.0,31.0,35.0,1,finnish spitz,finnish spitz
+pointer,average working/obedience intelligence,0.5,26.0,40.0,21.0,24.0,44.0,66.0,1,pointer,pointer
+cavalier king charles spaniel,average working/obedience intelligence,0.5,26.0,40.0,10.0,15.0,15.0,20.0,1,cavalier king charles spaniel,cavalier king charles spaniel
+german wirehaired pointer,average working/obedience intelligence,0.5,26.0,40.0,22.0,26.0,60.0,70.0,1,german wirehaired pointer,german wirehaired pointer
+black and tan coonhound,average working/obedience intelligence,0.5,26.0,40.0,23.0,27.0,50.0,75.0,1,black and tan coonhound,black and tan coonhound
+american water spaniel,average working/obedience intelligence,0.5,26.0,40.0,15.0,18.0,25.0,45.0,1,american water spaniel,american water spaniel
+siberian husky,average working/obedience intelligence,0.5,26.0,40.0,20.0,23.0,40.0,60.0,1,siberian husky,siberian husky
+bichon frise,average working/obedience intelligence,0.5,26.0,40.0,9.5,11.5,10.0,18.0,1,bichon frise,bichon frise
+king charles spaniel,average working/obedience intelligence,0.5,26.0,40.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,king charles spaniel,king charles spaniel
+tibetan spaniel,average working/obedience intelligence,0.5,26.0,40.0,10.0,10.0,9.0,15.0,1,tibetan spaniel,tibetan spaniel
+english foxhound,average working/obedience intelligence,0.5,26.0,40.0,22.0,25.0,65.0,70.0,1,english foxhound,english foxhound
+otterhound,average working/obedience intelligence,0.5,26.0,40.0,24.0,26.0,65.0,110.0,1,otterhound,otterhound
+jack russell terrier,average working/obedience intelligence,0.5,26.0,40.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,jack russell terrier,jack russell terrier
+american foxhound,average working/obedience intelligence,0.5,26.0,40.0,22.0,25.0,65.0,70.0,1,american foxhound,american foxhound
+greyhound,average working/obedience intelligence,0.5,26.0,40.0,27.0,30.0,60.0,70.0,1,greyhound,greyhound
+wirehaired pointing griffon,average working/obedience intelligence,0.5,26.0,40.0,20.0,24.0,45.0,60.0,1,wirehaired pointing griffon,wirehaired pointing griffon
+west highland white terrier,average working/obedience intelligence,0.5,26.0,40.0,11.0,11.0,13.0,15.0,1,west highland white terrier,west highland white terrier
+havanese,average working/obedience intelligence,0.5,26.0,40.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,havanese,havanese
+scottish deerhound,average working/obedience intelligence,0.5,26.0,40.0,28.0,32.0,75.0,110.0,1,scottish deerhound,scottish deerhound
+boxer,average working/obedience intelligence,0.5,26.0,40.0,21.0,25.0,65.0,70.0,1,boxer,boxer
+great dane,average working/obedience intelligence,0.5,26.0,40.0,32.0,32.0,120.0,160.0,1,great dane,great dane
+dachshund,average working/obedience intelligence,0.5,26.0,40.0,7.0,10.0,16.0,32.0,1,dachshund,dachshund
+shiba inu,average working/obedience intelligence,0.5,26.0,40.0,13.0,16.0,15.0,30.0,1,shiba inu,shiba inu
+staffordshire bull terrier,average working/obedience intelligence,0.5,26.0,40.0,14.0,16.0,24.0,28.0,1,staffordshire bull terrier,staffordshire bull terrier
+alaskan malamute,average working/obedience intelligence,0.5,26.0,40.0,23.0,25.0,75.0,85.0,1,alaskan malamute,alaskan malamute
+whippet,average working/obedience intelligence,0.5,26.0,40.0,18.0,22.0,27.0,30.0,1,whippet,whippet
+chinese shar pei,average working/obedience intelligence,0.5,26.0,40.0,18.0,20.0,45.0,55.0,1,chinese shar pei,chinese shar pei
+wire fox terrier,average working/obedience intelligence,0.5,26.0,40.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,wire fox terrier,wire fox terrier
+rhodesian ridgeback,average working/obedience intelligence,0.5,26.0,40.0,24.0,27.0,70.0,85.0,1,rhodesian ridgeback,rhodesian ridgeback
+ibizan hound,average working/obedience intelligence,0.5,26.0,40.0,22.0,29.0,42.0,55.0,1,ibizan hound,ibizan hound
+welsh terrier,average working/obedience intelligence,0.5,26.0,40.0,15.0,15.0,20.0,21.0,1,welsh terrier,welsh terrier
+irish terrier,average working/obedience intelligence,0.5,26.0,40.0,18.0,19.0,25.0,27.0,1,irish terrier,irish terrier
+boston terrier,average working/obedience intelligence,0.5,26.0,40.0,14.0,15.0,15.0,25.0,1,boston terrier,boston terrier
+akita,average working/obedience intelligence,0.5,26.0,40.0,26.0,28.0,80.0,120.0,1,akita,akita
+skye terrier,fair working/obedience intelligence,0.3,41.0,80.0,10.0,10.0,25.0,25.0,1,skye terrier,skye terrier
+norfolk terrier,fair working/obedience intelligence,0.3,41.0,80.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,norfolk terrier,norfolk terrier
+sealyham terrier,fair working/obedience intelligence,0.3,41.0,80.0,12.0,12.0,18.0,20.0,1,sealyham terrier,sealyham terrier
+pug,fair working/obedience intelligence,0.3,41.0,80.0,10.0,11.0,14.0,22.0,1,pug,pug
+french bulldog,fair working/obedience intelligence,0.3,41.0,80.0,11.0,12.0,17.0,28.0,1,french bulldog,french bulldog
+griffon bruxellois,fair working/obedience intelligence,0.3,41.0,80.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,griffon bruxellois,griffon bruxellois
+maltese,fair working/obedience intelligence,0.3,41.0,80.0,8.0,10.0,4.0,6.0,1,maltese,maltese
+italian greyhound,fair working/obedience intelligence,0.3,41.0,80.0,12.0,15.0,6.0,10.0,1,italian greyhound,italian greyhound
+chinese crested,fair working/obedience intelligence,0.3,41.0,80.0,11.0,13.0,5.0,12.0,1,chinese crested,chinese crested
+dandie dinmont terrier,fair working/obedience intelligence,0.3,41.0,80.0,18.0,24.0,8.0,11.0,1,dandie dinmont terrier,dandie dinmont terrier
+petit basset griffon vendeen,fair working/obedience intelligence,0.3,41.0,80.0,13.0,15.0,30.0,40.0,1,petit basset griffon vendeen,petit basset griffon vendeen
+tibetan terrier,fair working/obedience intelligence,0.3,41.0,80.0,14.0,17.0,20.0,30.0,1,tibetan terrier,tibetan terrier
+japanese chin,fair working/obedience intelligence,0.3,41.0,80.0,8.0,11.0,4.0,11.0,1,japanese chin,japanese chin
+lakeland terrier,fair working/obedience intelligence,0.3,41.0,80.0,13.0,14.0,15.0,17.0,1,lakeland terrier,lakeland terrier
+old english sheepdog,fair working/obedience intelligence,0.3,41.0,80.0,20.0,24.0,60.0,65.0,1,old english sheepdog,old english sheepdog
+great pyrenees,fair working/obedience intelligence,0.3,41.0,80.0,27.0,32.0,95.0,120.0,1,great pyrenees,great pyrenees
+scottish terrier,fair working/obedience intelligence,0.3,41.0,80.0,10.0,12.0,18.0,22.0,1,scottish terrier,scottish terrier
+saint bernard,fair working/obedience intelligence,0.3,41.0,80.0,25.0,28.0,110.0,190.0,1,saint bernard,saint bernard
+bull terrier,fair working/obedience intelligence,0.3,41.0,80.0,21.0,22.0,50.0,70.0,1,bull terrier,bull terrier
+chihuahua,fair working/obedience intelligence,0.3,41.0,80.0,6.0,9.0,2.0,5.0,1,chihuahua,chihuahua
+lhasa apso,fair working/obedience intelligence,0.3,41.0,80.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,lhasa apso,lhasa apso
+bullmastiff,fair working/obedience intelligence,0.3,41.0,80.0,25.0,27.0,100.0,130.0,1,bullmastiff,bullmastiff
+shih tzu,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,8.0,11.0,9.0,16.0,1,shih tzu,shih tzu
+basset hound,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,14.0,14.0,40.0,50.0,1,basset hound,basset hound
+mastiff,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,27.0,30.0,175.0,190.0,1,mastiff,mastiff
+beagle,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,13.0,16.0,18.0,30.0,1,beagle,beagle
+pekingese,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,1,pekingese,pekingese
+bloodhound,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,24.0,26.0,80.0,120.0,1,bloodhound,bloodhound
+borzoi,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,26.0,28.0,70.0,100.0,1,borzoi,borzoi
+chow chow,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,19.0,22.0,45.0,55.0,1,chow chow,chow chow
+bulldog,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,12.0,16.0,50.0,60.0,1,bulldog,bulldog
+basenji,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,17.0,17.0,20.0,22.0,1,basenji,basenji
+afghan hound,lowest degree of working/obedience intelligence ,0.1,81.0,100.0,25.0,27.0,50.0,60.0,1,afghan hound,afghan hound
+anatolian sheepdog,,0.5698581560283685,25.31914893617021,41.02836879432624,27.0,29.0,100.0,150.0,1,anatolian sheepdog,anatolian sheepdog
+great swiss mountain dog,,0.5698581560283685,25.31914893617021,41.02836879432624,23.0,28.0,130.0,150.0,1,great swiss mountain dog,great swiss mountain dog
+neopolitan mastiff,,0.5698581560283685,25.31914893617021,41.02836879432624,24.0,30.0,100.0,150.0,1,neopolitan mastiff,neopolitan mastiff
+beauceron,,0.5698581560283685,25.31914893617021,41.02836879432624,24.0,27.0,100.0,120.0,1,beauceron,beauceron
+black russian terrier,,0.5698581560283685,25.31914893617021,41.02836879432624,25.0,29.0,80.0,140.0,1,black russian terrier,black russian terrier
+komondor,,0.5698581560283685,25.31914893617021,41.02836879432624,26.5,35.5,80.0,135.0,1,komondor,komondor
+standard poodle,,0.5698581560283685,25.31914893617021,41.02836879432624,15.0,25.0,45.0,45.0,1,standard poodle,standard poodle
+spinone italiano,,0.5698581560283685,25.31914893617021,41.02836879432624,23.0,28.0,65.0,80.0,1,spinone italiano,spinone italiano
+tibetan mastiff,,0.5698581560283685,25.31914893617021,41.02836879432624,24.0,26.0,140.0,170.0,1,tibetan mastiff,tibetan mastiff
+canaan dog,,0.5698581560283685,25.31914893617021,41.02836879432624,19.0,24.0,35.0,55.0,1,canaan dog,canaan dog
+harrier,,0.5698581560283685,25.31914893617021,41.02836879432624,19.0,21.0,40.0,60.0,1,harrier,harrier
+nova scotia duck tolling retriever,,0.5698581560283685,25.31914893617021,41.02836879432624,17.0,21.0,35.0,50.0,1,nova scotia duck tolling retriever,nova scotia duck tolling retriever
+plott hound,,0.5698581560283685,25.31914893617021,41.02836879432624,20.0,24.0,45.0,55.0,1,plott hound,plott hound
+polish lowland sheepdog,,0.5698581560283685,25.31914893617021,41.02836879432624,16.0,20.0,30.0,35.0,1,polish lowland sheepdog,polish lowland sheepdog
+redbone coonhound,,0.5698581560283685,25.31914893617021,41.02836879432624,21.0,27.0,50.0,70.0,1,redbone coonhound,redbone coonhound
+sussex spaniel,,0.5698581560283685,25.31914893617021,41.02836879432624,15.0,16.0,40.0,45.0,1,sussex spaniel,sussex spaniel
+american eskimo,,0.5698581560283685,25.31914893617021,41.02836879432624,9.0,19.0,25.0,30.0,1,american eskimo,american eskimo
+brussels griffon,,0.5698581560283685,25.31914893617021,41.02836879432624,7.0,8.0,6.0,12.0,1,brussels griffon,brussels griffon
+english toy spaniel,,0.5698581560283685,25.31914893617021,41.02836879432624,10.0,10.0,9.0,15.0,1,english toy spaniel,english toy spaniel
+wirehair fox terrier,,0.5698581560283685,25.31914893617021,41.02836879432624,13.0,16.0,15.0,20.0,1,wirehair fox terrier,wirehair fox terrier
+german pinscher,,0.5698581560283685,25.31914893617021,41.02836879432624,16.0,19.0,25.0,35.0,1,german pinscher,german pinscher
+glen imaal terrier,,0.5698581560283685,25.31914893617021,41.02836879432624,14.0,14.0,34.0,36.0,1,glen imaal terrier,glen imaal terrier
+miniature poodle,,0.5698581560283685,25.31914893617021,41.02836879432624,10.0,15.0,20.0,20.0,1,miniature poodle,miniature poodle
+shetland sheepdog (sheltie),,0.5698581560283685,25.31914893617021,41.02836879432624,13.0,16.0,14.0,20.0,1,shetland sheepdog (sheltie),shetland sheepdog (sheltie)
+silky terrier,,0.5698581560283685,25.31914893617021,41.02836879432624,9.0,10.0,8.0,11.0,1,silky terrier,silky terrier
+toy poodle,,0.5698581560283685,25.31914893617021,41.02836879432624,10.0,10.0,10.0,10.0,1,toy poodle,toy poodle
+toy fox terrier,,0.5698581560283685,25.31914893617021,41.02836879432624,10.0,10.0,4.0,7.0,1,toy fox terrier,toy fox terrier
+afador,,0.525,41.0,52.0,23.0,25.5,52.5,70.0,0,afghan hound,labrador retriever
+afaird,,0.39999999999999997,48.5,62.5,24.0,27.0,62.0,68.0,0,afghan hound,briard
+affen spaniel,,0.7749999999999999,10.5,20.0,12.0,14.0,15.0,20.0,0,affenpinscher,cocker spaniel
+affen border terrier,,0.7,16.0,25.0,10.5,13.5,10.0,13.5,0,affenpinscher,border terrier
+affen tzu,,0.39999999999999997,48.5,62.5,8.5,11.5,8.5,14.0,0,affenpinscher,shih tzu
+affenchon,,0.6,21.0,32.5,9.25,11.75,9.0,15.0,0,affenpinscher,bichon frise
+affengriffon,,0.6349290780141843,20.659574468085104,33.01418439716312,8.0,10.0,7.0,12.0,0,affenpinscher,brussels griffon
+affenhuahua,,0.5,28.5,52.5,7.5,10.5,5.0,8.5,0,affenpinscher,chihuahua
+affenpoo,,0.825,8.5,14.5,13.470588235294118,16.454248366013072,25.46732026143791,34.76143790849673,0,affenpinscher,poodle
+affenpug,,0.5,28.5,52.5,9.5,11.5,11.0,17.0,0,affenpinscher,pug
+affenshire,,0.7,16.0,25.0,8.5,10.0,5.5,9.5,0,affenpinscher,yorkshire terrier
+affenwich,,0.7,16.0,25.0,13.470588235294118,16.454248366013072,25.46732026143791,34.76143790849673,0,affenpinscher,norwich terrier
+afghan chon,,0.3,53.5,70.0,17.25,19.25,30.0,39.0,0,afghan hound,bichon frise
+afghan collie,,0.525,41.0,52.0,22.0,24.0,45.0,50.0,0,afghan hound,border collie
+afghan retriever,,0.525,41.0,52.0,23.0,25.5,52.5,67.5,0,afghan hound,golden retriever
+afghan spaniel,,0.475,43.0,57.5,20.0,21.5,36.0,44.0,0,afghan hound,cocker spaniel
+afollie,,0.475,43.0,57.5,23.5,26.5,50.0,67.5,0,afghan hound,collie
+airedale shepherd,,0.825,8.5,14.5,22.0,25.0,60.0,67.5,0,airedale terrier,german shepherd
+airedoodle,,0.825,8.5,14.5,19.970588235294116,22.454248366013072,43.967320261437905,51.26143790849673,0,airedale terrier,poodle
+aki-poo,,0.725,13.5,22.0,21.970588235294116,24.454248366013072,61.467320261437905,88.76143790849673,0,akita,poodle
+akita basset,,0.3,53.5,70.0,20.0,21.0,60.0,85.0,0,akita,basset hound
+akita bernard,,0.4,33.5,60.0,25.5,28.0,95.0,155.0,0,akita,saint bernard
+akita chow,,0.3,53.5,70.0,22.5,25.0,62.5,87.5,0,akita,chow chow
+akita pit,,0.6,21.0,32.5,21.5,23.5,60.0,85.0,0,akita,pit bull terrier
+akita shepherd,,0.725,13.5,22.0,24.0,27.0,77.5,105.0,0,akita,german shepherd
+akitamatian,,0.6,21.0,32.5,22.5,25.5,62.5,95.0,0,akita,dalmatian
+alaskan goldenmute,,0.725,13.5,22.0,22.0,24.5,65.0,80.0,0,alaskan malamute,golden retriever
+alaskan malador,,0.725,13.5,22.0,22.0,24.5,65.0,82.5,0,alaskan malamute,labrador retriever
+alaskan pit bull,,0.6,21.0,32.5,20.0,22.0,57.5,67.5,0,alaskan malamute,pit bull terrier
+alusky,,0.5,26.0,40.0,21.5,24.0,57.5,72.5,0,alaskan malamute,siberian husky
+american boston bull terrier,,0.6,21.0,32.5,15.5,17.0,27.5,37.5,0,american pit bull terrier,boston terrier
+american boxer foxhound,,0.5,26.0,40.0,21.5,25.0,65.0,70.0,0,american foxhound,boxer
+american eagle dog,,0.33492907801418426,53.159574468085104,70.51418439716312,11.0,17.5,21.5,30.0,0,american eskimo,beagle
+american foxeagle,,0.3,53.5,70.0,17.5,20.5,41.5,50.0,0,american foxhound,beagle
+american foxy dane,,0.5,26.0,40.0,27.0,28.5,92.5,115.0,0,american foxhound,great dane
+american french bull terrier,,0.5,28.5,52.5,14.0,15.5,28.5,39.0,0,american pit bull terrier,french bulldog
+american lab foxhound,,0.725,13.5,22.0,21.5,24.5,60.0,75.0,0,american foxhound,labrador retriever
+american staffy bullmastiff,,0.5,28.5,52.5,21.0,23.0,70.0,90.0,0,american staffordshire terrier,bullmastiff
+ausky,,0.725,13.5,22.0,18.5,21.5,37.5,52.5,0,australian cattle dog,siberian husky
+aussalier,,0.5,26.0,40.0,14.0,19.0,27.5,40.0,0,australian shepherd,cavalier king charles spaniel
+aussie brittany,,0.675,15.5,27.5,17.5,22.0,35.0,50.0,0,australian shepherd,brittany
+aussie-chi,,0.4,33.5,60.0,12.0,16.0,21.0,32.5,0,australian shepherd,chihuahua
+aussie collie,,0.675,15.5,27.5,20.0,24.5,45.0,67.5,0,australian shepherd,collie
+aussie-flat,,0.675,15.5,27.5,20.0,23.0,50.0,65.0,0,australian shepherd,flat-coated retriever
+aussie jack,,0.5,26.0,40.0,17.970588235294116,21.954248366013072,41.467320261437905,58.76143790849673,0,australian shepherd,jack russell terrier
+aussie malamute,,0.5,26.0,40.0,20.5,24.0,57.5,72.5,0,australian shepherd,alaskan malamute
+aussie newfie,,0.6,21.0,32.5,22.0,25.5,70.0,105.0,0,australian shepherd,newfoundland
+aussie rottie,,0.725,13.5,22.0,20.0,25.0,65.0,85.0,0,australian shepherd,rottweiler
+aussie shiba,,0.5,26.0,40.0,15.5,19.5,27.5,45.0,0,australian shepherd,shiba inu
+aussie siberian,,0.5,26.0,40.0,19.0,23.0,40.0,60.0,0,australian shepherd,siberian husky
+aussie silk terrier,,0.6349290780141843,20.659574468085104,33.01418439716312,9.5,10.0,9.0,12.5,0,australian terrier,silky terrier
+aussietare,,0.4,33.5,60.0,19.5,22.5,45.0,65.0,0,australian shepherd,bull terrier
+aussiedoodle,,0.725,13.5,22.0,17.970588235294116,21.954248366013072,41.467320261437905,58.76143790849673,0,australian shepherd,poodle
+australian boxherd,,0.5,26.0,40.0,19.5,24.0,52.5,65.0,0,australian shepherd,boxer
+australian eskimo,,0.5349290780141842,25.659574468085104,40.51418439716312,13.5,21.0,32.5,45.0,0,american eskimo,australian shepherd
+australian retriever,,0.725,13.5,22.0,19.5,23.5,47.5,67.5,0,australian shepherd,golden retriever
+australian yorkshire terrier,,0.7,16.0,25.0,9.0,9.0,6.5,10.5,0,australian terrier,yorkshire terrier
+bagle hound,,0.1,81.0,100.0,13.5,15.0,29.0,40.0,0,basset hound,beagle
+bascottie,,0.2,61.0,90.0,12.0,13.0,29.0,36.0,0,basset hound,scottish terrier
+baseagle,,0.1,81.0,100.0,15.0,16.5,19.0,26.0,0,basenji,beagle
+basenji pit,,0.39999999999999997,48.5,62.5,17.0,18.0,30.0,36.0,0,basenji,american pit bull terrier
+baskimo,,0.33492907801418426,53.159574468085104,70.51418439716312,11.5,16.5,32.5,40.0,0,american eskimo,basset hound
+bassador,,0.525,41.0,52.0,17.5,19.0,47.5,65.0,0,basset hound,labrador retriever
+basschshund,,0.3,53.5,70.0,10.5,12.0,28.0,41.0,0,basset hound,dachshund
+basselier,,0.3,53.5,70.0,12.0,14.5,27.5,35.0,0,cavalier king charles spaniel,basset hound
+basset jack,,0.3,53.5,70.0,15.970588235294118,17.454248366013072,41.467320261437905,53.76143790849673,0,basset hound,jack russell terrier
+basset retriever,,0.525,41.0,52.0,17.5,19.0,47.5,62.5,0,basset hound,golden retriever
+basset shepherd,,0.525,41.0,52.0,18.0,20.0,57.5,70.0,0,basset hound,german shepherd
+bassetoodle,,0.525,41.0,52.0,15.970588235294118,17.454248366013072,41.467320261437905,53.76143790849673,0,basset hound,poodle
+bassky,,0.3,53.5,70.0,17.0,18.5,40.0,55.0,0,basset hound,siberian husky
+bassmatian,,0.39999999999999997,48.5,62.5,16.5,18.5,42.5,60.0,0,basset hound,dalmatian
+basston,,0.3,53.5,70.0,14.0,14.5,27.5,37.5,0,basset hound,boston terrier
+bassugg,,0.2,61.0,90.0,12.0,12.5,27.0,36.0,0,basset hound,pug
+be-apso,,0.2,61.0,90.0,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,beagle,lhasa apso
+bea griffon,,0.33492907801418426,53.159574468085104,70.51418439716312,10.0,12.0,12.0,21.0,0,beagle,brussels griffon
+bea-tzu,,0.1,81.0,100.0,10.5,13.5,13.5,23.0,0,beagle,shih tzu
+beabull,,0.1,81.0,100.0,12.5,16.0,34.0,45.0,0,beagle,bulldog
+beacol,,0.39999999999999997,48.5,62.5,16.5,19.0,29.0,45.0,0,beagle,bearded collie
+beagleman,,0.525,41.0,52.0,19.5,22.0,39.0,65.0,0,beagle,doberman pinscher
+beaglemation,,0.39999999999999997,48.5,62.5,16.0,19.5,31.5,50.0,0,beagle,dalmatian
+beagle chin,,0.2,61.0,90.0,10.5,13.5,11.0,20.5,0,beagle,japanese chin
+beagle heeler,,0.525,41.0,52.0,15.0,18.0,26.5,37.5,0,beagle,australian cattle dog
+beagle pit,,0.39999999999999997,48.5,62.5,15.0,17.5,29.0,40.0,0,beagle,pit bull
+beagle point,,0.3,53.5,70.0,17.0,20.0,31.0,48.0,0,beagle,pointer
+beagle sheltie,,0.525,41.0,52.0,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,beagle,shetland sheepdog
+beagle shepherd,,0.525,41.0,52.0,17.5,21.0,46.5,60.0,0,beagle,german shepherd
+beago,,0.525,41.0,52.0,17.0,20.0,36.5,52.5,0,beagle,golden retriever
+beardoodle,,0.825,8.5,14.5,18.970588235294116,21.454248366013072,41.467320261437905,58.76143790849673,0,bearded collie,poodle
+beaski,,0.3,53.5,70.0,16.5,19.5,29.0,45.0,0,beagle,siberian husky
+beauceroodle,,0.7599290780141843,13.159574468085104,22.51418439716312,20.970588235294116,23.954248366013072,71.4673202614379,88.76143790849673,0,beauceron,poodle
+bedlington whippet,,0.5,26.0,40.0,16.5,19.0,22.5,26.5,0,bedlington terrier,whippet
+belusky,,0.675,15.5,27.5,21.0,24.5,50.0,62.5,0,belgian malinois,siberian husky
+bernedoodle,,0.8999999999999999,3.0,9.5,20.470588235294116,23.954248366013072,63.967320261437905,83.76143790849673,0,bernese mountain dog,poodle
+berner chow,,0.475,43.0,57.5,21.0,24.5,65.0,82.5,0,bernese mountain dog,chow chow
+berner dane,,0.675,15.5,27.5,27.5,29.5,102.5,135.0,0,great dane,bernese mountain dog
+bernese cattle dog,,0.8999999999999999,3.0,9.5,20.0,23.5,60.0,77.5,0,bernese mountain dog,australian cattle dog
+bernese rottie,,0.8999999999999999,3.0,9.5,22.5,27.0,87.5,110.0,0,bernese mountain dog,rottweiler
+bich-poo,,0.725,13.5,22.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,poodle
+bichomo,,0.5349290780141842,25.659574468085104,40.51418439716312,9.25,15.25,17.5,24.0,0,american eskimo,bichon frise
+bichon-a-ranian,,0.675,15.5,27.5,10.75,11.75,6.5,12.5,0,bichon frise,pomeranian
+bichon yorkie,,0.6,21.0,32.5,8.75,9.75,6.5,12.5,0,bichon frise,yorkshire terrier
+black and tan coonoodle,,0.725,13.5,22.0,20.470588235294116,23.954248366013072,46.467320261437905,66.26143790849673,0,poodle,black and tan coonhound
+black and tan coonshepherd,,0.725,13.5,22.0,22.5,26.5,62.5,82.5,0,black and tan coonhound,german shepherd
+black and tan labhound,,0.725,13.5,22.0,22.0,25.5,52.5,77.5,0,black and tan coonhound,labrador retriever
+black russian wolfhound terrier,,0.5349290780141842,25.659574468085104,40.51418439716312,26.5,32.0,85.0,145.0,0,black russian terrier,irish wolfhound
+blue spaniel,,0.8999999999999999,3.0,9.5,16.0,18.0,28.5,36.5,0,australian cattle dog,cocker spaniel
+blue-tzu heeler,,0.525,41.0,52.0,12.5,15.5,22.0,30.5,0,australian cattle dog,shih tzu
+bo-dach,,0.5,26.0,40.0,10.5,12.5,15.5,28.5,0,boston terrier,dachshund
+bo-jack,,0.5,26.0,40.0,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,jack russell terrier
+bocker,,0.475,43.0,57.5,14.0,16.0,20.0,29.0,0,beagle,cocker spaniel
+bodacion,,0.825,8.5,14.5,19.0,22.0,42.5,55.0,0,border collie,dalmatian
+boglen terrier,,0.3,53.5,70.0,13.5,15.5,16.5,27.5,0,beagle,boston terrier
+bogle,,0.3,53.5,70.0,17.0,20.5,41.5,50.0,0,beagle,boxer
+borador,,0.95,1.0,4.0,20.0,22.5,47.5,60.0,0,border collie,labrador retriever
+border akita collie,,0.725,13.5,22.0,22.5,24.5,60.0,80.0,0,border collie,akita
+border-aussie,,0.725,13.5,22.0,18.5,22.0,40.0,50.0,0,australian shepherd,border collie
+border aussie terrollie,,0.825,8.5,14.5,14.5,15.5,25.0,27.0,0,border collie,australian terrier
+border basset,,0.525,41.0,52.0,16.5,17.5,40.0,45.0,0,border collie,basset hound
+border beagle,,0.525,41.0,52.0,16.0,18.5,29.0,35.0,0,border collie,beagle
+border chow,,0.525,41.0,52.0,19.0,21.5,42.5,47.5,0,border collie,chow chow
+border collie bernard,,0.625,21.0,42.0,22.0,24.5,75.0,115.0,0,border collie,saint bernard
+border collie bull staffy,,0.725,13.5,22.0,16.5,18.5,32.0,34.0,0,border collie,staffordshire bull terrier
+border collie cocker,,0.8999999999999999,3.0,9.5,17.0,18.5,31.0,34.0,0,border collie,cocker spaniel
+border collie lakeland,,0.625,21.0,42.0,16.0,17.5,27.5,28.5,0,border collie,lakeland terrier
+border collie pit,,0.825,8.5,14.5,18.0,20.0,40.0,45.0,0,border collie,pit bull terrier
+border collie pyrenees,,0.625,21.0,42.0,23.0,26.5,67.5,80.0,0,border collie,great pyrenees
+border jack,,0.725,13.5,22.0,18.470588235294116,20.954248366013072,41.467320261437905,48.76143790849673,0,border collie,jack russell terrier
+border malamute collie,,0.725,13.5,22.0,21.0,23.0,57.5,62.5,0,border collie,alaskan malamute
+border malamute terrier,,0.6,21.0,32.5,17.5,20.0,43.5,50.0,0,border terrier,alaskan malamute
+border newfie,,0.825,8.5,14.5,22.5,24.5,70.0,95.0,0,border collie,newfoundland
+border point,,0.725,13.5,22.0,20.0,22.5,42.0,53.0,0,border collie,pointer
+border pom,,0.8999999999999999,3.0,9.5,15.5,16.5,21.5,23.5,0,border collie,pomeranian
+border rottie,,0.95,1.0,4.0,20.5,24.0,65.0,75.0,0,border collie,rottweiler
+border sheepdog,,0.95,1.0,4.0,18.470588235294116,20.954248366013072,41.467320261437905,48.76143790849673,0,border collie,shetland sheepdog
+border springer,,0.8999999999999999,3.0,9.5,19.5,20.5,42.5,47.5,0,border collie,english springer spaniel
+border whipollie,,0.725,13.5,22.0,18.5,21.5,33.5,35.0,0,border collie,whippet
+bordernese,,0.8999999999999999,3.0,9.5,21.0,24.0,62.5,75.0,0,bernese mountain dog,border collie
+bordoodle,,0.95,1.0,4.0,18.470588235294116,20.954248366013072,41.467320261437905,48.76143790849673,0,border collie,poodle
+borollie,,0.8999999999999999,3.0,9.5,20.5,23.5,45.0,57.5,0,border collie,collie
+bosapso,,0.4,33.5,60.0,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,lhasa apso
+boshih,,0.3,53.5,70.0,11.0,13.0,12.0,20.5,0,boston terrier,shih tzu
+boskimo,,0.5349290780141842,25.659574468085104,40.51418439716312,11.5,17.0,20.0,27.5,0,american eskimo,boston terrier
+bosmaraner,,0.675,15.5,27.5,19.5,21.0,42.5,55.0,0,boston terrier,weimaraner
+bospin,,0.6,21.0,32.5,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,miniature pinscher
+bossi-poo,,0.725,13.5,22.0,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,poodle
+bossie,,0.5,26.0,40.0,16.0,19.0,27.5,42.5,0,boston terrier,australian shepherd
+bostalian,,0.4,33.5,60.0,13.0,15.0,10.5,17.5,0,boston terrier,italian greyhound
+bostchon,,0.5,26.0,40.0,11.75,13.25,12.5,21.5,0,boston terrier,bichon frise
+bostie,,0.5,26.0,40.0,12.5,13.0,14.0,20.0,0,boston terrier,west highland white terrier
+bostillon,,0.725,13.5,22.0,11.0,13.0,10.0,17.5,0,boston terrier,papillon
+bostinese,,0.3,53.5,70.0,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,pekingese
+boston border collie,,0.725,13.5,22.0,16.5,18.0,27.5,32.5,0,boston terrier,border collie
+boston boxer,,0.5,26.0,40.0,17.5,20.0,40.0,47.5,0,boston terrier,boxer
+boston cattle dog,,0.725,13.5,22.0,15.5,17.5,25.0,35.0,0,australian cattle dog,boston terrier
+boston chin,,0.4,33.5,60.0,11.0,13.0,9.5,18.0,0,boston terrier,japanese chin
+boston huahua,,0.4,33.5,60.0,10.0,12.0,8.5,15.0,0,boston terrier,chihuahua
+boston iggy,,0.4,33.5,60.0,13.0,15.0,10.5,17.5,0,boston terrier,italian greyhound
+boston lab,,0.725,13.5,22.0,17.5,19.5,35.0,52.5,0,boston terrier,labrador retriever
+boston malterrier,,0.4,33.5,60.0,11.0,12.5,9.5,15.5,0,boston terrier,maltese
+boston spaniel,,0.675,15.5,27.5,14.5,15.5,18.5,26.5,0,boston terrier,cocker spaniel
+boston yorkie,,0.6,21.0,32.5,11.0,11.5,9.0,16.0,0,boston terrier,yorkshire terrier
+bouberman,,0.825,8.5,14.5,24.5,27.5,67.5,97.5,0,bouvier des flandres,doberman pinscher
+bouvador,,0.825,8.5,14.5,22.0,25.5,65.0,87.5,0,bouvier des flandres,labrador retriever
+boweimar,,0.675,15.5,27.5,23.0,26.0,67.5,77.5,0,boxer,weimaraner
+bowzer,,0.475,43.0,57.5,15.970588235294118,17.454248366013072,41.467320261437905,53.76143790849673,0,basset hound,miniature schnauzer
+box-a-pug,,0.4,33.5,60.0,15.5,18.0,39.5,46.0,0,boxer,pug
+boxer bloodhound,,0.3,53.5,70.0,22.5,25.5,72.5,95.0,0,bloodhound,boxer
+boxer chow,,0.3,53.5,70.0,20.0,23.5,55.0,62.5,0,boxer,chow chow
+boxer jack,,0.5,26.0,40.0,19.470588235294116,22.954248366013072,53.967320261437905,63.76143790849673,0,boxer,jack russell terrier
+boxer shepherd,,0.725,13.5,22.0,21.5,25.5,70.0,80.0,0,boxer,german shepherd
+boxer whippet,,0.5,26.0,40.0,19.5,23.5,46.0,50.0,0,boxer,whippet
+boxachi,,0.4,33.5,60.0,13.5,17.0,33.5,37.5,0,boxer,chihuahua
+boxador,,0.725,13.5,22.0,21.0,24.5,60.0,75.0,0,boxer,labrador retriever
+boxane,,0.5,26.0,40.0,26.5,28.5,92.5,115.0,0,boxer,great dane
+boxapoint,,0.675,15.5,27.5,20.5,26.0,57.5,75.0,0,boxer,german shorthaired pointer
+boxer basset,,0.3,53.5,70.0,17.5,19.5,52.5,60.0,0,boxer,basset hound
+boxerdoodle,,0.725,13.5,22.0,19.470588235294116,22.954248366013072,53.967320261437905,63.76143790849673,0,boxer,poodle
+boxerman,,0.725,13.5,22.0,23.5,26.5,62.5,85.0,0,boxer,doberman pinscher
+boxita,,0.5,26.0,40.0,23.5,26.5,72.5,95.0,0,akita,boxer
+boxmas,,0.3,53.5,70.0,24.0,27.5,120.0,130.0,0,boxer,mastiff
+boxmatian,,0.6,21.0,32.5,20.0,24.0,55.0,70.0,0,boxer,dalmatian
+boxollie,,0.675,15.5,27.5,21.5,25.5,57.5,72.5,0,boxer,collie
+boxsky,,0.5,26.0,40.0,20.5,24.0,52.5,65.0,0,boxer,siberian husky
+boxspring,,0.675,15.5,27.5,20.5,22.5,55.0,62.5,0,boxer,english springer spaniel
+boxweiler,,0.725,13.5,22.0,21.5,26.0,77.5,90.0,0,rottweiler,boxer
+bridoodle,,0.825,8.5,14.5,20.470588235294116,23.954248366013072,58.467320261437905,66.76143790849673,0,briard,poodle
+brittany beagle,,0.475,43.0,57.5,15.0,18.5,24.0,35.0,0,brittany,beagle
+broodle griffon,,0.7599290780141843,13.159574468085104,22.51418439716312,12.470588235294118,14.454248366013072,24.46732026143791,34.76143790849673,0,brussels griffon,poodle
+brottweiler,,0.7599290780141843,13.159574468085104,22.51418439716312,14.5,17.5,48.0,61.0,0,brussels griffon,rottweiler
+brug,,0.43492907801418423,33.159574468085104,60.51418439716312,8.5,9.5,10.0,17.0,0,brussels griffon,pug
+brussalier,,0.5349290780141842,25.659574468085104,40.51418439716312,8.5,11.5,10.5,16.0,0,brussels griffon,cavalier king charles spaniel
+brusselranian,,0.7099290780141843,15.159574468085104,28.01418439716312,9.5,10.0,4.5,9.5,0,brussels griffon,pomeranian
+brusston,,0.5349290780141842,25.659574468085104,40.51418439716312,10.5,11.5,10.5,18.5,0,boston terrier,brussels griffon
+buggs,,0.4,33.5,60.0,12.0,13.0,14.5,23.5,0,boston terrier,pug
+bull chow terrier,,0.2,61.0,90.0,20.0,22.0,47.5,62.5,0,bull terrier,chow chow
+bull daniff,,0.4,33.5,60.0,28.5,29.5,110.0,145.0,0,bullmastiff,great dane
+bull greyhound terrier,,0.4,33.5,60.0,24.0,26.0,55.0,70.0,0,greyhound,bull terrier
+bull heeler terrier,,0.625,21.0,42.0,19.0,21.0,42.5,57.5,0,bull terrier,australian cattle dog
+bull jack,,0.3,53.5,70.0,14.970588235294118,18.454248366013072,46.467320261437905,58.76143790849673,0,bulldog,jack russell terrier
+bull mastweiler,,0.625,21.0,42.0,23.5,27.0,95.0,120.0,0,bullmastiff,rottweiler
+bullbasset mastiff,,0.2,61.0,90.0,19.5,20.5,70.0,90.0,0,bullmastiff,basset hound
+bullboxer pit,,0.6,21.0,32.5,19.0,22.0,52.5,60.0,0,boxer,american pit bull terrier
+bullboxer staff,,0.6,21.0,32.5,19.0,22.0,52.5,60.0,0,boxer,american staffordshire terrier
+bullboxer staffy bull,,0.5,26.0,40.0,17.5,20.5,44.5,49.0,0,boxer,staffordshire bull terrier
+bullhuahua,,0.2,61.0,90.0,9.0,12.5,26.0,32.5,0,bulldog,chihuahua
+bullhuahua terrier,,0.3,41.0,80.0,13.5,15.5,26.0,37.5,0,bull terrier,chihuahua
+bullmasador,,0.625,21.0,42.0,23.0,25.5,77.5,105.0,0,bullmastiff,labrador retriever
+bullmastiff shepherd,,0.625,21.0,42.0,23.5,26.5,87.5,110.0,0,bullmastiff,german shepherd
+bullmatian,,0.39999999999999997,48.5,62.5,15.5,19.5,47.5,65.0,0,bulldog,dalmatian
+bullmatian terrier,,0.5,28.5,52.5,20.0,22.5,47.5,70.0,0,bull terrier,dalmatian
+bullsky mastiff,,0.4,33.5,60.0,22.5,25.0,70.0,95.0,0,bullmastiff,siberian husky
+bullwhip,,0.3,53.5,70.0,15.0,19.0,38.5,45.0,0,bulldog,whippet
+bully basset,,0.1,81.0,100.0,13.0,15.0,45.0,55.0,0,basset hound,bulldog
+bully jack terrier,,0.4,33.5,60.0,19.470588235294116,21.454248366013072,46.467320261437905,63.76143790849673,0,bull terrier,jack russell terrier
+bully-tzu,,0.1,81.0,100.0,10.0,13.5,29.5,38.0,0,bulldog,shih tzu
+bushland terrier,,0.5,28.5,52.5,9.5,11.0,16.0,18.0,0,cairn terrier,scottish terrier
+cadoodle,,0.8999999999999999,3.0,9.5,19.970588235294116,23.454248366013072,46.467320261437905,66.26143790849673,0,collie,poodle
+cairanian,,0.7749999999999999,10.5,20.0,10.5,11.0,8.5,10.5,0,cairn terrier,pomeranian
+cairicocker,,0.7749999999999999,10.5,20.0,12.0,13.0,18.0,21.0,0,cairn terrier,cocker spaniel
+cairmal,,0.5,28.5,52.5,8.5,10.0,9.0,10.0,0,cairn terrier,maltese
+cairn beagle,,0.39999999999999997,48.5,62.5,11.0,13.0,16.0,22.0,0,cairn terrier,beagle
+cairn chin,,0.5,28.5,52.5,8.5,10.5,9.0,12.5,0,cairn terrier,japanese chin
+carin australian shepterrier,,0.6,21.0,32.5,13.5,16.5,27.0,37.0,0,australian shepherd,cairn terrier
+cairnese,,0.6,21.0,32.5,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,havanese
+cairnoodle,,0.825,8.5,14.5,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,poodle
+cairnwich terrier,,0.7,16.0,25.0,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,norwich terrier
+cairoston,,0.6,21.0,32.5,11.5,12.5,14.5,19.5,0,cairn terrier,boston terrier
+cardigan corgi pointer,,0.675,15.5,27.5,15.5,18.0,34.5,50.5,0,cardigan welsh corgi,pointer
+cardigan corman shepherd,,0.8999999999999999,3.0,9.5,16.0,19.0,50.0,62.5,0,cardigan welsh corgi,german shepherd
+cardigan pembroke corgi,,0.85,5.0,15.0,13.970588235294118,16.454248366013072,33.967320261437905,46.26143790849673,0,cardigan welsh corgi,pembroke welsh corgi
+care-tzu,,0.39999999999999997,48.5,62.5,8.5,10.5,11.5,15.0,0,cairn terrier,shih tzu
+carkie,,0.7,16.0,25.0,8.5,9.0,8.5,10.5,0,cairn terrier,yorkshire terrier
+carnauzer,,0.7749999999999999,10.5,20.0,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,miniature schnauzer
+cattle collie dog,,0.8999999999999999,3.0,9.5,19.5,23.0,42.5,60.0,0,australian cattle dog,collie
+cattle shepherd,,0.95,1.0,4.0,19.5,23.0,55.0,67.5,0,australian cattle dog,german shepherd
+cav-a-mo,,0.5349290780141842,25.659574468085104,40.51418439716312,9.5,17.0,20.0,25.0,0,american eskimo,cavalier king charles spaniel
+cava-corgi,,0.675,15.5,27.5,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,pembroke welsh corgi
+cav-a-jack,,0.5,26.0,40.0,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,jack russell terrier
+cava inu,,0.5,26.0,40.0,11.5,15.5,15.0,25.0,0,cavalier king charles spaniel,shiba inu
+cavachon,,0.5,26.0,40.0,9.75,13.25,12.5,19.0,0,bichon frise,cavalier king charles spaniel
+cavador,,0.725,13.5,22.0,15.5,19.5,35.0,50.0,0,cavalier king charles spaniel,labrador retriever
+cavanese,,0.5,26.0,40.0,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,havanese
+cavapom,,0.675,15.5,27.5,11.0,13.5,9.0,13.5,0,cavalier king charles spaniel,pomeranian
+cavapoo,,0.725,13.5,22.0,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,poodle
+cava-shell,,0.725,13.5,22.0,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,shetland sheepdog
+cavestie,,0.5,26.0,40.0,10.5,13.0,14.0,17.5,0,cavalier king charles spaniel,west highland white terrier
+chabrador,,0.525,41.0,52.0,20.0,23.0,50.0,67.5,0,chow chow,labrador retriever
+chatham hill retriever,,0.85,5.0,15.0,18.5,19.5,41.0,49.0,0,flat-coated retriever,cocker spaniel
+cheagle,,0.2,61.0,90.0,9.5,12.5,10.0,17.5,0,chihuahua,beagle
+cheeks,,0.2,61.0,90.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,pekingese
+cheenese,,0.4,33.5,60.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,havanese
+chesa-poo,,0.825,8.5,14.5,19.470588235294116,23.454248366013072,48.967320261437905,66.26143790849673,0,chesapeake bay retriever,poodle
+chesador,,0.825,8.5,14.5,21.0,25.0,55.0,77.5,0,chesapeake bay retriever,labrador retriever
+crested boxer,,0.4,33.5,60.0,16.0,19.0,35.0,41.0,0,chinese crested,boxer
+chestie,,0.4,33.5,60.0,8.5,10.0,7.5,10.0,0,chihuahua,west highland white terrier
+chi apso,,0.3,41.0,80.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,lhasa apso
+chi-chi,,0.3,41.0,80.0,8.5,11.0,3.5,8.5,0,chihuahua,chinese crested
+chi-chon,,0.4,33.5,60.0,7.75,10.25,6.0,11.5,0,bichon frise,chihuahua
+chidale,,0.5,28.5,52.5,14.0,16.5,23.5,25.0,0,chihuahua,airedale terrier
+chi-poo,,0.625,21.0,42.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,poodle
+chi-spaniel,,0.575,23.0,47.5,10.5,12.5,12.0,16.5,0,chihuahua,cocker spaniel
+chi staffy bull,,0.4,33.5,60.0,10.0,12.5,13.0,16.5,0,chihuahua,staffordshire bull terrier
+chimation,,0.5,28.5,52.5,12.5,16.0,23.5,37.5,0,chihuahua,dalmatian
+chin crested,,0.3,41.0,80.0,9.5,12.0,4.5,11.5,0,chinese crested,japanese chin
+chin-fenpinscher,,0.5,28.5,52.5,8.5,11.5,6.0,11.5,0,affenpinscher,japanese chin
+chin-ocker,,0.575,23.0,47.5,11.5,13.5,13.0,19.5,0,cocker spaniel,japanese chin
+chin-pin,,0.5,28.5,52.5,12.970588235294118,15.954248366013072,23.46732026143791,34.26143790849673,0,miniature pinscher,japanese chin
+chin-wa,,0.3,41.0,80.0,7.0,10.0,3.0,8.0,0,chihuahua,japanese chin
+china jack,,0.4,33.5,60.0,14.470588235294118,16.954248366013072,23.96732026143791,34.76143790849673,0,chinese crested,jack russell terrier
+chinaranian,,0.575,23.0,47.5,11.5,12.5,4.0,9.5,0,chinese crested,pomeranian
+chineranian,,0.575,23.0,47.5,10.0,11.5,3.5,9.0,0,japanese chin,pomeranian
+chinese crestepoo,,0.625,21.0,42.0,14.470588235294118,16.954248366013072,23.96732026143791,34.76143790849673,0,chinese crested,poodle
+chinese crestese,,0.3,41.0,80.0,9.5,11.5,4.5,9.0,0,chinese crested,maltese
+chinese frise,,0.4,33.5,60.0,10.25,12.25,7.5,15.0,0,bichon frise,chinese crested
+chion,,0.625,21.0,42.0,7.0,10.0,3.5,7.5,0,chihuahua,papillon
+chipin,,0.5,28.5,52.5,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,miniature pinscher
+chipit,,0.5,28.5,52.5,11.5,14.0,21.0,27.5,0,chihuahua,american pit bull terrier
+chisenji,,0.2,61.0,90.0,11.5,13.0,11.0,13.5,0,chihuahua,basenji
+chiweenie,,0.4,33.5,60.0,6.5,9.5,9.0,18.5,0,chihuahua,dachshund
+chiwoxy,,0.4,33.5,60.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,wire fox terrier
+chizer,,0.575,23.0,47.5,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,miniature schnauzer
+chonzer,,0.675,15.5,27.5,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,miniature schnauzer
+chorkie,,0.5,28.5,52.5,7.0,8.5,2.5,6.0,0,chihuahua,yorkshire terrier
+chow hound basset,,0.1,81.0,100.0,16.5,18.0,42.5,52.5,0,chow chow,basset hound
+chowpit,,0.39999999999999997,48.5,62.5,18.0,20.5,42.5,52.5,0,chow chow,american pit bull terrier
+chug,,0.3,41.0,80.0,8.0,10.0,8.0,13.5,0,chihuahua,pug
+chusky,,0.3,53.5,70.0,19.5,22.5,42.5,57.5,0,chow chow,siberian husky
+chussel,,0.43492907801418423,33.159574468085104,60.51418439716312,6.5,8.5,4.0,8.5,0,brussels griffon,chihuahua
+chuvasz,,0.3,53.5,70.0,23.5,26.0,57.5,87.5,0,chow chow,kuvasz
+carillon,,0.825,8.5,14.5,8.5,10.5,9.5,12.0,0,cairn terrier,papillon
+clumber lab,,0.825,8.5,14.5,20.0,22.0,45.0,72.5,0,clumber spaniel,labrador retriever
+clumber pei,,0.6,21.0,32.5,18.5,20.0,40.0,60.0,0,clumber spaniel,chinese shar pei
+clumberton,,0.6,21.0,32.5,17.0,18.0,26.5,44.0,0,clumber spaniel,bedlington terrier
+clumberstiff,,0.5,28.5,52.5,22.0,23.5,67.5,97.5,0,clumber spaniel,bullmastiff
+cock-a-chon,,0.675,15.5,27.5,12.25,13.75,16.0,23.0,0,bichon frise,cocker spaniel
+cock-a-mo,,0.7099290780141843,15.159574468085104,28.01418439716312,12.0,17.5,23.5,29.0,0,american eskimo,cocker spaniel
+cock-a-tzu,,0.475,43.0,57.5,11.5,13.5,15.5,22.0,0,cocker spaniel,shih tzu
+cockapin,,0.7749999999999999,10.5,20.0,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,miniature pinscher
+cockapoo,,0.8999999999999999,3.0,9.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,poodle
+cocker chow,,0.475,43.0,57.5,17.0,19.0,33.5,41.5,0,cocker spaniel,chow chow
+cocker griffon,,0.7099290780141843,15.159574468085104,28.01418439716312,11.0,12.0,14.0,20.0,0,cocker spaniel,brussels griffon
+cocker jack,,0.675,15.5,27.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,jack russell terrier
+cocker-pei,,0.675,15.5,27.5,16.5,18.0,33.5,41.5,0,cocker spaniel,chinese shar pei
+cocker pug,,0.575,23.0,47.5,12.5,13.5,18.0,25.0,0,cocker spaniel,pug
+cocker sheltie,,0.8999999999999999,3.0,9.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,shetland sheepdog
+cocker weim,,0.85,5.0,15.0,20.0,21.5,46.0,56.5,0,cocker spaniel,weimaraner
+cocker westie,,0.675,15.5,27.5,13.0,13.5,17.5,21.5,0,cocker spaniel,west highland white terrier
+cockeranian,,0.85,5.0,15.0,13.5,14.0,12.5,17.5,0,cocker spaniel,pomeranian
+cockinese,,0.475,43.0,57.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,pekingese
+cojack,,0.675,15.5,27.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,jack russell terrier,pembroke welsh corgi
+collie pyrenees,,0.575,23.0,47.5,24.5,29.0,72.5,97.5,0,collie,great pyrenees
+confetti australian shepherd,,0.675,15.5,27.5,17.970588235294116,21.954248366013072,41.467320261437905,58.76143790849673,0,australian shepherd,miniature schnauzer
+corgi cattle dog,,0.8999999999999999,3.0,9.5,17.470588235294116,20.454248366013072,38.967320261437905,51.26143790849673,0,australian cattle dog,pembroke welsh corgi
+corillon,,0.8999999999999999,3.0,9.5,12.970588235294118,15.954248366013072,23.96732026143791,33.76143790849673,0,papillon,pembroke welsh corgi
+cosheltie,,0.8999999999999999,3.0,9.5,19.970588235294116,23.454248366013072,46.467320261437905,66.26143790849673,0,collie,shetland sheepdog
+crested apso,,0.3,41.0,80.0,14.470588235294118,16.954248366013072,23.96732026143791,34.76143790849673,0,chinese crested,lhasa apso
+crested beagle,,0.2,61.0,90.0,12.0,14.5,11.5,21.0,0,chinese crested,beagle
+crested cavalier,,0.4,33.5,60.0,10.5,14.0,10.0,16.0,0,chinese crested,cavalier king charles spaniel
+crested cocker,,0.575,23.0,47.5,13.0,14.5,13.5,20.0,0,chinese crested,cocker spaniel
+crested havanese,,0.4,33.5,60.0,14.470588235294118,16.954248366013072,23.96732026143791,34.76143790849673,0,chinese crested,havanese
+crested malt,,0.3,41.0,80.0,9.5,11.5,4.5,9.0,0,chinese crested,maltese
+crested peke,,0.2,61.0,90.0,14.470588235294118,16.954248366013072,23.96732026143791,34.76143790849673,0,chinese crested,pekingese
+crested schnauzer,,0.575,23.0,47.5,14.470588235294118,16.954248366013072,23.96732026143791,34.76143790849673,0,chinese crested,miniature schnauzer
+crested tzu,,0.2,61.0,90.0,9.5,12.0,7.0,14.0,0,chinese crested,shih tzu
+crested westie,,0.4,33.5,60.0,11.0,12.0,9.0,13.5,0,chinese crested,west highland white terrier
+crestoxie,,0.4,33.5,60.0,9.0,11.5,10.5,22.0,0,chinese crested,dachshund
+crustie,,0.5,28.5,52.5,9.5,10.5,4.0,9.5,0,chinese crested,yorkshire terrier
+dach-griffon,,0.5349290780141842,25.659574468085104,40.51418439716312,7.0,9.0,11.0,22.0,0,dachshund,brussels griffon
+dachsador,,0.725,13.5,22.0,14.0,17.0,35.5,56.0,0,dachshund,labrador retriever
+dachsi apso,,0.4,33.5,60.0,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,dachshund,lhasa apso
+dachsweiler,,0.725,13.5,22.0,14.5,18.5,53.0,71.0,0,dachshund,rottweiler
+dalmadoodle,,0.825,8.5,14.5,18.470588235294116,21.954248366013072,43.967320261437905,63.76143790849673,0,dalmatian,poodle
+dalmador,,0.825,8.5,14.5,20.0,23.5,50.0,75.0,0,labrador retriever,dalmatian
+dalmatian husky,,0.6,21.0,32.5,19.5,23.0,42.5,65.0,0,dalmatian,siberian husky
+dalmatian springer,,0.7749999999999999,10.5,20.0,19.5,21.5,45.0,62.5,0,dalmatian,english springer spaniel
+dameranian,,0.675,15.5,27.5,9.5,11.0,9.5,19.5,0,dachshund,pomeranian
+dane shepherd,,0.725,13.5,22.0,27.0,29.0,97.5,125.0,0,great dane,german shepherd
+daniff,,0.3,53.5,70.0,29.5,31.0,147.5,175.0,0,great dane,mastiff
+dashalier,,0.5,26.0,40.0,8.5,12.5,15.5,26.0,0,dachshund,cavalier king charles spaniel
+daug,,0.4,33.5,60.0,8.5,10.5,15.0,27.0,0,dachshund,pug
+deerhound shepherd,,0.725,13.5,22.0,25.0,29.0,75.0,100.0,0,scottish deerhound,german shepherd
+doberman greyhound,,0.725,13.5,22.0,26.5,29.0,60.0,85.0,0,doberman pinscher,greyhound
+doberdane,,0.725,13.5,22.0,29.0,30.0,90.0,130.0,0,doberman pinscher,great dane
+doberdor,,0.95,1.0,4.0,23.5,26.0,57.5,90.0,0,doberman pinscher,labrador retriever
+doberghan,,0.525,41.0,52.0,25.5,27.5,55.0,80.0,0,doberman pinscher,afghan hound
+doberman bulldog,,0.525,41.0,52.0,19.0,22.0,55.0,80.0,0,doberman pinscher,bulldog
+doberman collie,,0.8999999999999999,3.0,9.5,24.0,27.0,55.0,87.5,0,doberman pinscher,collie
+doberman pit,,0.825,8.5,14.5,21.5,23.5,50.0,75.0,0,doberman pinscher,american pit bull terrier
+doberman shepherd,,0.95,1.0,4.0,24.0,27.0,67.5,95.0,0,doberman pinscher,german shepherd
+dobie-basset,,0.525,41.0,52.0,20.0,21.0,50.0,75.0,0,doberman pinscher,basset hound
+dobie foxhound,,0.725,13.5,22.0,24.0,26.5,62.5,85.0,0,doberman pinscher,american foxhound
+dobie heeler,,0.95,1.0,4.0,21.5,24.0,47.5,72.5,0,doberman pinscher,australian cattle dog
+dobieton,,0.725,13.5,22.0,20.0,21.5,37.5,62.5,0,doberman pinscher,boston terrier
+dobocker,,0.8999999999999999,3.0,9.5,20.5,22.0,41.0,64.0,0,doberman pinscher,cocker spaniel
+dobsky,,0.625,21.0,42.0,23.0,26.0,60.0,82.5,0,doberman pinscher,old english sheepdog
+docker,,0.675,15.5,27.5,11.0,13.0,19.0,30.0,0,dachshund,cocker spaniel
+dogue brasileiro,,0.4,33.5,60.0,21.0,23.5,57.5,70.0,0,bull terrier,boxer
+dorkie,,0.6,21.0,32.5,7.5,9.0,9.5,19.5,0,dachshund,yorkshire terrier
+doubull-mastiff,,0.2,61.0,90.0,26.0,28.5,137.5,160.0,0,bullmastiff,mastiff
+doxie cairn,,0.6,21.0,32.5,8.0,10.0,15.0,23.0,0,cairn terrier,dachshund
+doxie-chin,,0.4,33.5,60.0,7.5,10.5,10.0,21.5,0,dachshund,japanese chin
+doxie-chon,,0.5,26.0,40.0,8.25,10.75,13.0,25.0,0,bichon frise,dachshund
+doxie heeler,,0.725,13.5,22.0,12.0,15.0,25.5,38.5,0,australian cattle dog,dachshund
+doxie scot,,0.4,33.5,60.0,8.5,11.0,17.0,27.0,0,dachshund,scottish terrier
+doxie-pin,,0.6,21.0,32.5,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,dachshund,miniature pinscher
+doxie-pit,,0.6,21.0,32.5,12.0,14.5,28.0,41.0,0,dachshund,american pit bull terrier
+doxiepoo,,0.725,13.5,22.0,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,dachshund,poodle
+doxle,,0.3,53.5,70.0,10.0,13.0,17.0,31.0,0,beagle,dachshund
+dusky,,0.5,26.0,40.0,13.5,16.5,28.0,46.0,0,dachshund,siberian husky
+elk-a-bee,,0.39999999999999997,48.5,62.5,16.0,18.0,29.0,45.0,0,norwegian elkhound,beagle
+elkhound shepherd,,0.825,8.5,14.5,20.5,23.0,57.5,75.0,0,norwegian elkhound,german shepherd
+elk-kee,,0.7749999999999999,10.5,20.0,18.0,19.5,37.5,55.0,0,keeshond,norwegian elkhound
+eng-a-poo,,0.7599290780141843,13.159574468085104,22.51418439716312,13.970588235294118,15.454248366013072,25.96732026143791,36.26143790849673,0,english toy spaniel,poodle
+enga-apso,,0.43492907801418423,33.159574468085104,60.51418439716312,13.970588235294118,15.454248366013072,25.96732026143791,36.26143790849673,0,english toy spaniel,lhasa apso
+engachon,,0.5349290780141842,25.659574468085104,40.51418439716312,9.75,10.75,9.5,16.5,0,bichon frise,english toy spaniel
+enganese,,0.5349290780141842,25.659574468085104,40.51418439716312,13.970588235294118,15.454248366013072,25.96732026143791,36.26143790849673,0,english toy spaniel,havanese
+engatzu spaniel,,0.33492907801418426,53.159574468085104,70.51418439716312,9.0,10.5,9.0,15.5,0,english toy spaniel,shih tzu
+english borsetter collie,,0.825,8.5,14.5,21.0,24.0,42.5,60.0,0,border collie,english setter
+english boxetter,,0.6,21.0,32.5,22.0,26.0,55.0,75.0,0,english setter,boxer
+english bull springer,,0.475,43.0,57.5,16.0,18.0,47.5,57.5,0,bulldog,english springer spaniel
+english bull terrier pit,,0.5,28.5,52.5,19.0,20.5,45.0,60.0,0,bull terrier,pit bull terrier
+english bullamute,,0.3,53.5,70.0,17.5,20.5,62.5,72.5,0,bulldog,alaskan malamute
+english cocker chow,,0.475,43.0,57.5,17.0,19.5,35.0,45.0,0,english cocker spaniel,chow chow
+english mastweiler,,0.525,41.0,52.0,24.5,28.5,132.5,150.0,0,mastiff,rottweiler
+english spanador,,0.8999999999999999,3.0,9.5,18.0,20.5,40.0,57.5,0,english cocker spaniel,labrador retriever
+english spantriever,,0.8999999999999999,3.0,9.5,18.0,20.5,40.0,57.5,0,english cocker spaniel,labrador retriever
+english speagle,,0.33492907801418426,53.159574468085104,70.51418439716312,11.5,13.0,13.5,22.5,0,beagle,english toy spaniel
+english springerman,,0.8999999999999999,3.0,9.5,23.0,24.0,52.5,77.5,0,doberman pinscher,english springer spaniel
+english toy chin spaniel,,0.43492907801418423,33.159574468085104,60.51418439716312,9.0,10.5,6.5,13.0,0,english toy spaniel,japanese chin
+english toy cocker spaniel,,0.7099290780141843,15.159574468085104,28.01418439716312,12.5,13.0,15.5,21.5,0,cocker spaniel,english toy spaniel
+english toy griffon,,0.5698581560283685,25.31914893617021,41.02836879432624,8.5,9.0,7.5,13.5,0,brussels griffon,english toy spaniel
+english toy papillon,,0.7599290780141843,13.159574468085104,22.51418439716312,9.0,10.5,7.0,12.5,0,papillon,english toy spaniel
+english toy spanese,,0.33492907801418426,53.159574468085104,70.51418439716312,13.970588235294118,15.454248366013072,25.96732026143791,36.26143790849673,0,english toy spaniel,pekingese
+eskenji,,0.33492907801418426,53.159574468085104,70.51418439716312,13.0,18.0,22.5,26.0,0,american eskimo,basenji
+eskidor,,0.7599290780141843,13.159574468085104,22.51418439716312,15.0,21.5,40.0,55.0,0,american eskimo,labrador retriever
+eskifon,,0.5698581560283685,25.31914893617021,41.02836879432624,8.0,13.5,15.5,21.0,0,american eskimo,brussels griffon
+eskijack,,0.5349290780141842,25.659574468085104,40.51418439716312,13.470588235294118,19.954248366013072,33.967320261437905,43.76143790849673,0,american eskimo,jack russell terrier
+eskimo chi,,0.43492907801418423,33.159574468085104,60.51418439716312,7.5,14.0,13.5,17.5,0,american eskimo,chihuahua
+eskimo shepherd,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,22.5,50.0,60.0,0,american eskimo,german shepherd
+eskimo yorkie,,0.6349290780141843,20.659574468085104,33.01418439716312,8.5,13.5,14.0,18.5,0,american eskimo,yorkshire terrier
+eskland,,0.7599290780141843,13.159574468085104,22.51418439716312,13.470588235294118,19.954248366013072,33.967320261437905,43.76143790849673,0,american eskimo,shetland sheepdog
+euro mountain sheparnese,,0.8999999999999999,3.0,9.5,22.5,26.5,80.0,100.0,0,bernese mountain dog,german shepherd
+ewokian,,0.675,15.5,27.5,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,havanese,pomeranian
+faux frenchbo bulldog,,0.4,33.5,60.0,12.5,13.5,16.0,26.5,0,boston terrier,french bulldog
+finnish chow spitz,,0.3,53.5,70.0,17.0,21.0,38.0,45.0,0,finnish spitz,chow chow
+flandoodle,,0.825,8.5,14.5,20.470588235294116,23.954248366013072,58.967320261437905,76.26143790849673,0,bouvier des flandres,poodle
+fo-tzu,,0.33492907801418426,53.159574468085104,70.51418439716312,9.0,10.5,6.5,11.5,0,shih tzu,toy fox terrier
+foodle,,0.7599290780141843,13.159574468085104,22.51418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,poodle,toy fox terrier
+foxingese,,0.3,53.5,70.0,15.470588235294118,18.454248366013072,28.96732026143791,38.76143790849673,0,pekingese,fox terrier
+foxker,,0.675,15.5,27.5,14.0,16.0,18.5,24.0,0,cocker spaniel,fox terrier
+foxton,,0.5349290780141842,25.659574468085104,40.51418439716312,12.0,12.5,9.5,16.0,0,boston terrier,toy fox terrier
+foxy russell,,0.5349290780141842,25.659574468085104,40.51418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,jack russell terrier,toy fox terrier
+free-lance bulldog,,0.2,61.0,90.0,11.5,14.0,33.5,44.0,0,french bulldog,bulldog
+french buillon,,0.625,21.0,42.0,9.5,11.5,11.0,19.0,0,french bulldog,papillon
+french bull dane,,0.4,33.5,60.0,21.5,22.0,68.5,94.0,0,french bulldog,great dane
+french bull jack,,0.4,33.5,60.0,14.470588235294118,16.454248366013072,29.96732026143791,42.76143790849673,0,french bulldog,jack russell terrier
+french bull terrier,,0.3,41.0,80.0,16.0,17.0,33.5,49.0,0,french bulldog,bull terrier
+french bull tzu,,0.2,61.0,90.0,9.5,11.5,13.0,22.0,0,french bulldog,shih tzu
+french bull weiner,,0.4,33.5,60.0,9.0,11.0,16.5,30.0,0,french bulldog,dachshund
+french bullhuahua,,0.3,41.0,80.0,8.5,10.5,9.5,16.5,0,french bulldog,chihuahua
+french bullnese,,0.2,61.0,90.0,14.470588235294118,16.454248366013072,29.96732026143791,42.76143790849673,0,french bulldog,pekingese
+french bulloxer,,0.4,33.5,60.0,16.0,18.5,41.0,49.0,0,boxer,french bulldog
+french bullweiler,,0.625,21.0,42.0,16.5,19.5,53.5,69.0,0,french bulldog,rottweiler
+french masti-bull,,0.2,61.0,90.0,19.0,21.0,96.0,109.0,0,french bulldog,mastiff
+french pin,,0.5,28.5,52.5,14.470588235294118,16.454248366013072,29.96732026143791,42.76143790849673,0,french bulldog,miniature pinscher
+french west highlander,,0.4,33.5,60.0,11.0,11.5,15.0,21.5,0,french bulldog,west highland white terrier
+frenchie bichon,,0.4,33.5,60.0,10.25,11.75,13.5,23.0,0,french bulldog,bichon frise
+frenchie labrador,,0.625,21.0,42.0,16.0,18.0,36.0,54.0,0,french bulldog,labrador retriever
+frenchie-pei,,0.4,33.5,60.0,14.5,16.0,31.0,41.5,0,french bulldog,chinese shar pei
+frenchie pug,,0.3,41.0,80.0,10.5,11.5,15.5,25.0,0,french bulldog,pug
+frenchie shepherd,,0.625,21.0,42.0,16.5,19.0,46.0,59.0,0,french bulldog,german shepherd
+frenchie staff,,0.5,28.5,52.5,14.0,15.5,28.5,39.0,0,french bulldog,american staffordshire terrier
+frenchnese,,0.4,33.5,60.0,14.470588235294118,16.454248366013072,29.96732026143791,42.76143790849673,0,french bulldog,havanese
+frengle,,0.2,61.0,90.0,12.0,14.0,17.5,29.0,0,french bulldog,beagle
+froodle,,0.625,21.0,42.0,14.470588235294118,16.454248366013072,29.96732026143791,42.76143790849673,0,french bulldog,poodle
+gerberian shepsky,,0.725,13.5,22.0,21.0,24.5,57.5,75.0,0,german shepherd,siberian husky
+german australian shepherd,,0.725,13.5,22.0,20.0,24.5,57.5,75.0,0,german shepherd,australian shepherd
+german hund pointer,,0.5,26.0,40.0,14.5,18.0,38.0,51.0,0,german wirehaired pointer,dachshund
+german pointeraner,,0.85,5.0,15.0,22.5,27.0,60.0,82.5,0,german shorthaired pointer,weimaraner
+german shorthair toller,,0.7099290780141843,15.159574468085104,28.01418439716312,18.5,24.0,42.5,65.0,0,german shorthaired pointer,nova scotia duck tolling retriever
+german shorthaired lab,,0.8999999999999999,3.0,9.5,20.5,25.5,52.5,80.0,0,german shorthaired pointer,labrador retriever
+german shorthaired pointerpoodle,,0.8999999999999999,3.0,9.5,18.970588235294116,23.954248366013072,46.467320261437905,68.76143790849673,0,german shorthaired pointer,poodle
+german shorthaired sprointer,,0.85,5.0,15.0,20.0,23.5,47.5,67.5,0,german shorthaired pointer,english springer spaniel
+german shorthaired weimaraner,,0.85,5.0,15.0,22.5,27.0,60.0,82.5,0,german shorthaired pointer,weimaraner
+german wirehaired lab,,0.725,13.5,22.0,21.5,25.0,57.5,75.0,0,german wirehaired pointer,labrador retriever
+german wirehaired newfie,,0.6,21.0,32.5,24.0,27.0,80.0,110.0,0,german wirehaired pointer,newfoundland
+german wirehaired pointing vizsla,,0.675,15.5,27.5,35.0,46.0,41.0,47.5,0,german wirehaired pointer,vizsla
+german wirehaired pointing wolfhound,,0.5,26.0,40.0,25.0,30.5,75.0,110.0,0,german wirehaired pointer,irish wolfhound
+german wirehaired sprointer,,0.675,15.5,27.5,21.0,23.0,52.5,62.5,0,german wirehaired pointer,english springer spaniel
+german yorkie shepherd,,0.825,8.5,14.5,15.0,17.0,39.0,48.5,0,german shepherd,yorkshire terrier
+germanees,,0.625,21.0,42.0,24.5,29.0,85.0,105.0,0,german shepherd,great pyrenees
+giant border schnollie,,0.825,8.5,14.5,22.0,24.5,55.0,57.5,0,border collie,giant schnauzer
+giant irish wolf schnauzer,,0.6,21.0,32.5,26.5,31.5,80.0,112.5,0,giant schnauzer,irish wolfhound
+giant kerry blue schnauzer,,0.7,16.0,25.0,21.0,24.5,50.0,60.0,0,giant schnauzer,kerry blue terrier
+giant komondauzer,,0.6349290780141843,20.659574468085104,33.01418439716312,25.75,31.75,75.0,105.0,0,giant schnauzer,komondor
+giant schnauzer chin,,0.5,28.5,52.5,16.5,19.5,37.0,43.0,0,japanese chin,giant schnauzer
+giant schnoodle,,0.6349290780141843,20.659574468085104,33.01418439716312,20.0,26.5,57.5,60.0,0,giant schnauzer,standard poodle
+giant wire hair snauzer,,0.6,21.0,32.5,21.470588235294116,24.454248366013072,56.467320261437905,66.26143790849673,0,giant schnauzer,wire fox terrier
+glechon,,0.3,53.5,70.0,11.25,13.75,14.0,24.0,0,beagle,bichon frise
+goberian,,0.725,13.5,22.0,20.5,23.5,47.5,67.5,0,golden retriever,siberian husky
+golden akita retriever,,0.725,13.5,22.0,23.5,26.0,67.5,97.5,0,golden retriever,akita
+golden border retriever,,0.95,1.0,4.0,20.0,22.5,47.5,57.5,0,golden retriever,border collie
+golden boxer,,0.725,13.5,22.0,21.0,24.5,60.0,72.5,0,golden retriever,boxer
+golden bulldog,,0.525,41.0,52.0,16.5,20.0,52.5,67.5,0,golden retriever,bulldog
+golden bullmastiff retriever,,0.625,21.0,42.0,23.0,25.5,77.5,102.5,0,bullmastiff,golden retriever
+golden cavalier,,0.725,13.5,22.0,15.5,19.5,35.0,47.5,0,cavalier king charles spaniel,golden retriever
+golden chesabay,,0.825,8.5,14.5,21.0,25.0,55.0,75.0,0,golden retriever,chesapeake bay retriever
+golden chow retriever,,0.525,41.0,52.0,20.0,23.0,50.0,65.0,0,golden retriever,chow chow
+golden cocker retriever,,0.8999999999999999,3.0,9.5,18.0,20.0,38.5,51.5,0,cocker spaniel,golden retriever
+golden dox,,0.725,13.5,22.0,14.0,17.0,35.5,53.5,0,golden retriever,dachshund
+golden irish,,0.825,8.5,14.5,23.0,25.5,57.5,72.5,0,golden retriever,irish setter
+golden jack retriever,,0.725,13.5,22.0,19.470588235294116,22.454248366013072,48.967320261437905,66.26143790849673,0,golden retriever,jack russell terrier
+golden labrador,,0.95,1.0,4.0,21.0,24.0,55.0,77.5,0,golden retriever,labrador retriever
+golden mountain dog,,0.8999999999999999,3.0,9.5,22.0,25.5,70.0,92.5,0,golden retriever,bernese mountain dog
+golden newfie,,0.825,8.5,14.5,23.5,26.0,77.5,112.5,0,golden retriever,newfoundland
+golden pei,,0.725,13.5,22.0,19.5,22.0,50.0,65.0,0,chinese shar pei,golden retriever
+golden pyrenees,,0.625,21.0,42.0,24.0,28.0,75.0,97.5,0,golden retriever,great pyrenees
+golden rottie retriever,,0.95,1.0,4.0,21.5,25.5,72.5,92.5,0,golden retriever,rottweiler
+golden saint,,0.625,21.0,42.0,23.0,26.0,82.5,132.5,0,golden retriever,saint bernard
+golden sammy,,0.825,8.5,14.5,20.0,24.0,52.5,70.0,0,golden retriever,samoyed
+golden shepherd,,0.95,1.0,4.0,21.5,25.0,65.0,82.5,0,golden retriever,german shepherd
+golden tibetan tertriever,,0.625,21.0,42.0,17.5,20.5,37.5,52.5,0,golden retriever,tibetan terrier
+golden toller retriever,,0.7599290780141843,13.159574468085104,22.51418439716312,19.0,22.5,45.0,62.5,0,golden retriever,nova scotia duck tolling retriever
+goldenapso retriever,,0.625,21.0,42.0,19.470588235294116,22.454248366013072,48.967320261437905,66.26143790849673,0,golden retriever,lhasa apso
+goldendale,,0.825,8.5,14.5,21.5,24.0,50.0,60.0,0,golden retriever,airedale terrier
+goldenshire,,0.825,8.5,14.5,14.5,16.0,29.0,41.0,0,golden retriever,yorkshire terrier
+goldendoodle,,0.95,1.0,4.0,19.470588235294116,22.454248366013072,48.967320261437905,66.26143790849673,0,golden retriever,poodle
+goldmaraner,,0.8999999999999999,3.0,9.5,23.0,25.5,62.5,80.0,0,golden retriever,weimaraner
+goldmation,,0.825,8.5,14.5,20.0,23.5,50.0,72.5,0,golden retriever,dalmatian
+gollie,,0.8999999999999999,3.0,9.5,21.5,25.0,52.5,75.0,0,golden retriever,collie
+gordon chesabay,,0.7,16.0,25.0,22.0,26.5,50.0,77.5,0,gordon setter,chesapeake bay retriever
+gordon sheltie,,0.825,8.5,14.5,20.470588235294116,23.954248366013072,43.967320261437905,68.76143790849673,0,gordon setter,shetland sheepdog
+gordondoodle,,0.825,8.5,14.5,20.470588235294116,23.954248366013072,43.967320261437905,68.76143790849673,0,gordon setter,poodle
+great bernese,,0.575,23.0,47.5,25.0,29.5,90.0,115.0,0,bernese mountain dog,great pyrenees
+great danebull,,0.6,21.0,32.5,24.5,25.5,80.0,105.0,0,american pit bull terrier,great dane
+great danesky,,0.5,26.0,40.0,26.0,27.5,80.0,110.0,0,great dane,siberian husky
+great danoodle,,0.725,13.5,22.0,24.970588235294116,26.454248366013072,81.4673202614379,108.76143790849673,0,great dane,poodle
+great dasenji,,0.3,53.5,70.0,24.5,24.5,70.0,91.0,0,great dane,basenji
+great golden dane,,0.725,13.5,22.0,26.5,28.0,87.5,117.5,0,golden retriever,great dane
+great keeshees,,0.575,23.0,47.5,22.0,25.5,65.0,85.0,0,great pyrenees,keeshond
+great pyredane,,0.4,33.5,60.0,29.5,32.0,107.5,140.0,0,great dane,great pyrenees
+great weimar,,0.675,15.5,27.5,28.5,29.5,95.0,122.5,0,great dane,weimaraner
+great wirehaired gryfenees,,0.4,33.5,60.0,23.5,28.0,70.0,90.0,0,wirehaired pointing griffon,great pyrenees
+great wolfhound,,0.4,33.5,60.0,27.5,33.5,92.5,135.0,0,great pyrenees,irish wolfhound
+greyador,,0.725,13.5,22.0,24.0,27.0,57.5,75.0,0,greyhound,labrador retriever
+greybull pit,,0.6,21.0,32.5,22.0,24.5,50.0,60.0,0,american pit bull terrier,greyhound
+greyhound shepherd,,0.725,13.5,22.0,24.5,28.0,67.5,80.0,0,greyhound,german shepherd
+griffairn terrier,,0.6349290780141843,20.659574468085104,33.01418439716312,8.0,9.0,10.0,13.0,0,brussels griffon,cairn terrier
+griffichon,,0.5349290780141842,25.659574468085104,40.51418439716312,8.25,9.75,8.0,15.0,0,bichon frise,brussels griffon
+griffonese,,0.33492907801418426,53.159574468085104,70.51418439716312,12.470588235294118,14.454248366013072,24.46732026143791,34.76143790849673,0,brussels griffon,pekingese
+griffonland,,0.5349290780141842,25.659574468085104,40.51418439716312,9.0,9.5,9.5,13.5,0,brussels griffon,west highland white terrier
+griffonshire,,0.6349290780141843,20.659574468085104,33.01418439716312,7.5,8.0,4.5,9.5,0,brussels griffon,yorkshire terrier
+hava-apso,,0.4,33.5,60.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,havanese,lhasa apso
+hava-boston,,0.5,26.0,40.0,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,havanese,boston terrier
+hava-jack,,0.5,26.0,40.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,havanese,jack russell terrier
+hava-welsh,,0.5,26.0,40.0,16.470588235294116,17.954248366013072,31.46732026143791,39.26143790849673,0,havanese,welsh terrier
+havachin,,0.4,33.5,60.0,12.970588235294118,15.954248366013072,23.46732026143791,34.26143790849673,0,havanese,japanese chin
+havachon,,0.5,26.0,40.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,havanese
+havaco,,0.675,15.5,27.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,havanese,cocker spaniel
+havallon,,0.725,13.5,22.0,12.970588235294118,15.954248366013072,23.96732026143791,33.76143790849673,0,havanese,papillon
+havamalt,,0.4,33.5,60.0,12.970588235294118,15.454248366013072,23.46732026143791,31.76143790849673,0,havanese,maltese
+havapeke,,0.3,53.5,70.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,havanese,pekingese
+havashire,,0.6,21.0,32.5,12.970588235294118,14.454248366013072,22.96732026143791,32.26143790849673,0,havanese,yorkshire terrier
+havashu,,0.3,53.5,70.0,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,havanese,shih tzu
+hug,,0.4,33.5,60.0,15.0,17.0,27.0,41.0,0,siberian husky,pug
+hush basset,,0.475,43.0,57.5,14.5,15.0,31.0,39.0,0,basset hound,cocker spaniel
+husker,,0.5,26.0,40.0,20.5,24.0,52.5,65.0,0,boxer,siberian husky
+huskimo,,0.5349290780141842,25.659574468085104,40.51418439716312,14.5,21.0,32.5,45.0,0,siberian husky,american eskimo
+huskita,,0.5,26.0,40.0,23.0,25.5,60.0,90.0,0,siberian husky,akita
+husky jack,,0.5,26.0,40.0,18.970588235294116,21.954248366013072,41.467320261437905,58.76143790849673,0,siberian husky,jack russell terrier
+imo-inu,,0.5349290780141842,25.659574468085104,40.51418439716312,11.0,17.5,20.0,30.0,0,american eskimo,shiba inu
+irish afghan setter,,0.39999999999999997,48.5,62.5,25.0,27.0,55.0,65.0,0,irish setter,afghan hound
+irish bostetter,,0.6,21.0,32.5,19.5,21.0,37.5,47.5,0,irish setter,boston terrier
+irish boston terrier,,0.5,26.0,40.0,16.0,17.0,20.0,26.0,0,irish terrier,boston terrier
+irish dane,,0.5,26.0,40.0,30.0,33.5,105.0,155.0,0,irish wolfhound,great dane
+irish dobe setter,,0.825,8.5,14.5,25.5,27.5,60.0,85.0,0,irish setter,doberman pinscher
+irish doodle,,0.825,8.5,14.5,21.470588235294116,23.954248366013072,51.467320261437905,63.76143790849673,0,irish setter,poodle
+irish lakeland terrier,,0.4,33.5,60.0,15.5,16.5,20.0,22.0,0,irish terrier,lakeland terrier
+irish mastiff,,0.3,53.5,70.0,27.5,32.5,132.5,170.0,0,irish wolfhound,mastiff
+irish russian spanterrier,,0.7099290780141843,15.159574468085104,28.01418439716312,17.5,26.0,62.5,102.5,0,irish water spaniel,black russian terrier
+irish troodle,,0.725,13.5,22.0,17.970588235294116,19.954248366013072,33.967320261437905,42.26143790849673,0,irish terrier,poodle
+irish wolf greyhound,,0.5,26.0,40.0,27.5,32.5,75.0,110.0,0,irish wolfhound,greyhound
+irish wolfoodle,,0.725,13.5,22.0,22.970588235294116,27.954248366013072,66.4673202614379,103.76143790849673,0,irish wolfhound,poodle
+irish wolf schnauzer,,0.6,21.0,32.5,26.5,31.5,80.0,112.5,0,giant schnauzer,irish wolfhound
+irish wolfsky,,0.5,26.0,40.0,24.0,29.0,65.0,105.0,0,irish wolfhound,siberian husky
+italian greycrested,,0.3,41.0,80.0,11.5,14.0,5.5,11.0,0,italian greyhound,chinese crested
+italian greyenji,,0.2,61.0,90.0,14.5,16.0,13.0,16.0,0,italian greyhound,basenji
+italian-bichon,,0.4,33.5,60.0,10.75,13.25,8.0,14.0,0,bichon frise,italian greyhound
+italian border greyollie,,0.625,21.0,42.0,15.5,18.0,23.0,25.0,0,border collie,italian greyhound
+italian cairn,,0.5,28.5,52.5,10.5,12.5,10.0,12.0,0,cairn terrier,italian greyhound
+italian cavalier greyhound,,0.4,33.5,60.0,11.0,15.0,10.5,15.0,0,italian greyhound,cavalier king charles spaniel
+italian doxie,,0.4,33.5,60.0,9.5,12.5,11.0,21.0,0,italian greyhound,dachshund
+italian greagle,,0.2,61.0,90.0,12.5,15.5,12.0,20.0,0,italian greyhound,beagle
+italian grey min pin,,0.5,28.5,52.5,14.970588235294118,17.954248366013072,24.46732026143791,33.76143790849673,0,italian greyhound,miniature pinscher
+italian greyhuahua,,0.3,41.0,80.0,9.0,12.0,4.0,7.5,0,chihuahua,italian greyhound
+italian papihound,,0.625,21.0,42.0,10.0,13.0,5.5,10.0,0,italian greyhound,papillon
+irish saint terrier,,0.4,33.5,60.0,21.5,23.5,67.5,108.5,0,irish terrier,saint bernard
+italian tzu,,0.2,61.0,90.0,10.0,13.0,7.5,13.0,0,italian greyhound,shih tzu
+italian whippet greyhound,,0.4,33.5,60.0,15.0,18.5,16.5,20.0,0,whippet,italian greyhound
+ja-chon,,0.4,33.5,60.0,8.75,11.25,7.0,14.5,0,bichon frise,japanese chin
+jacairn,,0.6,21.0,32.5,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,jack russell terrier
+jack-a-bee,,0.3,53.5,70.0,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,beagle,jack russell terrier
+jack-a-poo,,0.725,13.5,22.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,jack russell terrier,poodle
+jack-a-ranian,,0.675,15.5,27.5,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,jack russell terrier,pomeranian
+jack chi,,0.4,33.5,60.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,chihuahua,jack russell terrier
+jack highland terrier,,0.5,26.0,40.0,14.470588235294118,15.954248366013072,27.96732026143791,36.26143790849673,0,jack russell terrier,west highland white terrier
+jack pit,,0.6,21.0,32.5,17.470588235294116,19.954248366013072,41.467320261437905,53.76143790849673,0,jack russell terrier,pit bull terrier
+jack russell greyhound,,0.5,26.0,40.0,22.470588235294116,25.454248366013072,51.467320261437905,63.76143790849673,0,jack russell terrier,greyhound
+jack tzu,,0.3,53.5,70.0,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,jack russell terrier,shih tzu
+jackie-bichon,,0.5,26.0,40.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,jack russell terrier
+jackshund,,0.5,26.0,40.0,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,jack russell terrier,dachshund
+jackweiler,,0.725,13.5,22.0,19.970588235294116,23.954248366013072,66.4673202614379,83.76143790849673,0,jack russell terrier,rottweiler
+jafox,,0.43492907801418423,33.159574468085104,60.51418439716312,9.0,10.5,4.0,9.0,0,japanese chin,toy fox terrier
+jaland,,0.4,33.5,60.0,9.5,11.0,8.5,13.0,0,japanese chin,west highland white terrier
+japillon,,0.625,21.0,42.0,8.0,11.0,4.5,10.5,0,japanese chin,papillon
+japug,,0.3,41.0,80.0,9.0,11.0,9.0,16.5,0,japanese chin,pug
+jarkie,,0.5,28.5,52.5,8.0,9.5,3.5,9.0,0,japanese chin,yorkshire terrier
+jatese,,0.3,41.0,80.0,8.0,10.5,4.0,8.5,0,japanese chin,maltese
+jatzu,,0.2,61.0,90.0,8.0,11.0,6.5,13.5,0,japanese chin,shih tzu
+kashon,,0.6,21.0,32.5,9.25,10.75,12.0,16.0,0,bichon frise,cairn terrier
+kerrblushcnauz,,0.7749999999999999,10.5,20.0,17.470588235294116,20.954248366013072,36.467320261437905,51.26143790849673,0,kerry blue terrier,miniature schnauzer
+kimola,,0.43492907801418423,33.159574468085104,60.51418439716312,13.470588235294118,19.954248366013072,33.967320261437905,43.76143790849673,0,american eskimo,lhasa apso
+king charles yorkie,,0.6,21.0,32.5,9.0,11.5,9.0,13.5,0,cavalier king charles spaniel,yorkshire terrier
+king pin,,0.6,21.0,32.5,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,miniature pinscher
+king schnauzer,,0.675,15.5,27.5,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,miniature schnauzer
+kobetan,,0.575,23.0,47.5,14.5,16.5,21.0,29.0,0,cocker spaniel,tibetan terrier
+lab'aire,,0.825,8.5,14.5,21.5,24.0,50.0,62.5,0,airedale terrier,labrador retriever
+lab apso,,0.625,21.0,42.0,19.470588235294116,22.454248366013072,48.967320261437905,68.76143790849673,0,labrador retriever,lhasa apso
+lab-pointer,,0.725,13.5,22.0,21.0,24.0,49.5,73.0,0,labrador retriever,pointer
+labbe,,0.525,41.0,52.0,17.0,20.0,36.5,55.0,0,beagle,labrador retriever
+labernard,,0.625,21.0,42.0,23.0,26.0,82.5,135.0,0,labrador retriever,saint bernard
+labloodhound,,0.525,41.0,52.0,22.5,25.0,67.5,100.0,0,bloodhound,labrador retriever
+labmaraner,,0.8999999999999999,3.0,9.5,23.0,25.5,62.5,82.5,0,labrador retriever,weimaraner
+labollie,,0.8999999999999999,3.0,9.5,21.5,25.0,52.5,77.5,0,labrador retriever,collie
+labradane,,0.725,13.5,22.0,26.5,28.0,87.5,120.0,0,labrador retriever,great dane
+labradoodle,,0.95,1.0,4.0,19.470588235294116,22.454248366013072,48.967320261437905,68.76143790849673,0,labrador retriever,poodle
+labraheeler,,0.95,1.0,4.0,19.0,22.0,45.0,62.5,0,labrador retriever,australian cattle dog
+labrahuahua,,0.625,21.0,42.0,13.5,16.5,28.5,42.5,0,labrador retriever,chihuahua
+labrakita,,0.725,13.5,22.0,23.5,26.0,67.5,100.0,0,labrador retriever,akita
+labralas,,0.8999999999999999,3.0,9.5,34.5,45.0,38.5,52.5,0,labrador retriever,vizsla
+labrasenji,,0.525,41.0,52.0,19.0,20.5,37.5,51.0,0,labrador retriever,basenji
+labrastaff,,0.825,8.5,14.5,19.0,21.5,47.5,65.0,0,labrador retriever,american staffordshire terrier
+labrottie,,0.95,1.0,4.0,21.5,25.5,72.5,95.0,0,labrador retriever,rottweiler
+la-chon,,0.4,33.5,60.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,lhasa apso
+lha-basset,,0.2,61.0,90.0,15.970588235294118,17.454248366013072,41.467320261437905,53.76143790849673,0,basset hound,lhasa apso
+lha-cocker,,0.575,23.0,47.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,lhasa apso
+lhasa jack,,0.4,33.5,60.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,lhasa apso,jack russell terrier
+lhasa pin,,0.5,28.5,52.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,lhasa apso,miniature pinscher
+lhasa vendeen,,0.3,41.0,80.0,15.470588235294118,17.954248366013072,36.467320261437905,48.76143790849673,0,lhasa apso,petit basset griffon vendeen
+lhaffon,,0.43492907801418423,33.159574468085104,60.51418439716312,12.470588235294118,14.454248366013072,24.46732026143791,34.76143790849673,0,brussels griffon,lhasa apso
+lhasanese,,0.2,61.0,90.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,lhasa apso,pekingese
+lhasapoo,,0.625,21.0,42.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,lhasa apso,poodle
+lhatese,,0.3,41.0,80.0,12.970588235294118,15.454248366013072,23.46732026143791,31.76143790849673,0,lhasa apso,maltese
+mal-shi,,0.2,61.0,90.0,8.0,10.5,6.5,11.0,0,maltese,shih tzu
+malanees,,0.4,33.5,60.0,25.0,28.5,85.0,102.5,0,alaskan malamute,great pyrenees
+malchi,,0.3,41.0,80.0,7.0,9.5,3.0,5.5,0,chihuahua,maltese
+malinois akita,,0.675,15.5,27.5,24.0,27.0,70.0,92.5,0,belgian malinois,akita
+malinois greyhound,,0.675,15.5,27.5,24.5,28.0,60.0,67.5,0,belgian malinois,greyhound
+malinois mastiff,,0.475,43.0,57.5,24.5,28.0,117.5,127.5,0,belgian malinois,mastiff
+malteagle,,0.2,61.0,90.0,10.5,13.0,11.0,18.0,0,beagle,maltese
+malti-pin,,0.5,28.5,52.5,12.970588235294118,15.454248366013072,23.46732026143791,31.76143790849673,0,maltese,miniature pinscher
+malti-poo,,0.625,21.0,42.0,12.970588235294118,15.454248366013072,23.46732026143791,31.76143790849673,0,maltese,poodle
+malti-pug,,0.3,41.0,80.0,9.0,10.5,9.0,14.0,0,maltese,pug
+malti-py,,0.3,41.0,80.0,17.5,21.0,49.5,63.0,0,maltese,great pyrenees
+maltipom,,0.575,23.0,47.5,10.0,11.0,3.5,6.5,0,maltese,pomeranian
+maspyr,,0.2,61.0,90.0,27.0,31.0,135.0,155.0,0,mastiff,great pyrenees
+mastador,,0.525,41.0,52.0,24.0,27.0,115.0,135.0,0,mastiff,labrador retriever
+mastapeake,,0.39999999999999997,48.5,62.5,24.0,28.0,115.0,132.5,0,mastiff,chesapeake bay retriever
+masti-bull,,0.1,81.0,100.0,19.5,23.0,112.5,125.0,0,mastiff,bulldog
+mastidoodle,,0.525,41.0,52.0,22.470588235294116,25.454248366013072,108.9673202614379,123.76143790849673,0,mastiff,poodle
+mastiff shepherd,,0.525,41.0,52.0,24.5,28.0,125.0,140.0,0,mastiff,german shepherd
+mauxie,,0.4,33.5,60.0,7.5,10.0,10.0,19.0,0,dachshund,maltese
+mauzer,,0.575,23.0,47.5,12.970588235294118,15.454248366013072,23.46732026143791,31.76143790849673,0,maltese,miniature schnauzer
+meagle,,0.39999999999999997,48.5,62.5,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,beagle,miniature pinscher
+min pin frise,,0.6,21.0,32.5,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,miniature pinscher
+min pin shepherd,,0.825,8.5,14.5,19.970588235294116,23.454248366013072,58.967320261437905,73.76143790849673,0,miniature pinscher,german shepherd
+mini cairn pin,,0.7,16.0,25.0,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,miniature pinscher
+mini english cocker,,0.675,15.5,27.5,11.0,13.5,20.5,33.5,0,dachshund,english cocker spaniel
+mini kerry blue schnauzer,,0.7749999999999999,10.5,20.0,17.470588235294116,20.954248366013072,36.467320261437905,51.26143790849673,0,kerry blue terrier,miniature schnauzer
+mini king schnauzer,,0.675,15.5,27.5,13.970588235294118,17.954248366013072,28.96732026143791,38.76143790849673,0,cavalier king charles spaniel,miniature schnauzer
+mini schnauzer chin,,0.575,23.0,47.5,12.970588235294118,15.954248366013072,23.46732026143791,34.26143790849673,0,japanese chin,miniature schnauzer
+mini schnauzer jack,,0.675,15.5,27.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,miniature schnauzer,jack russell terrier
+mini st. bernard,,0.575,23.0,47.5,20.0,22.0,66.0,109.0,0,saint bernard,cocker spaniel
+mini wire hair snauzer,,0.675,15.5,27.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,miniature schnauzer,wire fox terrier
+miniature border schnollie,,0.8999999999999999,3.0,9.5,18.470588235294116,20.954248366013072,41.467320261437905,48.76143790849673,0,border collie,miniature schnauzer
+miniature boxer,,0.5,26.0,40.0,17.5,20.0,40.0,47.5,0,boston terrier,boxer
+miniature bulldog,,0.2,61.0,90.0,11.0,13.5,32.0,41.0,0,bulldog,pug
+miniature english bulldach,,0.3,53.5,70.0,9.5,13.0,33.0,46.0,0,bulldog,dachshund
+miniature french schnauzer,,0.575,23.0,47.5,14.470588235294118,16.454248366013072,29.96732026143791,42.76143790849673,0,french bulldog,miniature schnauzer
+miniature golden retriever,,0.8999999999999999,3.0,9.5,18.0,20.0,38.5,51.5,0,golden retriever,cocker spaniel
+miniature gordondoodle,,0.6349290780141843,20.659574468085104,33.01418439716312,16.5,21.0,32.5,50.0,0,gordon setter,miniature poodle
+miniature irish wolf schnauzer,,0.675,15.5,27.5,22.970588235294116,27.954248366013072,66.4673202614379,103.76143790849673,0,miniature schnauzer,irish wolfhound
+miniature pinschelkhound,,0.7,16.0,25.0,18.470588235294116,20.454248366013072,41.467320261437905,58.76143790849673,0,miniature pinscher,norwegian elkhound
+miniature schnoxie,,0.675,15.5,27.5,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,dachshund,miniature schnauzer
+miniboz,,0.675,15.5,27.5,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,miniature schnauzer
+minnie jack,,0.6,21.0,32.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,jack russell terrier,miniature pinscher
+morkie,,0.5,28.5,52.5,8.0,9.0,3.5,6.5,0,maltese,yorkshire terrier
+mountain bulldog,,0.475,43.0,57.5,17.5,21.5,67.5,85.0,0,bernese mountain dog,bulldog
+mountain mastiff,,0.475,43.0,57.5,25.0,28.5,130.0,150.0,0,bernese mountain dog,mastiff
+muggin,,0.5,28.5,52.5,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,miniature pinscher,pug
+new labralound,,0.825,8.5,14.5,23.5,26.0,77.5,115.0,0,newfoundland,labrador retriever
+new rottland,,0.825,8.5,14.5,24.0,27.5,95.0,130.0,0,newfoundland,rottweiler
+newfie dane,,0.6,21.0,32.5,29.0,30.0,110.0,155.0,0,newfoundland,great dane
+newfypoo,,0.825,8.5,14.5,21.970588235294116,24.454248366013072,71.4673202614379,103.76143790849673,0,newfoundland,poodle
+norjack,,0.4,33.5,60.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,norfolk terrier,jack russell terrier
+old deerhound sheepdog,,0.4,33.5,60.0,24.0,28.0,67.5,87.5,0,old english sheepdog,scottish deerhound
+old doxie sheepdog,,0.4,33.5,60.0,13.5,17.0,38.0,48.5,0,dachshund,old english sheepdog
+papastzu,,0.525,41.0,52.0,8.0,11.0,7.0,13.0,0,papillon,shih tzu
+papeagle,,0.525,41.0,52.0,10.5,13.5,11.5,20.0,0,papillon,beagle
+paperanian,,0.8999999999999999,3.0,9.5,10.0,11.5,4.0,8.5,0,papillon,pomeranian
+papi-inu,,0.725,13.5,22.0,10.5,13.5,10.0,20.0,0,papillon,shiba inu
+papi-poo,,0.95,1.0,4.0,12.970588235294118,15.954248366013072,23.96732026143791,33.76143790849673,0,papillon,poodle
+papigriffon,,0.7599290780141843,13.159574468085104,22.51418439716312,7.5,9.5,5.5,11.0,0,brussels griffon,papillon
+papijack,,0.725,13.5,22.0,12.970588235294118,15.954248366013072,23.96732026143791,33.76143790849673,0,papillon,jack russell terrier
+papimo,,0.7599290780141843,13.159574468085104,22.51418439716312,8.5,15.0,15.0,20.0,0,american eskimo,papillon
+papiox,,0.7599290780141843,13.159574468085104,22.51418439716312,9.0,10.5,4.5,8.5,0,papillon,toy fox terrier
+papitese,,0.625,21.0,42.0,8.0,10.5,4.5,8.0,0,maltese,papillon
+papshund,,0.725,13.5,22.0,7.5,10.5,10.5,21.0,0,dachshund,papillon
+peagle,,0.1,81.0,100.0,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,beagle,pekingese
+peek-a-pom,,0.475,43.0,57.5,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,pekingese,pomeranian
+pekarin,,0.39999999999999997,48.5,62.5,13.470588235294118,15.454248366013072,28.46732026143791,35.76143790849673,0,cairn terrier,pekingese
+peke-a-chon,,0.3,53.5,70.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,pekingese
+peke-a-chow,,0.1,81.0,100.0,18.470588235294116,21.454248366013072,43.967320261437905,56.26143790849673,0,pekingese,chow chow
+peke-a-jack,,0.3,53.5,70.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,pekingese,jack russell terrier
+peke-a-pap,,0.525,41.0,52.0,12.970588235294118,15.954248366013072,23.96732026143791,33.76143790849673,0,papillon,pekingese
+peke-a-pin,,0.39999999999999997,48.5,62.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,miniature pinscher,pekingese
+peke-a-tese,,0.2,61.0,90.0,12.970588235294118,15.454248366013072,23.46732026143791,31.76143790849673,0,maltese,pekingese
+pekehund,,0.3,53.5,70.0,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,pekingese,dachshund
+pekepoo,,0.525,41.0,52.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,pekingese,poodle
+pembroke corgi pointer,,0.675,15.5,27.5,19.470588235294116,22.454248366013072,43.467320261437905,61.76143790849673,0,pembroke welsh corgi,pointer
+pembroke corman shepherd,,0.8999999999999999,3.0,9.5,19.970588235294116,23.454248366013072,58.967320261437905,73.76143790849673,0,pembroke welsh corgi,german shepherd
+pembroke sheltie,,0.8999999999999999,3.0,9.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,shetland sheepdog,pembroke welsh corgi
+petite goldendoodle,,0.8999999999999999,3.0,9.5,18.0,20.0,38.5,51.5,0,golden retriever,cocker spaniel
+petite labradoodle,,0.8999999999999999,3.0,9.5,18.0,20.0,38.5,54.0,0,labrador retriever,cocker spaniel
+pharaoh lab,,0.825,8.5,14.5,21.0,24.5,50.0,67.5,0,pharaoh hound,labrador retriever
+plotkita,,0.5349290780141842,25.659574468085104,40.51418439716312,23.0,26.0,62.5,87.5,0,plott hound,akita
+plott rottie,,0.7599290780141843,13.159574468085104,22.51418439716312,21.0,25.5,67.5,82.5,0,plott hound,rottweiler
+pin-tzu,,0.39999999999999997,48.5,62.5,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,miniature pinscher,shih tzu
+pineranian,,0.7749999999999999,10.5,20.0,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,miniature pinscher,pomeranian
+pinny-poo,,0.825,8.5,14.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,miniature pinscher,poodle
+pinweiler,,0.825,8.5,14.5,19.970588235294116,23.954248366013072,66.4673202614379,83.76143790849673,0,miniature pinscher,rottweiler
+pit boodle,,0.825,8.5,14.5,17.470588235294116,19.954248366013072,41.467320261437905,53.76143790849673,0,pit bull,poodle
+pit bullmastiff,,0.5,28.5,52.5,21.0,23.0,70.0,90.0,0,american pit bull terrier,bullmastiff
+pit pin,,0.7,16.0,25.0,17.470588235294116,19.954248366013072,41.467320261437905,53.76143790849673,0,american pit bull terrier,miniature pinscher
+pitweiler,,0.825,8.5,14.5,19.5,23.0,65.0,80.0,0,american pit bull terrier,rottweiler
+pointer bay,,0.7749999999999999,10.5,20.0,20.5,26.5,52.5,77.5,0,german shorthaired pointer,chesapeake bay retriever
+pointer pit,,0.6,21.0,32.5,19.0,21.5,42.0,58.0,0,american pit bull terrier,pointer
+pointollie,,0.675,15.5,27.5,21.5,25.0,47.0,70.5,0,pointer,collie
+pom-kee,,0.85,5.0,15.0,14.5,15.5,19.0,28.5,0,pomeranian,keeshond
+pom-a-nauze,,0.85,5.0,15.0,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,miniature schnauzer,pomeranian
+pom-a-pug,,0.575,23.0,47.5,11.0,11.5,8.5,14.5,0,pomeranian,pug
+pom-shi,,0.675,15.5,27.5,12.5,14.0,9.0,18.5,0,pomeranian,shiba inu
+pom-silk,,0.7099290780141843,15.159574468085104,28.01418439716312,10.5,11.0,5.5,9.0,0,pomeranian,silky terrier
+pom terrier,,0.7099290780141843,15.159574468085104,28.01418439716312,11.0,11.0,3.5,7.0,0,pomeranian,toy fox terrier
+pomapoo,,0.8999999999999999,3.0,9.5,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,pomeranian,poodle
+pomchi,,0.575,23.0,47.5,9.0,10.5,2.5,6.0,0,pomeranian,chihuahua
+pomeagle,,0.475,43.0,57.5,12.5,14.0,10.5,18.5,0,beagle,pomeranian
+pomimo,,0.7099290780141843,15.159574468085104,28.01418439716312,10.5,15.5,14.0,18.5,0,american eskimo,pomeranian
+pomston,,0.675,15.5,27.5,13.0,13.5,9.0,16.0,0,boston terrier,pomeranian
+poo-shi,,0.725,13.5,22.0,15.470588235294118,18.454248366013072,28.96732026143791,43.76143790849673,0,poodle,shiba inu
+poochin,,0.625,21.0,42.0,12.970588235294118,15.954248366013072,23.46732026143791,34.26143790849673,0,japanese chin,poodle
+poogle,,0.525,41.0,52.0,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,beagle,poodle
+poolky,,0.7599290780141843,13.159574468085104,22.51418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,poodle,silky terrier
+pootalian,,0.625,21.0,42.0,14.970588235294118,17.954248366013072,24.46732026143791,33.76143790849673,0,italian greyhound,poodle
+poovanese,,0.725,13.5,22.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,havanese,poodle
+poshies,,0.8999999999999999,3.0,9.5,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,pomeranian,shetland sheepdog
+powderpap,,0.625,21.0,42.0,9.5,12.0,5.0,11.0,0,papillon,chinese crested
+pug pit,,0.5,28.5,52.5,13.5,15.0,27.0,36.0,0,pug,pit bull terrier
+pug shiba,,0.4,33.5,60.0,11.5,13.5,14.5,26.0,0,pug,shiba inu
+pug-zu,,0.2,61.0,90.0,9.0,11.0,11.5,19.0,0,pug,shih tzu
+pugador,,0.625,21.0,42.0,15.5,17.5,34.5,51.0,0,pug,labrador retriever
+pugairn,,0.5,28.5,52.5,9.5,10.5,14.0,18.0,0,pug,cairn terrier
+pugalier,,0.4,33.5,60.0,10.0,13.0,14.5,21.0,0,cavalier king charles spaniel,pug
+puganese,,0.4,33.5,60.0,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,pug,havanese
+pugapoo,,0.625,21.0,42.0,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,pug,poodle
+pugese,,0.3,41.0,80.0,10.5,12.0,9.5,17.0,0,pug,chinese crested
+puggit,,0.3,41.0,80.0,11.0,13.0,10.0,16.0,0,pug,italian greyhound
+puggle,,0.2,61.0,90.0,11.5,13.5,16.0,26.0,0,pug,beagle
+pughasa,,0.3,41.0,80.0,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,pug,lhasa apso
+pugillon,,0.625,21.0,42.0,9.0,11.0,9.5,16.0,0,pug,papillon
+puginese,,0.2,61.0,90.0,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,pug,pekingese
+pugottie,,0.3,41.0,80.0,10.0,11.5,16.0,22.0,0,pug,scottish terrier
+pugmatian,,0.5,28.5,52.5,14.5,17.0,29.5,46.0,0,pug,dalmatian
+pugshire,,0.5,28.5,52.5,9.0,9.5,8.5,14.5,0,pug,yorkshire terrier
+pugwich,,0.5,28.5,52.5,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,pug,norwich terrier
+pushon,,0.4,33.5,60.0,9.75,11.25,12.0,20.0,0,pug,bichon frise
+pyredoodle,,0.625,21.0,42.0,22.470588235294116,26.454248366013072,68.9673202614379,88.76143790849673,0,great pyrenees,poodle
+pyrenees husky,,0.4,33.5,60.0,23.5,27.5,67.5,90.0,0,great pyrenees,siberian husky
+pyrenees pit,,0.5,28.5,52.5,22.0,25.5,67.5,85.0,0,great pyrenees,american pit bull terrier
+pyrador,,0.625,21.0,42.0,24.0,28.0,75.0,100.0,0,great pyrenees,labrador retriever
+reagle,,0.525,41.0,52.0,17.5,21.5,54.0,70.0,0,rottweiler,beagle
+redbone coonoodle,,0.7599290780141843,13.159574468085104,22.51418439716312,19.470588235294116,23.954248366013072,46.467320261437905,63.76143790849673,0,redbone coonhound,poodle
+redbone lab,,0.7599290780141843,13.159574468085104,22.51418439716312,21.0,25.5,52.5,75.0,0,redbone coonhound,labrador retriever
+redbone shepherd,,0.7599290780141843,13.159574468085104,22.51418439716312,21.5,26.5,62.5,80.0,0,redbone coonhound,german shepherd
+rhodesian beagle,,0.3,53.5,70.0,18.5,21.5,44.0,57.5,0,rhodesian ridgeback,beagle
+rhodesian bernard,,0.4,33.5,60.0,24.5,27.5,90.0,137.5,0,rhodesian ridgeback,saint bernard
+rhodesian boxer,,0.5,26.0,40.0,22.5,26.0,67.5,77.5,0,rhodesian ridgeback,boxer
+rhodesian labrador,,0.725,13.5,22.0,22.5,25.5,62.5,82.5,0,rhodesian ridgeback,labrador retriever
+rhodesian pit,,0.6,21.0,32.5,20.5,23.0,55.0,67.5,0,rhodesian ridgeback,pit bull terrier
+rhodesian rottie,,0.725,13.5,22.0,23.0,27.0,80.0,97.5,0,rhodesian ridgeback,rottweiler
+rhodesian shepherd,,0.725,13.5,22.0,23.0,26.5,72.5,87.5,0,rhodesian ridgeback,german shepherd
+rhodesian whippet,,0.5,26.0,40.0,21.0,24.5,48.5,57.5,0,rhodesian ridgeback,whippet
+rottaf,,0.525,41.0,52.0,23.5,27.0,70.0,85.0,0,afghan hound,rottweiler
+rottbull,,0.625,21.0,42.0,21.5,24.5,70.0,90.0,0,rottweiler,bull terrier
+rotterman,,0.95,1.0,4.0,24.0,27.5,75.0,105.0,0,doberman pinscher,rottweiler
+rottie basset,,0.525,41.0,52.0,18.0,20.5,65.0,80.0,0,rottweiler,basset hound
+rottie chow,,0.525,41.0,52.0,20.5,24.5,67.5,82.5,0,rottweiler,chow chow
+rottie cocker,,0.8999999999999999,3.0,9.5,18.5,21.5,56.0,69.0,0,rottweiler,cocker spaniel
+rottie heeler,,0.95,1.0,4.0,19.5,23.5,62.5,77.5,0,rottweiler,australian cattle dog
+rottie shepherd,,0.95,1.0,4.0,22.0,26.5,82.5,100.0,0,rottweiler,german shepherd
+rottle,,0.95,1.0,4.0,19.970588235294116,23.954248366013072,66.4673202614379,83.76143790849673,0,rottweiler,poodle
+rottmatian,,0.825,8.5,14.5,20.5,25.0,67.5,90.0,0,rottweiler,dalmatian
+rottpeake,,0.825,8.5,14.5,21.5,26.5,72.5,92.5,0,rottweiler,chesapeake bay retriever
+rottsky,,0.725,13.5,22.0,21.0,25.0,65.0,85.0,0,rottweiler,siberian husky
+rus-a-pei,,0.5,26.0,40.0,17.970588235294116,20.454248366013072,43.967320261437905,56.26143790849673,0,jack russell terrier,chinese shar pei
+russian doodle terrier,,0.7599290780141843,13.159574468085104,22.51418439716312,21.470588235294116,24.954248366013072,61.467320261437905,98.76143790849673,0,black russian terrier,poodle
+rustralian terrier,,0.6,21.0,32.5,13.970588235294118,15.454248366013072,26.46732026143791,35.76143790849673,0,australian terrier,jack russell terrier
+saint bernese,,0.575,23.0,47.5,24.0,27.5,97.5,150.0,0,saint bernard,bernese mountain dog
+saint berdoodle,,0.625,21.0,42.0,21.470588235294116,24.454248366013072,76.4673202614379,123.76143790849673,0,saint bernard,poodle
+saint bermastiff,,0.2,61.0,90.0,26.0,29.0,142.5,190.0,0,mastiff,saint bernard
+saint bernewfie,,0.5,28.5,52.5,25.5,28.0,105.0,170.0,0,saint bernard,newfoundland
+saint berxer,,0.4,33.5,60.0,23.0,26.5,87.5,130.0,0,saint bernard,boxer
+saint chesa bay bernard,,0.5,28.5,52.5,23.0,27.0,82.5,132.5,0,saint bernard,chesapeake bay retriever
+saint dane,,0.4,33.5,60.0,28.5,30.0,115.0,175.0,0,great dane,saint bernard
+saint pyrenees,,0.3,41.0,80.0,26.0,30.0,102.5,155.0,0,saint bernard,great pyrenees
+saint shepherd,,0.625,21.0,42.0,23.5,27.0,92.5,140.0,0,saint bernard,german shepherd
+saluki greyhound,,0.5,26.0,40.0,25.0,29.0,47.5,70.0,0,saluki,greyhound
+saluki deerhound,,0.5,26.0,40.0,25.5,30.0,55.0,90.0,0,saluki,scottish deerhound
+sammy chow,,0.39999999999999997,48.5,62.5,19.0,23.0,47.5,60.0,0,samoyed,chow chow
+sammy shepherd,,0.825,8.5,14.5,20.5,25.0,62.5,77.5,0,samoyed,german shepherd
+sammypoo,,0.825,8.5,14.5,18.470588235294116,22.454248366013072,46.467320261437905,61.26143790849673,0,samoyed,poodle
+samollie,,0.7749999999999999,10.5,20.0,20.5,25.0,50.0,70.0,0,samoyed,collie
+sceagle,,0.2,61.0,90.0,11.5,14.0,18.0,26.0,0,beagle,scottish terrier
+schapso,,0.575,23.0,47.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,lhasa apso,miniature schnauzer
+schip-a-pom,,0.85,5.0,15.0,11.0,12.5,7.5,12.5,0,pomeranian,schipperke
+schipese,,0.575,23.0,47.5,9.0,11.5,8.0,12.0,0,maltese,schipperke
+schipper-chi,,0.575,23.0,47.5,8.0,11.0,7.0,11.5,0,schipperke,chihuahua
+schipper-pin,,0.7749999999999999,10.5,20.0,13.970588235294118,16.954248366013072,27.46732026143791,37.76143790849673,0,schipperke,miniature pinscher
+schipper-poo,,0.8999999999999999,3.0,9.5,13.970588235294118,16.954248366013072,27.46732026143791,37.76143790849673,0,poodle,schipperke
+schnau-tzu,,0.475,43.0,57.5,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,miniature schnauzer,shih tzu
+schnekingese,,0.475,43.0,57.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,miniature schnauzer,pekingese
+schnese,,0.675,15.5,27.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,havanese,miniature schnauzer
+schnocker,,0.85,5.0,15.0,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,miniature schnauzer,cocker spaniel
+schnu,,0.675,15.5,27.5,15.470588235294118,18.454248366013072,28.96732026143791,43.76143790849673,0,miniature schnauzer,shiba inu
+schnug,,0.575,23.0,47.5,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,miniature schnauzer,pug
+schweenie,,0.3,53.5,70.0,7.5,10.5,12.5,24.0,0,dachshund,shih tzu
+sco-shi,,0.2,61.0,90.0,9.0,11.5,13.5,19.0,0,scottish terrier,shih tzu
+scobo terrier,,0.4,33.5,60.0,12.0,13.5,16.5,23.5,0,boston terrier,scottish terrier
+scolden terrier,,0.625,21.0,42.0,15.5,18.0,36.5,48.5,0,scottish terrier,golden retriever
+scorkie,,0.5,28.5,52.5,9.0,10.0,10.5,14.5,0,scottish terrier,yorkshire terrier
+scotchi,,0.3,41.0,80.0,8.0,10.5,10.0,13.5,0,scottish terrier,chihuahua
+scotchon,,0.4,33.5,60.0,9.75,11.75,14.0,20.0,0,bichon frise,scottish terrier
+scotinese,,0.2,61.0,90.0,13.970588235294118,16.454248366013072,30.46732026143791,39.76143790849673,0,pekingese,scottish terrier
+scottese,,0.3,41.0,80.0,9.0,11.0,11.0,14.0,0,maltese,scottish terrier
+scotti apso,,0.3,41.0,80.0,13.970588235294118,16.454248366013072,30.46732026143791,39.76143790849673,0,lhasa apso,scottish terrier
+scottish cocker,,0.575,23.0,47.5,12.5,14.0,20.0,25.0,0,cocker spaniel,scottish terrier
+scottish deer greyhound,,0.5,26.0,40.0,27.5,31.0,67.5,90.0,0,greyhound,scottish deerhound
+scottish-skye terrier,,0.3,41.0,80.0,10.0,11.0,21.5,23.5,0,scottish terrier,skye terrier
+scottish staffish bull terrier,,0.4,33.5,60.0,12.0,14.0,21.0,25.0,0,scottish terrier,staffordshire bull terrier
+scoodle,,0.625,21.0,42.0,13.970588235294118,16.454248366013072,30.46732026143791,39.76143790849673,0,scottish terrier,poodle
+sealydale terrier,,0.5,28.5,52.5,17.0,18.0,31.5,32.5,0,sealyham terrier,airedale terrier
+shairn-inu,,0.6,21.0,32.5,11.0,13.0,14.5,22.0,0,cairn terrier,shiba inu
+sharp eagle,,0.3,53.5,70.0,15.5,18.0,31.5,42.5,0,beagle,chinese shar pei
+sheepadoodle,,0.43492907801418423,33.159574468085104,60.51418439716312,17.5,24.5,52.5,55.0,0,old english sheepdog,standard poodle
+shelchon,,0.725,13.5,22.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,shetland sheepdog
+shelestie,,0.725,13.5,22.0,14.470588235294118,15.954248366013072,27.96732026143791,36.26143790849673,0,shetland sheepdog,west highland white terrier
+shelillon,,0.95,1.0,4.0,12.970588235294118,15.954248366013072,23.96732026143791,33.76143790849673,0,papillon,shetland sheepdog
+sheltie inu,,0.725,13.5,22.0,15.470588235294118,18.454248366013072,28.96732026143791,43.76143790849673,0,shetland sheepdog,shiba inu
+sheltie-kee,,0.8999999999999999,3.0,9.5,17.470588235294116,19.954248366013072,38.967320261437905,53.76143790849673,0,keeshond,shetland sheepdog
+sheltie pin,,0.825,8.5,14.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,shetland sheepdog,miniature pinscher
+sheltie pug,,0.625,21.0,42.0,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,shetland sheepdog,pug
+sheltie shepherd,,0.95,1.0,4.0,19.970588235294116,23.454248366013072,58.967320261437905,73.76143790849673,0,german shepherd,shetland sheepdog
+sheltie tzu,,0.525,41.0,52.0,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,shetland sheepdog,shih tzu
+shepadoodle,,0.7599290780141843,13.159574468085104,22.51418439716312,18.5,25.5,60.0,67.5,0,german shepherd,standard poodle
+shepherd pit,,0.825,8.5,14.5,19.5,22.5,57.5,70.0,0,german shepherd,american pit bull terrier
+shepherd tzu,,0.525,41.0,52.0,15.0,18.5,42.0,53.0,0,german shepherd,shih tzu
+shepnees,,0.625,21.0,42.0,24.5,29.0,85.0,105.0,0,german shepherd,great pyrenees
+sheprador,,0.725,13.5,22.0,19.5,23.5,47.5,70.0,0,australian shepherd,labrador retriever
+shepsky,,0.725,13.5,22.0,21.0,24.5,57.5,75.0,0,german shepherd,siberian husky
+sheptese,,0.625,21.0,42.0,15.0,18.0,39.5,48.0,0,german shepherd,maltese
+shepweiler,,0.95,1.0,4.0,22.0,26.5,82.5,100.0,0,german shepherd,rottweiler
+shethund,,0.725,13.5,22.0,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,shetland sheepdog,dachshund
+shetinese,,0.525,41.0,52.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,pekingese,shetland sheepdog
+shi-beagle,,0.3,53.5,70.0,13.0,16.0,16.5,30.0,0,beagle,shiba inu
+shiba-chi,,0.4,33.5,60.0,9.5,12.5,8.5,17.5,0,chihuahua,shiba inu
+shiba lab,,0.725,13.5,22.0,17.0,20.0,35.0,55.0,0,shiba inu,labrador retriever
+shiba pin,,0.6,21.0,32.5,15.470588235294118,18.454248366013072,28.96732026143791,43.76143790849673,0,shiba inu,miniature pinscher
+shibadox,,0.5,26.0,40.0,10.0,13.0,15.5,31.0,0,shiba inu,dachshund
+shibos,,0.5,26.0,40.0,13.5,15.5,15.0,27.5,0,boston terrier,shiba inu
+shichi,,0.2,61.0,90.0,7.0,10.0,5.5,10.5,0,chihuahua,shih tzu
+shichon,,0.3,53.5,70.0,8.75,11.25,9.5,17.0,0,bichon frise,shih tzu
+shiffon,,0.33492907801418426,53.159574468085104,70.51418439716312,7.5,9.5,7.5,14.0,0,brussels griffon,shih tzu
+shih apso,,0.2,61.0,90.0,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,lhasa apso,shih tzu
+shih-mo,,0.33492907801418426,53.159574468085104,70.51418439716312,8.5,15.0,17.0,23.0,0,american eskimo,shih tzu
+shinese,,0.1,81.0,100.0,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,shih tzu,pekingese
+shiranian,,0.475,43.0,57.5,10.0,11.5,6.0,11.5,0,pomeranian,shih tzu
+shocker,,0.675,15.5,27.5,14.0,16.0,18.5,29.0,0,cocker spaniel,shiba inu
+shollie,,0.8999999999999999,3.0,9.5,22.0,26.0,62.5,82.5,0,german shepherd,collie
+siberian boston,,0.5,26.0,40.0,17.0,19.0,27.5,42.5,0,siberian husky,boston terrier
+siberian cocker,,0.675,15.5,27.5,17.5,19.5,31.0,44.0,0,cocker spaniel,siberian husky
+siberian collisky,,0.675,15.5,27.5,21.0,24.5,45.0,67.5,0,siberian husky,collie
+siberian keeshond,,0.675,15.5,27.5,18.5,21.0,37.5,55.0,0,siberian husky,keeshond
+siberian pinscher,,0.725,13.5,22.0,23.0,25.5,50.0,80.0,0,doberman pinscher,siberian husky
+siberian retriever,,0.725,13.5,22.0,20.5,23.5,47.5,70.0,0,siberian husky,labrador retriever
+siberian shiba,,0.5,26.0,40.0,16.5,19.5,27.5,45.0,0,siberian husky,shiba inu
+siberpoo,,0.725,13.5,22.0,18.970588235294116,21.954248366013072,41.467320261437905,58.76143790849673,0,siberian husky,poodle
+silkchon,,0.5349290780141842,25.659574468085104,40.51418439716312,9.25,10.75,9.0,14.5,0,bichon frise,silky terrier
+silkese,,0.43492907801418423,33.159574468085104,60.51418439716312,8.5,10.0,6.0,8.5,0,maltese,silky terrier
+silkin,,0.43492907801418423,33.159574468085104,60.51418439716312,8.5,10.5,6.0,11.0,0,japanese chin,silky terrier
+silkinese,,0.33492907801418426,53.159574468085104,70.51418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,pekingese,silky terrier
+silkshire terrier,,0.6349290780141843,20.659574468085104,33.01418439716312,8.5,9.0,5.5,9.0,0,silky terrier,yorkshire terrier
+silkshund,,0.5349290780141842,25.659574468085104,40.51418439716312,8.0,10.0,12.0,21.5,0,dachshund,silky terrier
+silky cairn,,0.6349290780141843,20.659574468085104,33.01418439716312,9.0,10.0,11.0,12.5,0,cairn terrier,silky terrier
+silky cocker,,0.575,23.0,47.5,11.5,13.0,13.0,17.0,0,maltese,cocker spaniel
+silky jack,,0.5349290780141842,25.659574468085104,40.51418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,jack russell terrier,silky terrier
+silky-lhasa,,0.43492907801418423,33.159574468085104,60.51418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,lhasa apso,silky terrier
+silky-pin,,0.6349290780141843,20.659574468085104,33.01418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,miniature pinscher,silky terrier
+silky pug,,0.43492907801418423,33.159574468085104,60.51418439716312,9.5,10.5,11.0,16.5,0,pug,silky terrier
+silkyhuahua,,0.43492907801418423,33.159574468085104,60.51418439716312,7.5,9.5,5.0,8.0,0,chihuahua,silky terrier
+silkytie,,0.7599290780141843,13.159574468085104,22.51418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,shetland sheepdog,silky terrier
+silkzer,,0.7099290780141843,15.159574468085104,28.01418439716312,13.470588235294118,15.454248366013072,25.46732026143791,34.26143790849673,0,miniature schnauzer,silky terrier
+ski-border,,0.7599290780141843,13.159574468085104,22.51418439716312,14.0,20.0,32.5,35.0,0,american eskimo,border collie
+ski-collie,,0.7099290780141843,15.159574468085104,28.01418439716312,15.5,22.5,37.5,52.5,0,american eskimo,collie
+skilky terrier,,0.43492907801418423,33.159574468085104,60.51418439716312,9.5,11.0,13.0,16.5,0,scottish terrier,silky terrier
+skip-shzu,,0.475,43.0,57.5,9.0,12.0,10.5,17.0,0,schipperke,shih tzu
+skye-pap,,0.625,21.0,42.0,9.0,10.5,15.0,17.5,0,skye terrier,papillon
+skypoo,,0.625,21.0,42.0,13.970588235294118,15.454248366013072,33.967320261437905,41.26143790849673,0,poodle,skye terrier
+smooth chisoxy,,0.4,33.5,60.0,9.5,12.5,8.5,12.5,0,smooth fox terrier,chihuahua
+smooth fo-chon,,0.5,26.0,40.0,11.25,13.75,12.5,19.0,0,bichon frise,smooth fox terrier
+smooth fo-tzu,,0.3,53.5,70.0,10.5,13.5,12.0,18.0,0,shih tzu,smooth fox terrier
+smooth foodle,,0.725,13.5,22.0,15.470588235294118,18.454248366013072,28.96732026143791,38.76143790849673,0,poodle,smooth fox terrier
+smooth fox beagle,,0.3,53.5,70.0,13.0,16.0,16.5,25.0,0,smooth fox terrier,beagle
+smooth fox pinscher,,0.6,21.0,32.5,15.470588235294118,18.454248366013072,28.96732026143791,38.76143790849673,0,miniature pinscher,smooth fox terrier
+smooth foxie doxie,,0.5,26.0,40.0,10.0,13.0,15.5,26.0,0,smooth fox terrier,dachshund
+smooth foxingese,,0.3,53.5,70.0,15.470588235294118,18.454248366013072,28.96732026143791,38.76143790849673,0,pekingese,smooth fox terrier
+smooth foxker,,0.675,15.5,27.5,14.0,16.0,18.5,24.0,0,cocker spaniel,smooth fox terrier
+smooth foxillon,,0.725,13.5,22.0,10.5,13.5,10.0,15.0,0,papillon,smooth fox terrier
+smooth foxton,,0.5,26.0,40.0,13.5,15.5,15.0,22.5,0,boston terrier,smooth fox terrier
+smooth foxy russell,,0.5,26.0,40.0,15.470588235294118,18.454248366013072,28.96732026143791,38.76143790849673,0,jack russell terrier,smooth fox terrier
+smooth foxybull terrier,,0.3,53.5,70.0,12.5,16.0,32.5,40.0,0,smooth fox terrier,bulldog
+smooth jafox,,0.4,33.5,60.0,10.5,13.5,9.5,15.5,0,japanese chin,smooth fox terrier
+smooth toy foxter,,0.5349290780141842,25.659574468085104,40.51418439716312,11.5,13.0,9.5,13.5,0,toy fox terrier,smooth fox terrier
+smooth pom terrier,,0.675,15.5,27.5,12.5,14.0,9.0,13.5,0,pomeranian,smooth fox terrier
+smooth poxer,,0.4,33.5,60.0,11.5,13.5,14.5,21.0,0,pug,smooth fox terrier
+smooth scottish fox terrier,,0.4,33.5,60.0,11.5,14.0,16.5,21.0,0,scottish terrier,smooth fox terrier
+sniffon,,0.7099290780141843,15.159574468085104,28.01418439716312,12.470588235294118,14.454248366013072,24.46732026143791,34.76143790849673,0,miniature schnauzer,brussels griffon
+snorkie,,0.7749999999999999,10.5,20.0,12.970588235294118,14.454248366013072,22.96732026143791,32.26143790849673,0,miniature schnauzer,yorkshire terrier
+spanador,,0.8999999999999999,3.0,9.5,18.0,20.0,38.5,54.0,0,labrador retriever,cocker spaniel
+spangold retriever,,0.8999999999999999,3.0,9.5,20.5,22.0,50.0,65.0,0,english springer spaniel,golden retriever
+spantriever,,0.8999999999999999,3.0,9.5,18.0,20.5,40.0,57.5,0,english cocker spaniel,labrador retriever
+spreagle,,0.475,43.0,57.5,16.5,18.0,31.5,42.5,0,english springer spaniel,beagle
+springer basset,,0.475,43.0,57.5,17.0,17.0,42.5,52.5,0,english springer spaniel,basset hound
+springer husky,,0.675,15.5,27.5,20.0,21.5,42.5,57.5,0,english springer spaniel,siberian husky
+springer pit,,0.7749999999999999,10.5,20.0,18.5,19.5,42.5,52.5,0,english springer spaniel,american pit bull terrier
+springer rottie,,0.8999999999999999,3.0,9.5,21.0,23.5,67.5,82.5,0,english springer spaniel,rottweiler
+springer spaniel sheepdog,,0.575,23.0,47.5,20.0,22.0,52.5,60.0,0,english springer spaniel,old english sheepdog
+springerdoodle,,0.8999999999999999,3.0,9.5,18.970588235294116,20.454248366013072,43.967320261437905,56.26143790849673,0,english springer spaniel,poodle
+sprocker spaniel,,0.85,5.0,15.0,17.5,18.0,33.5,41.5,0,english springer spaniel,cocker spaniel
+sprollie,,0.85,5.0,15.0,21.0,23.0,47.5,65.0,0,english springer spaniel,collie
+staffy bull bullmastiff,,0.4,33.5,60.0,19.5,21.5,62.0,79.0,0,staffordshire bull terrier,bullmastiff
+staffweiler,,0.825,8.5,14.5,19.5,23.0,65.0,80.0,0,american staffordshire terrier,rottweiler
+st. weiler,,0.625,21.0,42.0,23.5,27.5,100.0,150.0,0,rottweiler,saint bernard
+staffie bullweiler,,0.725,13.5,22.0,18.0,21.5,57.0,69.0,0,staffordshire bull terrier,rottweiler
+staffy bull pit,,0.6,21.0,32.5,15.5,17.5,32.0,39.0,0,staffordshire bull terrier,pit bull terrier
+staffy bull pug,,0.4,33.5,60.0,12.0,13.5,19.0,25.0,0,staffordshire bull terrier,pug
+staffy bull wolfhound,,0.5,26.0,40.0,21.0,25.5,57.0,89.0,0,staffordshire bull terrier,irish wolfhound
+staffy heeler,,0.825,8.5,14.5,17.0,19.5,37.5,47.5,0,american staffordshire terrier,australian cattle dog
+staffy pit,,0.7,16.0,25.0,17.0,19.0,40.0,50.0,0,american staffordshire terrier,pit bull terrier
+standard auss-tzu,,0.3,53.5,70.0,13.0,17.0,24.5,38.0,0,australian shepherd,shih tzu
+standard border schnollie,,0.8999999999999999,3.0,9.5,18.0,20.0,36.5,36.5,0,border collie,standard schnauzer
+standard chesa-poo,,0.6349290780141843,20.659574468085104,33.01418439716312,18.0,25.5,50.0,60.0,0,chesapeake bay retriever,standard poodle
+standard gordondoodle,,0.6349290780141843,20.659574468085104,33.01418439716312,19.0,26.0,45.0,62.5,0,gordon setter,standard poodle
+standard irish wolf schnauzer,,0.675,15.5,27.5,22.5,27.0,61.5,91.5,0,standard schnauzer,irish wolfhound
+standard kerry blue schnauzer,,0.7749999999999999,10.5,20.0,17.0,20.0,31.5,39.0,0,kerry blue terrier,standard schnauzer
+standard schnauzer chin,,0.575,23.0,47.5,12.5,15.0,18.5,22.0,0,japanese chin,standard schnauzer
+standard schnoodle,,0.8999999999999999,3.0,9.5,17.470588235294116,19.954248366013072,37.967320261437905,45.26143790849673,0,poodle,standard schnauzer
+standard siberian schusky,,0.675,15.5,27.5,18.5,21.0,36.5,46.5,0,standard schnauzer,siberian husky
+standard wire hair snauzer,,0.675,15.5,27.5,17.470588235294116,19.954248366013072,37.967320261437905,45.26143790849673,0,standard schnauzer,wire fox terrier
+swissneese,,0.43492907801418423,33.159574468085104,60.51418439716312,25.0,30.0,112.5,135.0,0,great swiss mountain dog,great pyrenees
+taco terrier,,0.43492907801418423,33.159574468085104,60.51418439716312,8.0,9.5,3.0,6.0,0,chihuahua,toy fox terrier
+terri-poo,,0.825,8.5,14.5,13.970588235294118,15.454248366013072,26.46732026143791,35.76143790849673,0,australian terrier,poodle
+tervoodle,,0.8999999999999999,3.0,9.5,19.970588235294116,23.454248366013072,51.467320261437905,66.26143790849673,0,belgian tervuren,poodle
+tibalier,,0.5,26.0,40.0,10.0,12.5,12.0,17.5,0,cavalier king charles spaniel,tibetan spaniel
+tibepillon terrier,,0.625,21.0,42.0,11.0,14.0,12.5,20.0,0,papillon,tibetan terrier
+tibetan chin,,0.4,33.5,60.0,9.0,10.5,6.5,13.0,0,tibetan spaniel,japanese chin
+tibetan golden mastiff,,0.7599290780141843,13.159574468085104,22.51418439716312,22.5,25.0,97.5,122.5,0,tibetan mastiff,golden retriever
+tibetan pap,,0.725,13.5,22.0,9.0,10.5,7.0,12.5,0,tibetan spaniel,papillon
+tibetan pom,,0.675,15.5,27.5,11.0,11.0,6.0,11.0,0,pomeranian,tibetan spaniel
+tibetan pug,,0.4,33.5,60.0,10.0,10.5,11.5,18.5,0,pug,tibetan spaniel
+tibetan spaltese,,0.4,33.5,60.0,9.0,10.0,6.5,10.5,0,maltese,tibetan spaniel
+tibetan wolfhound,,0.5349290780141842,25.659574468085104,40.51418439716312,26.0,30.5,115.0,160.0,0,tibetan mastiff,irish wolfhound
+tibetan staffy spaniel,,0.6,21.0,32.5,13.5,14.5,24.5,32.5,0,tibetan spaniel,american staffordshire terrier
+toller pit,,0.6349290780141843,20.659574468085104,33.01418439716312,17.0,20.0,37.5,50.0,0,nova scotia duck tolling retriever,pit bull terrier
+toxirn,,0.5,28.5,52.5,7.5,9.5,8.0,9.5,0,cairn terrier,chihuahua
+toy chisoxy,,0.43492907801418423,33.159574468085104,60.51418439716312,8.0,9.5,3.0,6.0,0,toy fox terrier,chihuahua
+toy fo-chon,,0.5349290780141842,25.659574468085104,40.51418439716312,9.75,10.75,7.0,12.5,0,bichon frise,toy fox terrier
+toy fo-tzu,,0.33492907801418426,53.159574468085104,70.51418439716312,9.0,10.5,6.5,11.5,0,shih tzu,toy fox terrier
+toy foodle,,0.7599290780141843,13.159574468085104,22.51418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,poodle,toy fox terrier
+toy fox beagle,,0.33492907801418426,53.159574468085104,70.51418439716312,11.5,13.0,11.0,18.5,0,toy fox terrier,beagle
+toy fox pinscher,,0.6349290780141843,20.659574468085104,33.01418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,miniature pinscher,toy fox terrier
+toy foxie doxie,,0.5349290780141842,25.659574468085104,40.51418439716312,8.5,10.0,10.0,19.5,0,toy fox terrier,dachshund
+toy foxillon,,0.7599290780141843,13.159574468085104,22.51418439716312,9.0,10.5,4.5,8.5,0,papillon,toy fox terrier
+toy foxingese,,0.33492907801418426,53.159574468085104,70.51418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,pekingese,toy fox terrier
+toy foxker,,0.7099290780141843,15.159574468085104,28.01418439716312,12.5,13.0,13.0,17.5,0,cocker spaniel,toy fox terrier
+toy foxton,,0.5349290780141842,25.659574468085104,40.51418439716312,12.0,12.5,9.5,16.0,0,boston terrier,toy fox terrier
+toy foxy russell,,0.5349290780141842,25.659574468085104,40.51418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,jack russell terrier,toy fox terrier
+toy foxybull terrier,,0.33492907801418426,53.159574468085104,70.51418439716312,11.0,13.0,27.0,33.5,0,toy fox terrier,bulldog
+toy gordondoodle,,0.6349290780141843,20.659574468085104,33.01418439716312,16.5,18.5,27.5,45.0,0,gordon setter,toy poodle
+toy jafox,,0.43492907801418423,33.159574468085104,60.51418439716312,9.0,10.5,4.0,9.0,0,japanese chin,toy fox terrier
+toy pom terrier,,0.7099290780141843,15.159574468085104,28.01418439716312,11.0,11.0,3.5,7.0,0,pomeranian,toy fox terrier
+toy poxer,,0.43492907801418423,33.159574468085104,60.51418439716312,10.0,10.5,9.0,14.5,0,pug,toy fox terrier
+toy scottish fox terrier,,0.43492907801418423,33.159574468085104,60.51418439716312,10.0,11.0,11.0,14.5,0,scottish terrier,toy fox terrier
+ttoodle,,0.625,21.0,42.0,15.970588235294118,18.954248366013072,31.46732026143791,43.76143790849673,0,poodle,tibetan terrier
+tzu basset,,0.1,81.0,100.0,11.0,12.5,24.5,33.0,0,basset hound,shih tzu
+vizmaraner,,0.85,5.0,15.0,36.5,46.5,46.0,55.0,0,vizsla,weimaraner
+vizsla pin,,0.7749999999999999,10.5,20.0,32.970588235294116,43.454248366013076,32.467320261437905,41.26143790849673,0,vizsla,miniature pinscher
+vizsla staff,,0.7749999999999999,10.5,20.0,32.5,42.5,31.0,37.5,0,vizsla,american staffordshire terrier
+weiler dane,,0.725,13.5,22.0,27.0,29.5,105.0,135.0,0,rottweiler,great dane
+weimapeake,,0.7749999999999999,10.5,20.0,23.0,26.5,62.5,80.0,0,weimaraner,chesapeake bay retriever
+weimardoodle,,0.8999999999999999,3.0,9.5,21.470588235294116,23.954248366013072,56.467320261437905,71.26143790849673,0,weimaraner,poodle
+weimarman,,0.8999999999999999,3.0,9.5,25.5,27.5,65.0,92.5,0,weimaraner,doberman pinscher
+weimarrott,,0.8999999999999999,3.0,9.5,23.5,27.0,80.0,97.5,0,weimaraner,rottweiler
+weimshepherd,,0.8999999999999999,3.0,9.5,23.5,26.5,72.5,87.5,0,weimaraner,german shepherd
+wel-chon,,0.5,26.0,40.0,12.25,13.25,15.0,19.5,0,bichon frise,welsh terrier
+welsh smooth fox terrier,,0.5,26.0,40.0,14.0,15.5,17.5,20.5,0,welsh terrier,smooth fox terrier
+welsh toy fox terrier,,0.5349290780141842,25.659574468085104,40.51418439716312,12.5,12.5,12.0,14.0,0,welsh terrier,toy fox terrier
+welsh wire fox terrier,,0.5,26.0,40.0,16.470588235294116,17.954248366013072,31.46732026143791,39.26143790849673,0,welsh terrier,wire fox terrier
+welshund,,0.5,26.0,40.0,11.0,12.5,18.0,26.5,0,welsh terrier,dachshund
+weltador,,0.725,13.5,22.0,18.0,19.5,37.5,50.5,0,labrador retriever,welsh terrier
+west australian terrier,,0.6,21.0,32.5,10.5,10.5,11.5,14.5,0,australian terrier,west highland white terrier
+west highland doxie,,0.5,26.0,40.0,9.0,10.5,14.5,23.5,0,dachshund,west highland white terrier
+west highland husky,,0.5,26.0,40.0,15.5,17.0,26.5,37.5,0,siberian husky,west highland white terrier
+west of argyll terrier,,0.3,53.5,70.0,12.0,13.5,15.5,22.5,0,beagle,west highland white terrier
+westeke,,0.675,15.5,27.5,10.5,12.0,12.5,16.5,0,west highland white terrier,schipperke
+westie-laso,,0.4,33.5,60.0,14.470588235294118,15.954248366013072,27.96732026143791,36.26143790849673,0,lhasa apso,west highland white terrier
+westie staff,,0.6,21.0,32.5,14.0,15.0,26.5,32.5,0,west highland white terrier,american staffordshire terrier
+westimo,,0.5349290780141842,25.659574468085104,40.51418439716312,10.0,15.0,19.0,22.5,0,american eskimo,west highland white terrier
+whipador,,0.725,13.5,22.0,19.5,23.0,41.0,55.0,0,whippet,labrador retriever
+whipperman,,0.725,13.5,22.0,22.0,25.0,43.5,65.0,0,whippet,doberman pinscher
+whippet greyhound,,0.5,26.0,40.0,22.5,26.0,43.5,50.0,0,whippet,greyhound
+whippet shepherd,,0.725,13.5,22.0,20.0,24.0,51.0,60.0,0,whippet,german shepherd
+wire chisoxy,,0.4,33.5,60.0,11.970588235294118,14.954248366013072,22.46732026143791,31.26143790849673,0,wire fox terrier,chihuahua
+wire fo-chon,,0.5,26.0,40.0,13.720588235294118,16.204248366013072,26.46732026143791,37.76143790849673,0,bichon frise,wire fox terrier
+wire fo-tzu,,0.3,53.5,70.0,12.970588235294118,15.954248366013072,25.96732026143791,36.76143790849673,0,shih tzu,wire fox terrier
+wire foodle,,0.725,13.5,22.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,poodle,wire fox terrier
+wire fox beagle,,0.3,53.5,70.0,15.470588235294118,18.454248366013072,30.46732026143791,43.76143790849673,0,wire fox terrier,beagle
+wire fox pinscher,,0.6,21.0,32.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,wire fox terrier,miniature pinscher
+wire foxie doxie,,0.5,26.0,40.0,12.470588235294118,15.454248366013072,29.46732026143791,44.76143790849673,0,wire fox terrier,dachshund
+wire foxingese,,0.3,53.5,70.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,pekingese,wire fox terrier
+wire foxker,,0.675,15.5,27.5,16.470588235294116,18.454248366013072,32.467320261437905,42.76143790849673,0,cocker spaniel,wire fox terrier
+wire foxton,,0.5,26.0,40.0,15.970588235294118,17.954248366013072,28.96732026143791,41.26143790849673,0,boston terrier,wire fox terrier
+wire foxy russell,,0.5,26.0,40.0,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,jack russell terrier,wire fox terrier
+wire foxybull terrier,,0.3,53.5,70.0,14.970588235294118,18.454248366013072,46.467320261437905,58.76143790849673,0,wire fox terrier,bulldog
+wire hair snauzer,,0.675,15.5,27.5,17.941176470588236,20.908496732026144,42.93464052287582,57.52287581699346,0,miniature schnauzer,wire fox terrier
+wire jafox,,0.4,33.5,60.0,12.970588235294118,15.954248366013072,23.46732026143791,34.26143790849673,0,japanese chin,wire fox terrier
+wire toy foxter,,0.5349290780141842,25.659574468085104,40.51418439716312,13.970588235294118,15.454248366013072,23.46732026143791,32.26143790849673,0,toy fox terrier,wire fox terrier
+wire pom terrier,,0.675,15.5,27.5,14.970588235294118,16.454248366013072,22.96732026143791,32.26143790849673,0,pomeranian,wire fox terrier
+wire poxer,,0.4,33.5,60.0,13.970588235294118,15.954248366013072,28.46732026143791,39.76143790849673,0,pug,wire fox terrier
+wire scottish fox terrier,,0.4,33.5,60.0,13.970588235294118,16.454248366013072,30.46732026143791,39.76143790849673,0,scottish terrier,wire fox terrier
+wirehaired pointing griffiondor,,0.725,13.5,22.0,20.5,24.0,50.0,70.0,0,wirehaired pointing griffon,labrador retriever
+wirelsh terrier,,0.5,26.0,40.0,16.470588235294116,17.954248366013072,31.46732026143791,39.26143790849673,0,welsh terrier,wire fox terrier
+wolfhound dane,,0.5,26.0,40.0,30.0,33.5,105.0,155.0,0,irish wolfhound,great dane
+woodle,,0.725,13.5,22.0,16.470588235294116,17.954248366013072,31.46732026143791,39.26143790849673,0,welsh terrier,poodle
+wowauzer,,0.675,15.5,27.5,16.470588235294116,17.954248366013072,31.46732026143791,39.26143790849673,0,miniature schnauzer,welsh terrier
+yoranian,,0.7749999999999999,10.5,20.0,10.0,10.0,3.0,7.0,0,pomeranian,yorkshire terrier
+yorkie-apso,,0.5,28.5,52.5,12.970588235294118,14.454248366013072,22.96732026143791,32.26143790849673,0,lhasa apso,yorkshire terrier
+yorkie beagle,,0.39999999999999997,48.5,62.5,10.5,12.0,10.5,18.5,0,yorkshire terrier,beagle
+yorkie pin,,0.7,16.0,25.0,12.970588235294118,14.454248366013072,22.96732026143791,32.26143790849673,0,miniature pinscher,yorkshire terrier
+yorkie russell,,0.6,21.0,32.5,12.970588235294118,14.454248366013072,22.96732026143791,32.26143790849673,0,yorkshire terrier,jack russell terrier
+yorkillon,,0.825,8.5,14.5,8.0,9.5,4.0,8.5,0,papillon,yorkshire terrier
+yorksky,,0.6,21.0,32.5,14.0,15.5,21.5,33.5,0,siberian husky,yorkshire terrier
+yorktese,,0.5,28.5,52.5,8.0,9.0,3.5,6.5,0,yorkshire terrier,maltese
+yorwich,,0.7,16.0,25.0,12.970588235294118,14.454248366013072,22.96732026143791,32.26143790849673,0,yorkshire terrier,norwich terrier
+zuchon,,0.3,53.5,70.0,8.75,11.25,9.5,17.0,0,bichon frise,shih tzu
+aussie pom,,0.675,15.5,27.5,15.0,17.5,21.5,33.5,0,australian shepherd,pomeranian
+austi-pap,,0.725,13.5,22.0,13.0,17.0,22.5,35.0,0,australian shepherd,papillon
+beagi,,0.475,43.0,57.5,11.5,14.0,21.5,32.5,0,beagle,cardigan welsh corgi
+cotralian,,0.675,15.5,27.5,16.5,19.5,31.0,44.0,0,cocker spaniel,australian shepherd
+english cotralian,,0.675,15.5,27.5,16.5,20.0,32.5,47.5,0,english cocker spaniel,australian shepherd
+labradoodle miniature,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,19.5,37.5,50.0,0,labrador retriever,miniature poodle
+labradoodle miniature,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,17.0,32.5,45.0,0,labrador retriever,toy poodle
+miniature goldendoodle,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,19.5,37.5,47.5,0,golden retriever,miniature poodle
+miniature goldendoodle,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,17.0,32.5,42.5,0,golden retriever,toy poodle
+miniature labradoodle,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,19.5,37.5,50.0,0,labrador retriever,miniature poodle
+miniature labradoodle,,0.7599290780141843,13.159574468085104,22.51418439716312,15.5,17.0,32.5,45.0,0,labrador retriever,toy poodle
+old anglican bulldogge,,0.39999999999999997,48.5,62.5,14.5,17.5,45.0,55.0,0,american pit bull terrier,bulldog
+old anglican bulldogge,,0.39999999999999997,48.5,62.5,14.5,17.5,45.0,55.0,0,american staffordshire terrier,bulldog
+shel-aussie,,0.725,13.5,22.0,17.970588235294116,21.954248366013072,41.467320261437905,58.76143790849673,0,australian shepherd,shetland sheepdog
+sibercaan,,0.5349290780141842,25.659574468085104,40.51418439716312,19.5,23.5,37.5,57.5,0,siberian husky,canaan dog
+labrabull,,0.825,8.5,14.5,19.0,21.5,47.5,65.0,0,labrador retriever,pit bull

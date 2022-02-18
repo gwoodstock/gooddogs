@@ -1,6 +1,14 @@
 [theme]
+<<<<<<< HEAD
 base="dark"
 primaryColor="#9b503f"
 backgroundColor="#eae1c7"
 secondaryBackgroundColor="#9b503f"
 textColor="#000000"
+=======
+base="light"
+primaryColor="#b9641f"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#eae1c7"
+textColor="#5a2519"
+>>>>>>> main

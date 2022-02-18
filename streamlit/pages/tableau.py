@@ -5,9 +5,9 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 def main():
-    st.header('insert header for page here')
+    st.header('Explore Shelter Dog Data')
 
-    st.text('Insert executive summary/info about project here')
+    # st.text('Insert executive summary/info about project here')
 
     # st.sidebar.image(
     #     'https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9nfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=800&q=60',

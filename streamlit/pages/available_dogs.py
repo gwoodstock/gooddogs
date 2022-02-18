@@ -26,11 +26,11 @@ def app():
     )
 
     # load classifier
-    with open('./model_rfc.pkl', 'rb') as f:
+    with open('../model_rfc.pkl', 'rb') as f:
         classifier = pickle.load(f)
 
     # load transformer
-    with open('./encode_data.pkl', 'rb') as f:
+    with open('../encode_data.pkl', 'rb') as f:
         transformer = pickle.load(f)
 
     # user input: enter location for search

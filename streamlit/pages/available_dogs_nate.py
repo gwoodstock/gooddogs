@@ -6,6 +6,8 @@ import pickle
 from predict import predict_dog
 from clean_breeds import breed_func
 
+from pathlib import Path
+
 
 def app():
     st.sidebar.image(
@@ -29,13 +31,15 @@ def app():
         key='Ww9PL1UlVo7Wdj0DeGkkRo6PXKCXdsStCMKQ2Jc9CYvX5OTNPX', 
         secret='7RNX05UlYJdUIbhy90BfgGwG0ZuwWkQTMNeIYAGk',
     )
-
+    
+    pkl_path = Path(__file__).parents[1] / 'pages/model_rfc.pkl'
     # load classifier
-    with open('./model_rfc.pkl', 'rb') as f:
+    with open(pkl_path, 'rb') as f:
         classifier = pickle.load(f)
-
+    
+    pkl_path = Path(__file__).parents[1] / 'pages/encode_data.pkl'
     # load transformer
-    with open('./encode_data.pkl', 'rb') as f:
+    with open(pkl_path, 'rb') as f:
         transformer = pickle.load(f)
 
     # user input: enter location for search

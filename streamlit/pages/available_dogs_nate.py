@@ -8,9 +8,13 @@ from clean_breeds import breed_func
 
 
 def app():
+    st.sidebar.image(
+        'https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9nfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=800&q=60',
+        use_column_width=True
+        )
 
     # page header
-    st.header('Insert header for page here') 
+    st.header('Find a Dog to Adopt') 
 
     # imports 
     import petpy
@@ -46,7 +50,7 @@ def app():
             with st.spinner('Finding Available Dogs'):
                 dogs = pf.animals(
                     pages=1,
-                    results_per_page=10, 
+                    results_per_page=100, 
                     return_df=True, 
                     animal_type='dog', 
                     location=f'{zipcode}',
@@ -121,8 +125,9 @@ def app():
                     with col3:
                         # dog's name and details
                         st.subheader(dogs_copy.iloc[i]['name'])
-                        st.metric('At Risk %', dogs_copy.iloc[i]['pred'])
-                        st.metric('Text', dogs_copy.loc[i, 'pred_label'])
+                        # st.metric('At Risk %', dogs_copy.iloc[i]['pred'])
+                        # st.metric(dogs_copy.loc[i, 'pred_label'])
+                        st.metric('Status:', dogs_copy.loc[i, 'pred_label'])
                         st.write('Breed: ', dogs_copy.iloc[i]['breeds.primary'])
                         st.write('Size: ', dogs_copy.iloc[i]['size'])
                         st.write('Gender: ', dogs_copy.iloc[i]['gender'])

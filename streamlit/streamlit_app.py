@@ -13,7 +13,7 @@ app = MultiPage()
 st.title("Insert project title here")
 
 # Add all your applications (pages) here
-app.add_page("Shelter Dog Information", tableau.main)
+app.add_page("Explore Shelter Dog Data", tableau.main)
 app.add_page("Find Your New Friend!", available_dogs_nate.app)
 
 # The main app

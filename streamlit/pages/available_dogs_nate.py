@@ -121,8 +121,9 @@ def app():
                     with col3:
                         # dog's name and details
                         st.subheader(dogs_copy.iloc[i]['name'])
-                        st.metric('At Risk %', dogs_copy.iloc[i]['pred'])
-                        st.metric('Text', dogs_copy.loc[i, 'pred_label'])
+                        # st.metric('At Risk %', dogs_copy.iloc[i]['pred'])
+                        # st.metric(dogs_copy.loc[i, 'pred_label'])
+                        st.metric('Status:', dogs_copy.loc[i, 'pred_label'])
                         st.write('Breed: ', dogs_copy.iloc[i]['breeds.primary'])
                         st.write('Size: ', dogs_copy.iloc[i]['size'])
                         st.write('Gender: ', dogs_copy.iloc[i]['gender'])

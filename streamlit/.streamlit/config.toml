@@ -1,4 +1,5 @@
 [theme]
+[base] ='light'
 primaryColor="#c95144"
 backgroundColor="#e5dbbb"
 secondaryBackgroundColor="#a95018"

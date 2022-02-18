@@ -1,4 +1,5 @@
 import streamlit as st
+import pickle
 
 # Custom imports 
 from multipage import MultiPage

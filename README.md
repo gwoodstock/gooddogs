@@ -1,5 +1,7 @@
 # Project 4: GOOD DOGS App
 
+Here is a Tableau Dashboard to explore the dogs in the shelter data. [Check it out!](https://public.tableau.com/app/profile/anna.rutledge4407/viz/FindyourDog/Dashboard1)
+
 <br>
 
 # Authors
@@ -144,6 +146,15 @@ We decided a dog was at risk if they were in a shelter for more than 20 days.
 </details>
 
 <br>
+
+## Plot:
+
+Daily Shelter Arrivals
+
+<img src='presentation_images/rolling_avg.png'>
+
+*Interpretation: The massive drop-off in New Dogs/Day in April 2020 coincides with the Shelter In Place (Covid) being instituted in March 2020. Many dogs were adopted around this time to keep people company at home. Since then, there has been a steady increase in dogs in shelters as adoptions have slowed down.*
+
 <br>
 
 # Models
@@ -159,32 +170,20 @@ The baseline our model was attempting to beat was 54.1%. This represents the val
 
 A Neural Net, XGBoost Classifier, and a Random Forest Classifier were our best models. All three scored very close to each other right around 64.0%. These models resulted in about a 10% increase over the baseline in predicting if a dog is consider "at risk."
 
-
 <br>
 
 # Conclusions
+
 Our app can help Austin Animal Center and shelters all around the country increase exposure of dogs at risk of experiencing long adoption wait times.
 
 <br>
 
 # Limitations and Next Steps
-Limitations:
-1) Finding Signal
-   - Intelligence not predictive
-   - Limited data crossover for Shelter & PetFinder
-2) Inconsistent & Missing Data
-   - Intake & Outcome Shelter data misaligned
-3) Historical data unavailable from PetFinder
 
+Limitations encountered during this project include inconsistent and missing elements in the datasets and challenges with finding signal in the data once it was collected and merged. 
 
-Next steps:
+Data from multiple sources including the Austin Animal Shelters intakes and outcomes documentation, the active Petfinder feed of adoptable dogs, and the datasets containing the intelligence and working classifications of various dog breeds were combined. Misalignments in these datasets, including instances of the same animals appearing at different points or in different quantities in both the Austin intakes and the Austin outcomes datasets, were addressed through data cleaning and feature engineering. Similar strategies were used to account for limited feature crossover in the animal shelter and scraped Petfinder datasets. However, some remaining inconsistencies and gaps represent limitations to the utilization of the data and models collected. We hope to address these in the future with the collection of more data representing animal shelters in a greater geographical area.
 
-1) Model Improvement
-   - Voting ensemble
-2) More Data
-   - Daily PetFinder data
-   - Data from more shelters
-3) Design
-   - More app features
-4) Go International
-   - Dogs around the world!!
+In the modeling process, we were surprised to find a lack of signal in some features of the data which we expected to have a more a significant impact than they ultimately did. In particular, the features related to dog breed intelligence and working capability did not seem to have an effect on the dog’s likelihood of being adopted. Due to these findings, are production model is based only on the three features of condition (normal or not - meaning injured, pregnant, behavioral act), breed, and age.
+
+In addition to further data collection both from animal shelters around the country and Petfinder, next steps for this project include improvement of the production model and web application. Our goal is to continue to improve the accuracy of the model utilized in order to better identify and feature at risk dogs. The immediate next step in the model improvement process will be to test an ensemble model combining some of the best results we have been able to attain so far. We would also like to continue to update the web app to increase user friendliness and the display of our data visualizations. Finally, we hope to expand the reach of our data collection, modeling, and we application in order to help dogs find homes not just in the US but around the world.

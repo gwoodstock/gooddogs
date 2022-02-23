@@ -15,12 +15,12 @@ General Assembly DSI-1213
 <br>
 
 # Contents:
-- Executive Summary
-- Problem Statement
-- Data
-- Models
-- Conclusions
-- Limitations and next steps
+- [Executive Summary](https://github.com/gwoodstock/gooddogs/blob/main/README.md#summary)
+- [Problem Statement](https://github.com/gwoodstock/gooddogs/blob/main/README.md#problem-statement)
+- [Data](https://github.com/gwoodstock/gooddogs/blob/main/README.md#data)
+- [Models](https://github.com/gwoodstock/gooddogs/blob/main/README.md#models)
+- [Conclusions](https://github.com/gwoodstock/gooddogs/blob/main/README.md#conclusions)
+- [Limitations](https://github.com/gwoodstock/gooddogs/blob/main/README.md#limitations-and-next-steps)
 
 <br>
 

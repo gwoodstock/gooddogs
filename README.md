@@ -14,7 +14,7 @@ General Assembly DSI-1213
 
 <br>
 
-# Contents:
+# Table of Contents
 - [Executive Summary](https://github.com/gwoodstock/gooddogs/blob/main/README.md#summary)
 - [Problem Statement](https://github.com/gwoodstock/gooddogs/blob/main/README.md#problem-statement)
 - [Data](https://github.com/gwoodstock/gooddogs/blob/main/README.md#data)

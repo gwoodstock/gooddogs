@@ -1,6 +1,6 @@
 # Project 4: GOOD DOGS App
 
-###[Launch the Application](https://share.streamlit.io/gwoodstock/gooddogs/main/streamlit/streamlit_app.py)\
+### [Launch the Application](https://share.streamlit.io/gwoodstock/gooddogs/main/streamlit/streamlit_app.py)\
 Find a dog in your area to adopt today!
 
 Here is a Tableau Dashboard to explore the dogs in the shelter data. [Check it out!](https://public.tableau.com/app/profile/anna.rutledge4407/viz/FindyourDog/Dashboard1)

@@ -48,7 +48,7 @@ def app():
         transformer = pickle.load(f)
 
     # user input: enter location for search
-    location = st.text_input('Enter Your Zipcode or Location as city, state:')
+    location = st.text_input('Enter Your City, State or Zipcode:')
 
     # initialize dogs
     dogs = []

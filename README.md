@@ -1,4 +1,4 @@
-# Project 4: Good Dogs
+# Good Dogs
 
 ### [Launch the Application](https://share.streamlit.io/gwoodstock/gooddogs/main/streamlit/streamlit_app.py)
 Find a dog in your area to adopt today!

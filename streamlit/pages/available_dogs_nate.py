@@ -33,8 +33,8 @@ def app():
 
     # set up petfinder search
     pf = petpy.Petfinder(
-        key='Ww9PL1UlVo7Wdj0DeGkkRo6PXKCXdsStCMKQ2Jc9CYvX5OTNPX', 
-        secret='7RNX05UlYJdUIbhy90BfgGwG0ZuwWkQTMNeIYAGk',
+        key=key, 
+        secret=secret,
     )
     
     pkl_path = Path(__file__).parents[1] / 'pages/model_rfc.pkl'

@@ -24,7 +24,7 @@ General Assembly DSI-1213
 
 <br>
 
-# Executive Summary
+# Summary
 It came to our attention that many animal shelters are going through a tough time lately. They are experiencing capacity problems and some of them have already reached their space and resources limits, for example Austin Animal Center.
  
 This shelter has a no kill policy and for years their main goal has been to find forever homes for all adoptable animals. Austin Animal Center has been accepting and taking care of thousands of animals annually regardless of age, health, species or breed. On Feb 10th Austin Animal Center announced they are nearing capacity and are unable to accept medium and large dogs, and asked the community for help. So our team decided to respond.

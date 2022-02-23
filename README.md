@@ -3,7 +3,8 @@
 ### [Launch the Application](https://share.streamlit.io/gwoodstock/gooddogs/main/streamlit/streamlit_app.py)
 Find a dog in your area to adopt today!
 
-[Explore the data](https://public.tableau.com/app/profile/anna.rutledge4407/viz/FindyourDog/Dashboard1) on the Tableau Dashboard
+### [Explore the data](https://public.tableau.com/app/profile/anna.rutledge4407/viz/FindyourDog/Dashboard1) 
+Visualize the data on Tableau
 <br>
 
 # Authors

@@ -3,7 +3,7 @@ import pickle
 
 # Custom imports 
 from multipage import MultiPage
-from pages import tableau, available_dogs, available_dogs_nate # import your pages here
+from pages import tableau, available_dogs
 
 # Create an instance of the app 
 app = MultiPage()
@@ -14,7 +14,7 @@ app = MultiPage()
 st.title("Good Dogs")
 
 # Add all your applications (pages) here
-app.add_page("Find Your New Friend!", available_dogs_nate.app)
+app.add_page("Find Your New Friend!", available_dogs.app)
 app.add_page("Explore Shelter Dog Data", tableau.main)
 
 # The main app

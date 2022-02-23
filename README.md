@@ -46,10 +46,6 @@ Some dogs experience extremely long adoption wait times. Shelters are struggling
 
 # Data
 
-## Size:
-
-<br>
-
 ## Sources:
 
 1) [Austin Animal Center](https://github.com/gwoodstock/project4/blob/main/datasets/cleaned_data/austin.csv)
@@ -58,23 +54,23 @@ Some dogs experience extremely long adoption wait times. Shelters are struggling
 
 2) [Dog Inteligence](https://github.com/gwoodstock/project4/blob/main/datasets/raw_data/dog_intelligence.csv)
 
-    - [Original Source](https://data.world/len/intelligence-of-dogs)
+    - Adapted from [The Intelligence of Dogs](https://www.goodreads.com/book/show/396926.The_Intelligence_of_Dogs) by Prof. Stanley Coren. [Original Source](https://data.world/len/intelligence-of-dogs)
 
 3) [Dog Breed Size](https://github.com/gwoodstock/project4/blob/main/datasets/raw_data/akc_breed_info.csv)
 
-    - [Original Source](https://data.world/len/dog-canine-breed-size-akc)
+    - Metrics compiled by the American Kennel Club. [Original Source](https://data.world/len/dog-canine-breed-size-akc)
 
 
 4) [Petfinder](https://github.com/gwoodstock/project4/blob/main/datasets/raw_data/petfinder.csv)
 
-    - Used the [Petfinder API](https://www.petfinder.com/developers/) to gather this data
+    - Utilized the [Petfinder API](https://www.petfinder.com/developers/) to gather data on dogs up for adoption.
 
 <br>
 
 ## Target:
 
-The target was the time a dog is in a shelter before it gets adopted. We turned the time in shelter into two values. “At Risk” and “Low Risk”
-We decided a dog was at risk if they were in a shelter for more than 20 days.
+Time a dog is in a shelter before they get adopted. We categorized the time in shelter as two values. “At Risk” and “Low Risk.”
+We decided a dog was at risk if they were in a shelter for longer than the average duration of 20 days.
 
 <br>
 
@@ -156,7 +152,7 @@ Daily Shelter Arrivals
 
 <img src='presentation_images/rolling_avg.png'>
 
-*Interpretation: The massive drop-off in New Dogs/Day in April 2020 coincides with the Shelter In Place (Covid) being instituted in March 2020. Many dogs were adopted around this time to keep people company at home. Since then, there has been a steady increase in dogs in shelters as adoptions have slowed down.*
+*Interpretation: The massive drop-off in New Dogs/Day in April 2020 coincides with the Shelter In Place (COVID 19) being instituted in March 2020. Many dogs were adopted around this time to keep people company at home. Since then, there has been a steady increase in dogs arriving at shelters and adoption rates have slowed down.*
 
 <br>
 

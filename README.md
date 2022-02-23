@@ -27,7 +27,13 @@ General Assembly DSI-1213
 # Executive Summary
 It came to our attention that many animal shelters are going through a tough time lately. They are experiencing capacity problems and some of them have already reached their space and resources limits, for example Austin Animal Center.
  
-This shelter has a no kill policy and for years their main goal has been to find forever homes for all adoptable animals. Austin Animal Center has been accepting and taking care of thousands of animals annually regardless of age, health, species or breed. On Feb 10th Austin Animal Center announced they are nearing capacity and are unable to accept medium and large dogs, and asked the community for help. So our team decided to respond.
+This shelter has a no kill policy and for years their main goal has been to find forever homes for all adoptable animals. Austin Animal Center has been accepting and taking care of thousands of animals annually regardless of age, health, species or breed. On Feb 10th Austin Animal Center announced they are nearing capacity and are unable to accept medium and large dogs, and asked the community for help. So our team decided to respond. \
+
+Daily Shelter Arrivals
+
+<img src='presentation_images/rolling_avg.png'>
+
+*Interpretation: The massive drop-off in New Dogs/Day in April 2020 coincides with the Shelter In Place (COVID 19) being instituted in March 2020. Many dogs were adopted around this time to keep people company at home. Since then, there has been a steady increase in dogs arriving at shelters and adoption rates have slowed down.* \
  
 We started with datasets, provided by Austin Animal Center and The Intelligence of Dogs dataset (1994). Our idea was to identify dogs AT RISK to experience extremely long adoption wait times, and help these dogs to be adopted faster. To be able to make predictions we had to clean our data and use a variety of features to find valuable correlations.
  
@@ -143,16 +149,6 @@ We decided a dog was at risk if they were in a shelter for longer than the avera
 |breed|string|model_data.csv|The primary breed of the dog|
 |target|int|model_data.csv|Whether a dog is considered at risk. At risk = 1, low risk = 0|
 </details>
-
-<br>
-
-## Plot:
-
-Daily Shelter Arrivals
-
-<img src='presentation_images/rolling_avg.png'>
-
-*Interpretation: The massive drop-off in New Dogs/Day in April 2020 coincides with the Shelter In Place (COVID 19) being instituted in March 2020. Many dogs were adopted around this time to keep people company at home. Since then, there has been a steady increase in dogs arriving at shelters and adoption rates have slowed down.*
 
 <br>
 
